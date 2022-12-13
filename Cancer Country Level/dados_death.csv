@@ -1,0 +1,2814 @@
+,Condado,Código Federal,"Objetivo Taxa Mortalidade (45,5)",Taxa Mortalidade por Idade,Média de Mortes/Ano,Tendência Recente,Tendência recente taxas de mortalidade (5 anos)
+0,United States,0,No,46,"157,376",falling,-2.4
+1,"Perry County, Kentucky",21193,No,125.6,43,stable,-0.6
+2,"Powell County, Kentucky",21197,No,125.3,18,stable,1.7
+3,"North Slope Borough, Alaska",2185,No,124.9,5,**,**
+4,"Owsley County, Kentucky",21189,No,118.5,8,stable,2.2
+5,"Union County, Florida",12125,No,113.5,19,falling,-2.2
+6,"McCreary County, Kentucky",21147,No,111.1,22,rising,22.9
+7,"Leslie County, Kentucky",21131,No,110.3,16,stable,0.8
+8,"Martin County, Kentucky",21159,No,109.1,14,stable,1.3
+9,"Menifee County, Kentucky",21165,No,106,9,stable,1.4
+10,"Jackson County, Kentucky",21109,No,104.6,17,stable,0.8
+11,"Poinsett County, Arkansas",5111,No,103.5,33,stable,-0.2
+12,"Polk County, Tennessee",47139,No,103.3,25,stable,0.5
+13,"Floyd County, Kentucky",21071,No,98.7,47,stable,0.6
+14,"Casey County, Kentucky",21045,No,98.5,21,stable,0.6
+15,"Madison County, Missouri",29123,No,98.5,17,stable,-0.3
+16,"Mississippi County, Missouri",29133,No,97.2,17,stable,0.3
+17,"Clay County, Kentucky",21051,No,96.5,22,stable,1.2
+18,"Nome Census Area, Alaska",2180,No,96.1,6,**,**
+19,"Letcher County, Kentucky",21133,No,96.1,29,stable,-0.4
+20,"Whitley County, Kentucky",21235,No,95.6,39,stable,-0.2
+21,"Harlan County, Kentucky",21095,No,95.3,34,stable,0.6
+22,"Logan County, West Virginia",54045,No,95.1,45,falling,-1.1
+23,"Scott County, Tennessee",47151,No,94.9,24,stable,-0.1
+24,"Ohio County, Kentucky",21183,No,94.6,28,stable,0.3
+25,"Bracken County, Kentucky",21023,No,92.7,9,stable,0.1
+26,"Johnson County, Kentucky",21115,No,92.5,27,stable,0.2
+27,"Carter County, Missouri",29035,No,92.3,8,stable,1.2
+28,"Trimble County, Kentucky",21223,No,91.9,9,stable,0.9
+29,"Phillips County, Arkansas",5107,No,90.8,23,stable,0.2
+30,"Lee County, Kentucky",21129,No,90.8,9,stable,-0.5
+31,"Pemiscot County, Missouri",29155,No,90.5,19,stable,0.1
+32,"Hart County, Kentucky",21099,No,90.2,21,stable,0.3
+33,"Nicholas County, Kentucky",21181,No,89.6,8,stable,-0.1
+34,"Henry County, Kentucky",21103,No,89.3,17,stable,1.5
+35,"Rockcastle County, Kentucky",21203,No,89.2,19,stable,0.5
+36,"Upton County, Texas",48461,No,89.1,3,**,**
+37,"Benton County, Tennessee",47005,No,89,22,stable,0.9
+38,"Fulton County, Kentucky",21075,No,88.9,9,stable,0.5
+39,"Lake County, Tennessee",47095,No,88.9,8,stable,0.4
+40,"Caldwell County, Kentucky",21033,No,88,16,stable,0.6
+41,"Grayson County, Kentucky",21085,No,87.9,28,rising,6.8
+42,"Wayne County, Missouri",29223,No,87.9,19,stable,0.3
+43,"Madison County, Mississippi",28089,No,87.4,78,falling,-8.6
+44,"Quitman County, Georgia",13239,No,87.2,4,**,**
+45,"Meade County, Kentucky",21163,No,87,24,stable,-0.2
+46,"Campbell County, Tennessee",47013,No,86.8,49,stable,0.1
+47,"Mason County, Kentucky",21161,No,86.6,19,stable,0.5
+48,"Sequatchie County, Tennessee",47153,No,86.6,16,rising,2.2
+49,"McDowell County, West Virginia",54047,No,86.6,26,stable,0.4
+50,"Knott County, Kentucky",21119,No,85.9,17,stable,-0.3
+51,"Knox County, Kentucky",21121,No,85.9,33,stable,0.1
+52,"Lee County, Virginia",51105,No,85.9,28,stable,0.2
+53,"Pike County, Kentucky",21195,No,85.4,67,stable,-0.3
+54,"Lawrence County, Kentucky",21127,No,85.1,16,stable,-0.1
+55,"Overton County, Tennessee",47133,No,84.8,26,stable,0.1
+56,"Lee County, Mississippi",28081,No,84.5,77,rising,2.2
+57,"New Madrid County, Missouri",29143,No,84.5,21,stable,0.8
+58,"Monroe County, Kentucky",21171,No,84.3,12,stable,0.3
+59,"Buena Vista City, Virginia",51530,No,84.3,6,stable,0.5
+60,"Claiborne County, Tennessee",47025,No,84.2,36,stable,0.3
+61,"Liberty County, Florida",12077,No,84.1,7,stable,0.1
+62,"Russell County, Kentucky",21207,No,84.1,21,stable,1
+63,"Lewis County, Kentucky",21135,No,84.1,14,stable,0.6
+64,"Cocke County, Tennessee",47029,No,84.1,42,stable,0.5
+65,"Metcalfe County, Kentucky",21169,No,84,11,stable,0.5
+66,"Gallatin County, Kentucky",21077,No,83.8,8,stable,-0.6
+67,"Arenac County, Michigan",26011,No,83.8,21,stable,0.5
+68,"Henry County, Missouri",29083,No,83.6,28,stable,0.9
+69,"Jackson County, Arkansas",5067,No,83.5,19,rising,1.8
+70,"Estill County, Kentucky",21065,No,83.5,16,stable,1
+71,"Howard County, Arkansas",5061,No,83.1,14,stable,1.2
+72,"Mingo County, West Virginia",54059,No,83.1,27,stable,-0.8
+73,"Fentress County, Tennessee",47049,No,83,21,stable,0
+74,"Mahnomen County, Minnesota",27087,No,82.7,6,rising,3.4
+75,"Lawrence County, Arkansas",5075,No,82.3,20,stable,-0.5
+76,"Ripley County, Missouri",29181,No,82,17,stable,0.6
+77,"Grundy County, Tennessee",47061,No,81.9,16,stable,1.3
+78,"Martinsville City, Virginia",51690,No,81.9,17,rising,1.7
+79,"Simpson County, Kentucky",21213,No,81.7,17,stable,1.6
+80,"Livingston County, Kentucky",21139,No,81.6,12,stable,0.1
+81,"Taylor County, Kentucky",21217,No,81.6,26,stable,0.6
+82,"Pushmataha County, Oklahoma",40127,No,81.6,14,stable,-0.8
+83,"Lewis County, Tennessee",47101,No,81.6,13,stable,-0.1
+84,"Morgan County, Kentucky",21175,No,81.5,13,stable,0.8
+85,"Knox County, Missouri",29103,No,81.5,5,**,**
+86,"Ritchie County, West Virginia",54085,No,81.5,12,stable,1.1
+87,"Boone County, West Virginia",54005,No,81.5,25,stable,-0.3
+88,"Hancock County, Kentucky",21091,No,81.4,9,stable,1.4
+89,"Smith County, Tennessee",47159,No,81.4,18,stable,1.4
+90,"Butts County, Georgia",13035,No,81.3,20,rising,1.5
+91,"Scott County, Indiana",18143,No,81.2,23,stable,-0.7
+92,"Dunklin County, Missouri",29069,No,81.2,33,stable,-0.1
+93,"Washington County, Missouri",29221,No,81.1,24,stable,0.6
+94,"Coal County, Oklahoma",40029,No,81.1,7,stable,0.8
+95,"Webster County, West Virginia",54101,No,81,10,stable,-0.1
+96,"Houston County, Tennessee",47083,No,80.8,10,stable,0.9
+97,"Ohio County, Indiana",18115,No,80.6,7,stable,0.4
+98,"Trigg County, Kentucky",21221,No,80.6,17,stable,-0.7
+99,"McDonald County, Missouri",29119,No,80.6,19,stable,0.4
+100,"Cheatham County, Tennessee",47021,No,80.6,32,stable,-0.8
+101,"Clinton County, Kentucky",21053,No,80.5,11,stable,1.3
+102,"Marion County, Texas",48315,No,80.3,14,stable,0.5
+103,"Hamilton County, Illinois",17065,No,80.2,10,stable,1.6
+104,"Clay County, Arkansas",5021,No,80.1,20,stable,-0.3
+105,"Chautauqua County, Kansas",20019,No,80.1,5,**,**
+106,"Switzerland County, Indiana",18155,No,80,10,stable,-0.9
+107,"Breckinridge County, Kentucky",21027,No,80,21,stable,0.5
+108,"Wyoming County, West Virginia",54109,No,80,24,stable,0.1
+109,"Vermillion County, Indiana",18165,No,79.9,18,stable,-0.2
+110,"Jackson County, Tennessee",47087,No,79.9,14,stable,0.1
+111,"Walker County, Alabama",1127,No,79.8,71,stable,-0.1
+112,"St. Bernard Parish, Louisiana",22087,No,79.8,26,stable,0.1
+113,"Garrard County, Kentucky",21079,No,79.6,16,rising,3
+114,"Wayne County, Kentucky",21231,No,79.5,22,stable,-0.5
+115,"Smyth County, Virginia",51173,No,79.5,36,stable,0.7
+116,"Dade County, Georgia",13083,No,79.3,16,stable,-0.6
+117,"Benton County, Indiana",18007,No,79.3,9,rising,2.3
+118,"Tattnall County, Georgia",13267,No,79.1,20,stable,0.7
+119,"Calhoun County, West Virginia",54013,No,79,9,stable,-0.7
+120,"Crittenden County, Kentucky",21055,No,78.8,10,stable,-0.9
+121,"Lauderdale County, Tennessee",47097,No,78.7,23,stable,0
+122,"Perry County, Arkansas",5105,No,78.5,11,stable,1.6
+123,"Yalobusha County, Mississippi",28161,No,78.4,14,rising,1.6
+124,"Lafayette County, Florida",12067,No,78.3,7,stable,0.6
+125,"Butler County, Missouri",29023,No,78.3,46,stable,-0.2
+126,"Union County, Kentucky",21225,No,78.2,13,stable,0.4
+127,"Prentiss County, Mississippi",28117,No,78.2,24,stable,0.6
+128,"De Witt County, Illinois",17039,No,78.1,17,stable,0.9
+129,"Daviess County, Kentucky",21059,No,78.1,92,stable,-0.5
+130,"Anderson County, Kentucky",21005,No,78,18,stable,1.3
+131,"Logan County, Kentucky",21141,No,77.8,26,stable,0.3
+132,"McNairy County, Tennessee",47109,No,77.8,28,stable,0.8
+133,"Franklin County, Florida",12037,No,77.7,12,stable,-0.9
+134,"Wolfe County, Kentucky",21237,No,77.6,7,stable,-0.4
+135,"Hughes County, Oklahoma",40063,No,77.6,15,stable,0.6
+136,"Polk County, Georgia",13233,No,77.5,37,stable,0
+137,"Rhea County, Tennessee",47143,No,77.5,31,stable,-0.8
+138,"Macon County, Tennessee",47111,No,77.5,21,stable,0
+139,"Bath County, Kentucky",21011,No,77.4,11,stable,1
+140,"Levy County, Florida",12075,No,77.3,49,stable,-0.3
+141,"Muhlenberg County, Kentucky",21177,No,77.3,32,stable,-0.8
+142,"Ray County, Missouri",29177,No,77.3,22,stable,0.1
+143,"Perry County, Tennessee",47135,No,77.3,9,stable,-0.2
+144,"Lincoln County, West Virginia",54043,No,77.3,22,stable,-0.4
+145,"George County, Mississippi",28039,No,76.9,18,stable,-0.3
+146,"Lafayette County, Arkansas",5073,No,76.8,9,stable,-0.8
+147,"Caldwell Parish, Louisiana",22021,No,76.8,10,stable,0.3
+148,"Griggs County, North Dakota",38039,No,76.8,4,**,**
+149,"St. Francois County, Missouri",29187,No,76.7,59,stable,-0.5
+150,"Henry County, Tennessee",47079,No,76.7,38,stable,0
+151,"Accomack County, Virginia",51001,No,76.7,38,stable,-0.6
+152,"Butler County, Kentucky",21031,No,76.6,12,stable,0.3
+153,"Webster County, Mississippi",28155,No,76.6,10,stable,1.2
+154,"Craig County, Oklahoma",40035,No,76.6,16,stable,0
+155,"Bristol City, Virginia",51520,No,76.6,20,stable,-0.2
+156,"Walker County, Georgia",13295,No,76.4,65,stable,-0.1
+157,"Putnam County, Indiana",18133,No,76.4,33,stable,0.4
+158,"Humphreys County, Tennessee",47085,No,76.4,20,stable,0.4
+159,"Wakulla County, Florida",12129,No,76.3,24,stable,-1
+160,"Hemphill County, Texas",48211,No,76.3,3,**,**
+161,"Kodiak Island Borough, Alaska",2150,No,76.2,6,**,**
+162,"Union County, Tennessee",47173,No,76.2,18,stable,-0.6
+163,"Nevada County, Arkansas",5099,No,76.1,10,stable,0.1
+164,"Ballard County, Kentucky",21007,No,76.1,9,stable,-1.5
+165,"Decatur County, Tennessee",47039,No,76.1,14,stable,0.1
+166,"Yell County, Arkansas",5149,No,76,21,stable,0.1
+167,"Haralson County, Georgia",13143,No,76,26,stable,0.4
+168,"Perry County, Indiana",18123,No,76,18,rising,1.5
+169,"Lawrence County, Mississippi",28077,No,76,12,stable,0.5
+170,"Franklin County, Kentucky",21073,No,75.9,45,stable,-0.3
+171,"Calhoun County, Mississippi",28013,No,75.9,15,stable,1
+172,"Atkinson County, Georgia",13003,No,75.8,6,stable,0.3
+173,"Cross County, Arkansas",5037,No,75.7,17,stable,0.4
+174,"Woodson County, Kansas",20207,No,75.6,4,stable,2.1
+175,"Pleasants County, West Virginia",54073,No,75.6,8,stable,-1.1
+176,"Le Flore County, Oklahoma",40079,No,75.4,47,stable,0
+177,"Hot Spring County, Arkansas",5059,No,75.3,32,stable,0.1
+178,"Starke County, Indiana",18149,No,75.3,23,stable,0.5
+179,"Hoke County, North Carolina",37093,No,75.3,24,stable,0.7
+180,"Baker County, Florida",12003,No,75.2,21,stable,-1.5
+181,"Caldwell County, Missouri",29025,No,75.2,10,stable,2.2
+182,"San Jacinto County, Texas",48407,No,75.2,28,stable,-0.4
+183,"Brown County, Ohio",39015,No,75.1,41,stable,-0.7
+184,"Crawford County, Missouri",29055,No,75,24,stable,0.4
+185,"Wise County, Virginia",51195,No,75,36,stable,-0.8
+186,"Jeff Davis County, Georgia",13161,No,74.9,13,stable,-1.2
+187,"Shoshone County, Idaho",16079,No,74.8,15,stable,-1.2
+188,"Pulaski County, Kentucky",21199,No,74.7,63,stable,-0.1
+189,"Trinity County, Texas",48455,No,74.7,19,stable,0.9
+190,"Tipton County, Tennessee",47167,No,74.6,45,stable,0.5
+191,"Chattooga County, Georgia",13055,No,74.5,23,stable,-0.6
+192,"Adams County, Ohio",39001,No,74.5,27,stable,-0.4
+193,"Union County, Illinois",17181,No,74.4,18,stable,1
+194,"Laurel County, Kentucky",21125,No,74.4,50,stable,0.4
+195,"Mason County, West Virginia",54053,No,74.4,28,stable,-0.6
+196,"Pulaski County, Illinois",17153,No,74.3,7,stable,0
+197,"Hawkins County, Tennessee",47073,No,74.3,57,stable,0.6
+198,"Grenada County, Mississippi",28043,No,74.2,20,stable,1.1
+199,"Mercer County, Missouri",29129,No,74.2,4,**,**
+200,"Gordon County, Georgia",13129,No,74.1,43,stable,0.2
+201,"Brantley County, Georgia",13025,No,74.1,15,stable,-0.6
+202,"Gallatin County, Illinois",17059,No,74.1,7,stable,-1.8
+203,"Dallas County, Arkansas",5039,No,74,9,stable,-1
+204,"Bryan County, Oklahoma",40013,No,74,41,stable,-0.1
+205,"Ottawa County, Oklahoma",40115,No,74,32,falling,-15.1
+206,"Muskogee County, Oklahoma",40101,No,74,63,stable,0.1
+207,"Meigs County, Tennessee",47121,No,74,12,stable,1.2
+208,"Bell County, Kentucky",21013,No,73.9,28,stable,-1.2
+209,"Colleton County, South Carolina",45029,No,73.9,38,stable,0.8
+210,"Dixie County, Florida",12029,No,73.8,19,stable,0.1
+211,"Madison County, Kentucky",21151,No,73.8,60,stable,-0.4
+212,"Panola County, Mississippi",28107,No,73.8,28,stable,0
+213,"Scott County, Missouri",29201,No,73.8,36,stable,0
+214,"Franklin County, Illinois",17055,No,73.7,42,stable,-0.3
+215,"Webster County, Kentucky",21233,No,73.7,13,stable,-1.3
+216,"Union Parish, Louisiana",22111,No,73.6,22,stable,-0.7
+217,"Leake County, Mississippi",28079,No,73.6,19,rising,1.8
+218,"Dillon County, South Carolina",45033,No,73.6,27,stable,-0.2
+219,"Northampton County, Virginia",51131,No,73.6,15,stable,-0.5
+220,"Carter County, Kentucky",21043,No,73.5,25,stable,-1.1
+221,"Fayette County, West Virginia",54019,No,73.5,47,stable,-0.2
+222,"Monroe County, Tennessee",47123,No,73.4,45,stable,0
+223,"Polk County, Texas",48373,No,73.4,49,stable,-0.6
+224,"Breathitt County, Kentucky",21025,No,73.2,13,stable,-1.8
+225,"Scioto County, Ohio",39145,No,73.2,71,stable,-0.3
+226,"Hickman County, Tennessee",47081,No,73.2,21,stable,0.6
+227,"Miller County, Arkansas",5091,No,73.1,36,stable,0.2
+228,"Barren County, Kentucky",21009,No,73,40,stable,-0.5
+229,"Magoffin County, Kentucky",21153,No,73,10,stable,-0.1
+230,"Grainger County, Tennessee",47057,No,73,23,stable,-2.3
+231,"Graves County, Kentucky",21083,No,72.8,36,stable,0.4
+232,"Kalkaska County, Michigan",26079,No,72.7,17,stable,0.7
+233,"Adams County, Wisconsin",55001,No,72.7,27,stable,1
+234,"East Carroll Parish, Louisiana",22035,No,72.6,6,stable,-0.7
+235,"Maries County, Missouri",29125,No,72.6,9,stable,0.8
+236,"Wayne County, Tennessee",47181,No,72.6,16,stable,0.3
+237,"Marion County, Arkansas",5089,No,72.5,22,stable,-0.8
+238,"Pope County, Arkansas",5115,No,72.5,49,stable,1.7
+239,"Bollinger County, Missouri",29017,No,72.5,12,stable,0.6
+240,"Cass County, Illinois",17017,No,72.4,12,stable,-0.2
+241,"Seminole County, Oklahoma",40133,No,72.4,24,stable,-0.2
+242,"Lonoke County, Arkansas",5085,No,72.3,49,stable,0.1
+243,"Lamar County, Alabama",1075,No,72.2,15,stable,1.3
+244,"Crittenden County, Arkansas",5035,No,72.2,36,stable,-0.5
+245,"Rolette County, North Dakota",38079,No,72.2,9,stable,0.4
+246,"Garvin County, Oklahoma",40049,No,72.2,26,stable,0.9
+247,"Greene County, Tennessee",47059,No,72.2,70,stable,0.7
+248,"Gloucester County, Virginia",51073,No,72.2,34,stable,-1.1
+249,"Vernon Parish, Louisiana",22115,No,72.1,30,stable,0.3
+250,"Covington County, Alabama",1039,No,71.9,39,stable,1
+251,"Peach County, Georgia",13225,No,71.9,20,stable,-0.2
+252,"Greenup County, Kentucky",21089,No,71.9,36,stable,-0.5
+253,"Okmulgee County, Oklahoma",40111,No,71.9,36,stable,0.1
+254,"Marshall County, Tennessee",47117,No,71.9,26,stable,0.1
+255,"DeKalb County, Tennessee",47041,No,71.9,17,stable,0.6
+256,"Stone County, Mississippi",28131,No,71.8,13,stable,-0.9
+257,"Warren County, North Carolina",37185,No,71.8,23,stable,0.9
+258,"Prairie County, Arkansas",5117,No,71.7,9,stable,-0.3
+259,"Gilchrist County, Florida",12041,No,71.7,17,stable,-1.1
+260,"Kearny County, Kansas",20093,No,71.7,3,**,**
+261,"Grant Parish, Louisiana",22043,No,71.7,16,stable,-0.2
+262,"Morgan County, Tennessee",47129,No,71.7,19,falling,-1.5
+263,"Union County, Arkansas",5139,No,71.6,38,stable,0.5
+264,"Lincoln County, Kentucky",21137,No,71.6,22,stable,0.1
+265,"Jefferson County, Missouri",29099,No,71.6,157,falling,-0.6
+266,"Dickenson County, Virginia",51051,No,71.6,16,stable,-0.3
+267,"Obion County, Tennessee",47131,No,71.5,30,stable,1
+268,"Fayette County, Indiana",18041,No,71.4,24,stable,1.1
+269,"Geary County, Kansas",20061,No,71.4,16,stable,0.5
+270,"Monroe County, Iowa",19135,No,71.3,8,stable,1.4
+271,"Geneva County, Alabama",1061,No,71.2,27,stable,-0.7
+272,"Stoddard County, Missouri",29207,No,71.2,30,stable,0.2
+273,"Wetzel County, West Virginia",54103,No,71.2,18,stable,-0.1
+274,"Putnam County, Florida",12107,No,71.1,78,stable,-0.7
+275,"Roane County, Tennessee",47145,No,71.1,58,stable,-0.4
+276,"Monroe County, Arkansas",5095,No,70.9,9,stable,-1.2
+277,"Ketchikan Gateway Borough, Alaska",2130,No,70.8,9,**,**
+278,"Madison County, Georgia",13195,No,70.8,23,stable,0.6
+279,"West Carroll Parish, Louisiana",22123,No,70.8,11,stable,0.5
+280,"Currituck County, North Carolina",37053,No,70.8,18,stable,-1.1
+281,"Unicoi County, Tennessee",47171,No,70.8,20,stable,1.1
+282,"Lamar County, Georgia",13171,No,70.7,15,stable,-0.1
+283,"Jackson County, Indiana",18071,No,70.7,37,rising,1.4
+284,"Jackson Parish, Louisiana",22049,No,70.7,15,stable,1.3
+285,"Marlboro County, South Carolina",45069,No,70.7,23,stable,0.5
+286,"Evangeline Parish, Louisiana",22039,No,70.6,26,stable,-0.6
+287,"Guernsey County, Ohio",39059,No,70.6,37,stable,-0.8
+288,"Choctaw County, Oklahoma",40023,No,70.6,15,stable,1.2
+289,"Clay County, West Virginia",54015,No,70.6,9,stable,-1
+290,"Cleburne County, Arkansas",5023,No,70.5,32,stable,0.1
+291,"Pierce County, Georgia",13229,No,70.5,16,stable,-0.4
+292,"Crawford County, Indiana",18025,No,70.5,10,stable,1.1
+293,"Edmonson County, Kentucky",21061,No,70.5,12,stable,0.3
+294,"Morris County, Texas",48343,No,70.5,14,stable,0
+295,"Logan County, Arkansas",5083,No,70.4,22,stable,-0.2
+296,"Warren County, Georgia",13301,No,70.4,6,stable,1.5
+297,"Somerset County, Maryland",24039,No,70.4,21,falling,-1.9
+298,"Livingston County, Missouri",29117,No,70.4,15,rising,2.3
+299,"Sequoyah County, Oklahoma",40135,No,70.4,37,stable,-0.4
+300,"Mississippi County, Arkansas",5093,No,70.2,34,falling,-1.1
+301,"Calhoun County, Arkansas",5013,No,70.2,5,stable,-1.2
+302,"Chicot County, Arkansas",5017,No,70.2,12,stable,1.2
+303,"Franklin County, Arkansas",5047,No,70.1,17,stable,-0.5
+304,"Jefferson Davis Parish, Louisiana",22053,No,70.1,27,stable,-0.2
+305,"Marshall County, Mississippi",28093,No,70.1,29,stable,-0.6
+306,"McIntosh County, Oklahoma",40091,No,70.1,24,stable,0.5
+307,"Anderson County, Texas",48001,No,70.1,44,falling,-4
+308,"Lawrence County, Alabama",1079,No,70,29,stable,1.1
+309,"Fulton County, Indiana",18049,No,70,19,stable,0.7
+310,"Pearl River County, Mississippi",28109,No,70,47,stable,-0.5
+311,"Schuyler County, Missouri",29197,No,70,4,stable,0.4
+312,"Winston County, Alabama",1133,No,69.9,24,stable,0.1
+313,"Randolph County, Arkansas",5121,No,69.9,18,stable,-0.2
+314,"Carroll County, Kentucky",21041,No,69.9,9,stable,-0.3
+315,"Haskell County, Oklahoma",40061,No,69.9,12,stable,-0.7
+316,"Marion County, Tennessee",47115,No,69.9,27,stable,0
+317,"Montague County, Texas",48337,No,69.9,20,stable,5.5
+318,"Murray County, Georgia",13213,No,69.7,28,falling,-4.8
+319,"Orange County, Indiana",18117,No,69.7,18,stable,1.2
+320,"Greene County, Arkansas",5055,No,69.6,34,stable,0.2
+321,"White County, Arkansas",5145,No,69.6,61,falling,-1.4
+322,"Washington County, Indiana",18175,No,69.6,23,stable,-0.2
+323,"Rowan County, Kentucky",21205,No,69.6,16,stable,-0.8
+324,"Muskingum County, Ohio",39119,No,69.6,75,stable,0.1
+325,"White County, Illinois",17193,No,69.5,16,stable,0
+326,"Williamson County, Illinois",17199,No,69.5,60,stable,0
+327,"Saline County, Illinois",17165,No,69.5,25,stable,-0.5
+328,"Greene County, Indiana",18055,No,69.5,30,stable,1.3
+329,"Stewart County, Tennessee",47161,No,69.5,12,stable,0.1
+330,"Refugio County, Texas",48391,No,69.5,8,stable,0.3
+331,"Pope County, Illinois",17151,No,69.4,4,stable,2.4
+332,"Jasper County, Indiana",18073,No,69.4,27,stable,0.3
+333,"Wright County, Missouri",29229,No,69.4,18,stable,-0.1
+334,"Liberty County, Texas",48291,No,69.4,52,falling,-1.4
+335,"Callahan County, Texas",48059,No,69.4,14,stable,-0.5
+336,"Okeechobee County, Florida",12093,No,69.3,36,falling,-1.3
+337,"Hardin County, Kentucky",21093,No,69.3,71,stable,-0.5
+338,"Tate County, Mississippi",28137,No,69.3,22,stable,-0.1
+339,"Christian County, Illinois",17021,No,69.2,33,stable,0.2
+340,"Chesterfield County, South Carolina",45025,No,69.2,37,stable,0.6
+341,"Sussex County, Virginia",51183,No,69.2,10,falling,-2.2
+342,"Clay County, Alabama",1027,No,69.1,13,rising,2.2
+343,"Sharp County, Arkansas",5135,No,69.1,21,stable,0.9
+344,"Marion County, Kentucky",21155,No,69.1,15,stable,-1.3
+345,"Caldwell County, North Carolina",37027,No,69.1,73,stable,0.2
+346,"King and Queen County, Virginia",51097,No,69,7,stable,1.4
+347,"Coosa County, Alabama",1037,No,68.9,11,stable,-0.8
+348,"Itawamba County, Mississippi",28057,No,68.9,20,stable,0.6
+349,"Lewis County, Missouri",29111,No,68.9,9,stable,1.9
+350,"Paulding County, Ohio",39125,No,68.9,17,stable,0.1
+351,"Stephens County, Texas",48429,No,68.9,9,stable,-1.2
+352,"Petersburg City, Virginia",51730,No,68.9,27,falling,-1.8
+353,"Jefferson County, Georgia",13163,No,68.8,14,stable,-1.4
+354,"Clay County, Tennessee",47027,No,68.8,9,stable,-0.4
+355,"Jefferson County, Illinois",17081,No,68.7,34,stable,0.3
+356,"Montgomery County, Kentucky",21173,No,68.7,21,stable,-0.1
+357,"Hamblen County, Tennessee",47063,No,68.7,55,stable,-0.4
+358,"Holmes County, Florida",12059,No,68.6,18,stable,-0.1
+359,"Acadia Parish, Louisiana",22001,No,68.6,46,stable,-0.6
+360,"Irwin County, Georgia",13155,No,68.5,8,stable,-1
+361,"Montgomery County, Illinois",17135,No,68.5,28,stable,-1.1
+362,"Taylor County, West Virginia",54091,No,68.5,15,stable,-1.8
+363,"Calhoun County, Florida",12013,No,68.4,13,stable,-1.3
+364,"Green County, Kentucky",21087,No,68.4,11,stable,0.6
+365,"Miller County, Missouri",29131,No,68.4,22,rising,1.9
+366,"Bradley County, Arkansas",5011,No,68.3,11,stable,-0.3
+367,"Lawrence County, Tennessee",47099,No,68.3,37,stable,-0.7
+368,"Alcona County, Michigan",26001,No,68.2,17,stable,-0.5
+369,"Clinton County, Ohio",39027,No,68.2,33,stable,0.4
+370,"McMinn County, Tennessee",47107,No,68.2,48,stable,-0.1
+371,"Bryan County, Georgia",13029,No,68.1,17,stable,-0.1
+372,"McLean County, Kentucky",21149,No,68.1,9,stable,-0.3
+373,"New Kent County, Virginia",51127,No,68.1,13,stable,-1.2
+374,"Miami County, Indiana",18103,No,68,29,stable,0.5
+375,"Forest County, Pennsylvania",42053,No,68,8,stable,0.2
+376,"Johnson County, Arkansas",5071,No,67.9,20,stable,0.1
+377,"Suwannee County, Florida",12121,No,67.9,42,stable,-0.4
+378,"Massac County, Illinois",17127,No,67.9,15,stable,0
+379,"Cumberland County, Kentucky",21057,No,67.9,7,stable,1.2
+380,"Pulaski County, Missouri",29169,No,67.9,23,stable,-0.4
+381,"Nye County, Nevada",32023,No,67.9,52,stable,0.9
+382,"Henderson County, Tennessee",47077,No,67.9,23,stable,0
+383,"Bibb County, Alabama",1007,No,67.8,17,stable,0.3
+384,"Arkansas County, Arkansas",5001,No,67.8,17,stable,-0.4
+385,"Madison County, Indiana",18095,No,67.8,111,stable,-0.3
+386,"Allen County, Kentucky",21003,No,67.8,17,stable,-0.3
+387,"Clark County, Missouri",29045,No,67.8,7,stable,0.9
+388,"Lincoln County, Missouri",29113,No,67.8,35,stable,0.1
+389,"Surry County, North Carolina",37171,No,67.8,68,stable,0.5
+390,"Lawrence County, Ohio",39087,No,67.8,53,stable,-0.4
+391,"Pike County, Ohio",39131,No,67.8,24,stable,0.9
+392,"Etowah County, Alabama",1055,No,67.7,90,stable,0.2
+393,"Benewah County, Idaho",16009,No,67.7,9,stable,-0.4
+394,"Leflore County, Mississippi",28083,No,67.7,22,stable,1
+395,"Fayette County, Ohio",39047,No,67.7,24,stable,1
+396,"Union County, South Carolina",45087,No,67.7,26,stable,0.9
+397,"Hancock County, Tennessee",47067,No,67.7,7,stable,-0.9
+398,"Marion County, Illinois",17121,No,67.6,36,stable,0.1
+399,"Washington County, Florida",12133,No,67.5,21,stable,-0.3
+400,"Rush County, Indiana",18139,No,67.5,15,stable,0.1
+401,"Henderson County, Kentucky",21101,No,67.5,38,stable,-0.9
+402,"Harrison County, Mississippi",28047,No,67.5,132,falling,-2.2
+403,"Wyandotte County, Kansas",20209,No,67.4,99,stable,-0.3
+404,"Pendleton County, Kentucky",21191,No,67.4,11,stable,-1.1
+405,"Clark County, Kentucky",21049,No,67.4,29,stable,0
+406,"Washington Parish, Louisiana",22117,No,67.4,39,stable,-0.1
+407,"Jefferson County, Arkansas",5069,No,67.3,58,falling,-0.7
+408,"Clark County, Indiana",18019,No,67.3,81,falling,-0.8
+409,"Campbell County, Kentucky",21037,No,67.3,65,stable,-0.7
+410,"Clarke County, Mississippi",28023,No,67.3,15,stable,0.9
+411,"Mercer County, Kentucky",21167,No,67.2,19,stable,-0.4
+412,"Gallia County, Ohio",39053,No,67.2,26,stable,0.3
+413,"Carter County, Tennessee",47019,No,67.2,54,stable,-0.4
+414,"Scott County, Virginia",51169,No,67.2,24,stable,-0.2
+415,"Radford City, Virginia",51750,No,67.2,7,stable,-0.2
+416,"St. Helena Parish, Louisiana",22091,No,67.1,9,stable,-2.2
+417,"Crawford County, Michigan",26039,No,67.1,16,stable,-0.8
+418,"Tallahatchie County, Mississippi",28135,No,67.1,11,stable,1.2
+419,"Creek County, Oklahoma",40037,No,67.1,60,stable,-0.3
+420,"Dickson County, Tennessee",47043,No,67.1,38,falling,-0.8
+421,"Escambia County, Alabama",1053,No,67,32,stable,-0.5
+422,"Cleveland County, Arkansas",5025,No,67,7,stable,-0.7
+423,"Iberville Parish, Louisiana",22047,No,67,24,stable,0
+424,"Drew County, Arkansas",5043,No,66.9,15,stable,-0.5
+425,"Grant County, Arkansas",5053,No,66.9,14,stable,-0.3
+426,"Wexford County, Michigan",26165,No,66.9,28,stable,0.2
+427,"Murray County, Oklahoma",40099,No,66.9,13,falling,-2
+428,"Taylor County, Florida",12123,No,66.8,20,falling,-2
+429,"Montgomery County, Georgia",13209,No,66.8,6,stable,0.2
+430,"Lake County, Michigan",26085,No,66.8,14,stable,-0.8
+431,"Swain County, North Carolina",37173,No,66.8,13,stable,0.5
+432,"Avoyelles Parish, Louisiana",22009,No,66.7,33,stable,0.9
+433,"Benton County, Missouri",29015,No,66.7,24,stable,-1.1
+434,"Highland County, Ohio",39071,No,66.7,36,stable,0.5
+435,"Marshall County, Alabama",1095,No,66.6,75,falling,-3
+436,"Mahaska County, Iowa",19123,No,66.6,19,rising,1.7
+437,"Hopkins County, Kentucky",21107,No,66.6,41,stable,-0.7
+438,"St. Clair County, Missouri",29185,No,66.6,12,stable,-0.4
+439,"Musselshell County, Montana",30065,No,66.6,5,**,**
+440,"Hopewell City, Virginia",51670,No,66.6,18,stable,-0.8
+441,"Bay County, Florida",12005,No,66.5,139,falling,-0.9
+442,"Bacon County, Georgia",13005,No,66.5,8,stable,0.5
+443,"Lampasas County, Texas",48281,No,66.5,17,stable,-1.1
+444,"Lawrence County, Illinois",17101,No,66.4,14,stable,-0.8
+445,"Wayne County, Illinois",17191,No,66.4,17,stable,0.4
+446,"Morgan County, Indiana",18109,No,66.4,52,stable,-0.8
+447,"Hickman County, Kentucky",21105,No,66.4,5,stable,0.1
+448,"Livingston Parish, Louisiana",22063,No,66.4,77,falling,-1.1
+449,"Cherokee County, Oklahoma",40021,No,66.4,34,stable,0.2
+450,"Lincoln County, Oklahoma",40081,No,66.4,29,stable,0.2
+451,"Iberia Parish, Louisiana",22045,No,66.3,50,falling,-1.2
+452,"Hocking County, Ohio",39073,No,66.3,25,stable,-0.2
+453,"Nicholas County, West Virginia",54067,No,66.3,25,stable,-0.8
+454,"Bolivar County, Mississippi",28011,No,66.2,23,stable,-0.5
+455,"St. Louis City, Missouri",29510,No,66.2,204,falling,-1.2
+456,"Jackson County, Ohio",39079,No,66.2,27,stable,-0.3
+457,"Covington City, Virginia",51580,No,66.2,5,stable,0.8
+458,"Elmore County, Alabama",1051,No,66.1,55,stable,-0.3
+459,"Catahoula Parish, Louisiana",22025,No,66.1,8,stable,0.5
+460,"Winn Parish, Louisiana",22127,No,66.1,12,stable,-0.5
+461,"Quitman County, Mississippi",28119,No,66.1,6,stable,-2.1
+462,"Sherman County, Nebraska",31163,No,66.1,3,**,**
+463,"Kiowa County, Oklahoma",40075,No,66.1,9,stable,1.4
+464,"Chilton County, Alabama",1021,No,66,34,stable,0.7
+465,"Alexander County, Illinois",17003,No,66,7,stable,-0.2
+466,"Lawrence County, Indiana",18093,No,66,41,stable,0.3
+467,"Oscoda County, Michigan",26135,No,66,10,stable,-0.7
+468,"Searcy County, Arkansas",5129,No,65.9,9,stable,-0.7
+469,"Crawford County, Georgia",13079,No,65.9,9,rising,3
+470,"Oswego County, New York",36075,No,65.9,88,stable,0.2
+471,"Jones County, North Carolina",37103,No,65.9,10,stable,0
+472,"Pittsburg County, Oklahoma",40121,No,65.9,41,stable,-0.4
+473,"Franklin County, Alabama",1059,No,65.8,25,stable,0.4
+474,"Bradford County, Florida",12007,No,65.8,23,falling,-1.6
+475,"Effingham County, Georgia",13103,No,65.8,29,stable,-0.2
+476,"Cass County, Indiana",18017,No,65.8,31,stable,-0.6
+477,"Smith County, Mississippi",28129,No,65.8,14,stable,0.8
+478,"Newton County, Indiana",18111,No,65.7,13,stable,0.3
+479,"Ralls County, Missouri",29173,No,65.7,9,stable,0.6
+480,"White County, Tennessee",47185,No,65.7,23,stable,0.1
+481,"Morgan County, Missouri",29141,No,65.6,23,stable,-0.3
+482,"Linn County, Missouri",29115,No,65.6,12,stable,1.3
+483,"McCurtain County, Oklahoma",40089,No,65.6,27,stable,-0.8
+484,"San Augustine County, Texas",48405,No,65.6,10,stable,-0.4
+485,"Warren County, Kentucky",21227,No,65.5,70,stable,-0.8
+486,"Stokes County, North Carolina",37169,No,65.5,41,stable,-0.8
+487,"Amelia County, Virginia",51007,No,65.5,11,stable,0.4
+488,"Orleans County, New York",36073,No,65.4,34,stable,0.7
+489,"Caddo County, Oklahoma",40015,No,65.4,23,stable,1.2
+490,"Dyer County, Tennessee",47045,No,65.4,30,stable,0.4
+491,"Russell County, Virginia",51167,No,65.4,26,stable,0.4
+492,"Dallas County, Alabama",1047,No,65.3,33,stable,0.3
+493,"Washington County, Alabama",1129,No,65.3,14,stable,-0.2
+494,"Boyd County, Kentucky",21019,No,65.3,43,stable,-0.5
+495,"Roanoke City, Virginia",51770,No,65.3,75,stable,0.1
+496,"Gulf County, Florida",12045,No,65.2,14,falling,-2.1
+497,"Pickett County, Tennessee",47137,No,65.2,6,stable,1.1
+498,"Mineral County, West Virginia",54057,No,65.2,26,stable,0.7
+499,"Roane County, West Virginia",54087,No,65.2,14,stable,-1.4
+500,"Mercer County, West Virginia",54055,No,65.2,59,stable,-0.1
+501,"Ben Hill County, Georgia",13017,No,65.1,13,falling,-4.8
+502,"Henry County, Indiana",18065,No,65.1,42,stable,0
+503,"Linn County, Kansas",20107,No,65.1,10,stable,1
+504,"Harrison County, Kentucky",21097,No,65.1,15,stable,-0.9
+505,"Todd County, Kentucky",21219,No,65.1,9,stable,-0.9
+506,"Buchanan County, Missouri",29021,No,65.1,67,stable,-0.2
+507,"Robertson County, Tennessee",47147,No,65.1,45,stable,0
+508,"Berkeley County, West Virginia",54003,No,65.1,69,stable,-0.8
+509,"St. Clair County, Alabama",1115,No,65,61,falling,-1.2
+510,"Stewart County, Georgia",13259,No,65,4,stable,0.8
+511,"Vigo County, Indiana",18167,No,65,77,stable,-0.4
+512,"Wayne County, Indiana",18177,No,65,58,stable,0.2
+513,"Kenton County, Kentucky",21117,No,65,102,stable,-0.6
+514,"Howell County, Missouri",29091,No,65,36,falling,-1
+515,"Greer County, Oklahoma",40055,No,65,5,stable,0
+516,"Woodruff County, Arkansas",5147,No,64.9,7,stable,-0.5
+517,"Newton County, Arkansas",5101,No,64.9,9,stable,-1.2
+518,"Clarke County, Virginia",51043,No,64.9,13,stable,-0.6
+519,"Miller County, Georgia",13201,No,64.8,6,**,**
+520,"Vermilion County, Illinois",17183,No,64.8,70,stable,-0.5
+521,"Morgan County, Ohio",39115,No,64.8,14,stable,-0.3
+522,"Johnson County, Tennessee",47091,No,64.8,17,stable,0.5
+523,"Kay County, Oklahoma",40071,No,64.7,40,stable,0.3
+524,"Todd County, South Dakota",46121,No,64.7,3,**,**
+525,"Anderson County, Tennessee",47001,No,64.7,69,stable,-0.1
+526,"Heard County, Georgia",13149,No,64.6,9,stable,0.2
+527,"Clare County, Michigan",26035,No,64.6,31,falling,-1.3
+528,"Pickaway County, Ohio",39129,No,64.6,41,stable,0.2
+529,"Coshocton County, Ohio",39031,No,64.6,31,stable,0.3
+530,"Okfuskee County, Oklahoma",40107,No,64.6,10,stable,0.8
+531,"Caroline County, Virginia",51033,No,64.6,21,stable,-0.3
+532,"Lewis County, West Virginia",54041,No,64.6,15,stable,-1.2
+533,"Franklin County, Georgia",13119,No,64.5,19,stable,0.7
+534,"Whitfield County, Georgia",13313,No,64.5,64,stable,-0.8
+535,"Grady County, Georgia",13131,No,64.5,19,stable,-0.7
+536,"Pulaski County, Indiana",18131,No,64.5,12,stable,0.9
+537,"Adair County, Kentucky",21001,No,64.5,15,stable,-0.7
+538,"Richmond County, North Carolina",37153,No,64.5,37,stable,0.7
+539,"Vinton County, Ohio",39163,No,64.5,11,stable,-0.4
+540,"Tazewell County, Virginia",51185,No,64.5,40,stable,-0.7
+541,"Kanawha County, West Virginia",54039,No,64.5,170,falling,-1.2
+542,"White County, Indiana",18181,No,64.4,22,stable,0.6
+543,"Montgomery County, Kansas",20125,No,64.4,30,stable,-0.3
+544,"Grant County, Kentucky",21081,No,64.4,15,stable,-1.5
+545,"Cecil County, Maryland",24015,No,64.4,69,falling,-1
+546,"Warren County, Tennessee",47177,No,64.4,33,stable,-0.2
+547,"Baxter County, Arkansas",5005,No,64.3,54,stable,-0.8
+548,"Jasper County, Illinois",17079,No,64.3,8,stable,0.2
+549,"Marion County, Indiana",18097,No,64.3,545,falling,-2.1
+550,"Scott County, Mississippi",28123,No,64.3,19,stable,0.7
+551,"Jefferson County, Oklahoma",40067,No,64.3,6,stable,1.6
+552,"Hardeman County, Tennessee",47069,No,64.3,21,stable,-0.1
+553,"Emporia City, Virginia",51595,No,64.3,5,stable,-1.4
+554,"Cabell County, West Virginia",54011,No,64.3,79,stable,-0.4
+555,"Citrus County, Florida",12017,No,64.2,200,falling,-0.6
+556,"Nelson County, Kentucky",21179,No,64.2,30,stable,-0.5
+557,"Osceola County, Michigan",26133,No,64.2,21,stable,-0.2
+558,"Coos County, Oregon",41011,No,64.2,69,falling,-1.2
+559,"Wayne County, West Virginia",54099,No,64.2,36,falling,-6.1
+560,"Ashland County, Wisconsin",55003,No,64.2,13,stable,1.1
+561,"Dearborn County, Indiana",18029,No,64.1,37,stable,-0.8
+562,"Giles County, Virginia",51071,No,64.1,16,stable,-0.2
+563,"Russell County, Alabama",1113,No,64,38,falling,-1.2
+564,"Jackson County, Alabama",1071,No,64,46,stable,-0.5
+565,"Parke County, Indiana",18121,No,64,14,stable,0.2
+566,"Sullivan County, Indiana",18153,No,64,17,stable,-0.7
+567,"Grant County, Indiana",18053,No,64,59,stable,0
+568,"Carter County, Oklahoma",40019,No,64,38,stable,-0.7
+569,"Grant County, Oklahoma",40053,No,64,5,**,**
+570,"Tyler County, West Virginia",54095,No,64,9,stable,-0.6
+571,"Mason County, Illinois",17125,No,63.9,14,stable,0.5
+572,"Ross County, Ohio",39141,No,63.9,58,falling,-0.8
+573,"Mayes County, Oklahoma",40097,No,63.9,33,stable,-1.2
+574,"Benzie County, Michigan",26019,No,63.8,18,stable,-1
+575,"Marion County, Mississippi",28091,No,63.7,21,falling,-2.6
+576,"Chickasaw County, Mississippi",28017,No,63.7,13,stable,-1.2
+577,"Jackson County, West Virginia",54035,No,63.7,26,stable,-0.1
+578,"Dale County, Alabama",1045,No,63.6,37,stable,0.4
+579,"Forrest County, Mississippi",28035,No,63.6,46,stable,-1
+580,"Mineral County, Nevada",32021,No,63.6,5,stable,-1.2
+581,"Columbus County, North Carolina",37047,No,63.6,46,stable,-0.8
+582,"Scotland County, North Carolina",37165,No,63.6,27,stable,0.5
+583,"Hardin County, Tennessee",47071,No,63.6,24,stable,0.7
+584,"Scott County, Arkansas",5127,No,63.5,10,stable,-1.2
+585,"Pike County, Arkansas",5109,No,63.5,10,stable,-0.5
+586,"Cotton County, Oklahoma",40033,No,63.5,5,stable,1.7
+587,"Mecklenburg County, Virginia",51117,No,63.5,33,stable,-0.2
+588,"Hampshire County, West Virginia",54027,No,63.5,20,stable,-0.1
+589,"Barrow County, Georgia",13013,No,63.4,37,stable,-0.2
+590,"Carroll County, Missouri",29033,No,63.4,9,stable,0.6
+591,"Person County, North Carolina",37145,No,63.4,32,stable,-0.4
+592,"Mobile County, Alabama",1097,No,63.3,289,falling,-1.2
+593,"Lanier County, Georgia",13173,No,63.3,6,stable,-1.7
+594,"Bienville Parish, Louisiana",22013,No,63.3,12,stable,0.3
+595,"Putnam County, Missouri",29171,No,63.3,5,stable,2.7
+596,"Audrain County, Missouri",29007,No,63.3,21,stable,0.9
+597,"Mitchell County, North Carolina",37121,No,63.3,16,stable,0
+598,"Perry County, Ohio",39127,No,63.3,26,stable,-0.4
+599,"Huron County, Ohio",39077,No,63.3,43,stable,0.3
+600,"Bartow County, Georgia",13015,No,63.2,61,stable,-0.8
+601,"Cherokee County, Kansas",20021,No,63.2,17,stable,0.4
+602,"Chambers County, Alabama",1017,No,63.1,29,stable,0
+603,"Stephens County, Georgia",13257,No,63.1,22,stable,0.1
+604,"Pike County, Mississippi",28113,No,63.1,30,stable,-0.2
+605,"Washington County, New York",36115,No,63.1,50,stable,-0.7
+606,"Gaston County, North Carolina",37071,No,63.1,150,falling,-1.1
+607,"Athens County, Ohio",39009,No,63.1,34,stable,-1
+608,"Hill County, Texas",48217,No,63.1,31,stable,0.2
+609,"Hunt County, Texas",48231,No,63.1,63,stable,-0.8
+610,"Burnett County, Wisconsin",55013,No,63.1,17,stable,0.4
+611,"Fremont County, Iowa",19071,No,63,7,stable,-0.1
+612,"Washington County, Mississippi",28151,No,63,34,stable,-0.6
+613,"Lee County, South Carolina",45061,No,63,14,stable,-14.2
+614,"Pike County, Georgia",13231,No,62.9,12,stable,-0.1
+615,"Harrison County, Indiana",18061,No,62.9,29,stable,0.1
+616,"Owen County, Indiana",18119,No,62.9,17,stable,0.2
+617,"Assumption Parish, Louisiana",22007,No,62.9,17,stable,-1.3
+618,"Dent County, Missouri",29065,No,62.9,14,stable,-0.9
+619,"Carteret County, North Carolina",37031,No,62.9,63,falling,-1
+620,"Desha County, Arkansas",5041,No,62.8,11,stable,0
+621,"Columbia County, Florida",12023,No,62.8,54,falling,-1.2
+622,"Macon County, Illinois",17115,No,62.8,92,stable,0.4
+623,"Gladwin County, Michigan",26051,No,62.8,28,stable,-0.9
+624,"Randolph County, Missouri",29175,No,62.8,18,stable,1.4
+625,"Coffee County, Tennessee",47031,No,62.8,43,stable,-0.5
+626,"Rice County, Kansas",20159,No,62.7,9,rising,1.9
+627,"Cheboygan County, Michigan",26031,No,62.7,27,stable,-0.3
+628,"Cumberland County, Tennessee",47035,No,62.7,65,stable,-0.4
+629,"Leon County, Texas",48289,No,62.7,17,stable,-1.5
+630,"Grayson County, Virginia",51077,No,62.7,16,stable,0.6
+631,"Columbia County, Arkansas",5027,No,62.6,19,stable,-0.9
+632,"Boone County, Arkansas",5009,No,62.6,33,stable,0.1
+633,"Cumberland County, Illinois",17035,No,62.6,9,stable,-0.9
+634,"Grays Harbor County, Washington",53027,No,62.6,61,falling,-4
+635,"Garland County, Arkansas",5051,No,62.5,95,stable,-0.6
+636,"Jennings County, Indiana",18079,No,62.5,20,stable,-0.7
+637,"Ste. Genevieve County, Missouri",29186,No,62.5,15,stable,1.2
+638,"Glacier County, Montana",30035,No,62.5,7,stable,-0.5
+639,"Christian County, Kentucky",21047,No,62.4,39,falling,-1.6
+640,"Tangipahoa Parish, Louisiana",22105,No,62.4,77,falling,-1
+641,"Sharkey County, Mississippi",28125,No,62.4,4,stable,-1
+642,"Hancock County, West Virginia",54029,No,62.4,29,stable,-0.4
+643,"Henderson County, Illinois",17071,No,62.3,7,stable,-0.5
+644,"Jersey County, Illinois",17083,No,62.3,19,stable,0.5
+645,"La Salle Parish, Louisiana",22059,No,62.3,11,stable,-0.1
+646,"Nelson County, Virginia",51125,No,62.3,15,stable,0.3
+647,"Lee County, Georgia",13177,No,62.2,14,stable,-1
+648,"Fountain County, Indiana",18045,No,62.2,15,stable,-0.6
+649,"Clinton County, Indiana",18023,No,62.2,24,stable,0.2
+650,"Aroostook County, Maine",23003,No,62.2,68,stable,-0.1
+651,"Holmes County, Mississippi",28051,No,62.2,13,stable,1.5
+652,"Marion County, Ohio",39101,No,62.2,51,stable,-0.1
+653,"Sebastian County, Arkansas",5131,No,62.1,85,stable,-0.6
+654,"Jackson County, Georgia",13157,No,62.1,37,stable,-0.9
+655,"Candler County, Georgia",13043,No,62.1,8,stable,-0.7
+656,"Menard County, Illinois",17129,No,62.1,10,stable,1.2
+657,"Marion County, South Carolina",45067,No,62.1,25,stable,-0.5
+658,"Gibson County, Tennessee",47053,No,62.1,40,stable,-0.2
+659,"Colquitt County, Georgia",13071,No,62,30,stable,-1
+660,"Ouachita Parish, Louisiana",22073,No,62,99,falling,-0.8
+661,"Dorchester County, Maryland",24019,No,62,29,falling,-1.3
+662,"Schoolcraft County, Michigan",26153,No,62,9,stable,-0.9
+663,"Hickory County, Missouri",29085,No,62,13,stable,-0.1
+664,"Bates County, Missouri",29013,No,62,15,stable,-0.1
+665,"Lee County, Arkansas",5077,No,61.9,8,stable,-1.4
+666,"Smith County, Kansas",20183,No,61.9,4,**,**
+667,"Jackson County, Michigan",26075,No,61.9,119,stable,-0.3
+668,"Vernon County, Missouri",29217,No,61.9,17,stable,-0.2
+669,"Marshall County, Oklahoma",40095,No,61.9,15,stable,-0.8
+670,"Orange County, Texas",48361,No,61.9,59,falling,-1.8
+671,"Washington County, Virginia",51191,No,61.9,49,stable,-0.8
+672,"Crawford County, Arkansas",5033,No,61.8,43,falling,-1.4
+673,"Dawson County, Georgia",13085,No,61.8,16,stable,0.9
+674,"Osage County, Kansas",20139,No,61.8,14,stable,0.2
+675,"Baltimore City, Maryland",24510,No,61.8,388,falling,-2.7
+676,"Coahoma County, Mississippi",28027,No,61.8,17,stable,-0.2
+677,"Chester County, South Carolina",45023,No,61.8,25,stable,0.1
+678,"Sevier County, Tennessee",47155,No,61.8,72,stable,-0.3
+679,"Coleman County, Texas",48083,No,61.8,9,stable,0.6
+680,"Essex County, Virginia",51057,No,61.8,10,stable,-1.3
+681,"Wilcox County, Alabama",1131,No,61.7,9,stable,0.9
+682,"Santa Rosa County, Florida",12113,No,61.6,104,stable,-0.7
+683,"Ozark County, Missouri",29153,No,61.6,11,stable,-1
+684,"Laurens County, South Carolina",45059,No,61.6,52,stable,-0.1
+685,"Comanche County, Texas",48093,No,61.6,13,stable,0
+686,"Schuyler County, Illinois",17169,No,61.5,7,stable,-0.9
+687,"Pottawattamie County, Iowa",19155,No,61.5,68,stable,-0.1
+688,"Carlisle County, Kentucky",21039,No,61.5,5,stable,1.1
+689,"St. Martin Parish, Louisiana",22099,No,61.5,34,falling,-1.5
+690,"Onslow County, North Carolina",37133,No,61.5,70,falling,-1.3
+691,"Harrison County, West Virginia",54033,No,61.5,58,falling,-1
+692,"Cullman County, Alabama",1043,No,61.4,63,stable,-0.4
+693,"Talbot County, Georgia",13263,No,61.4,5,stable,0.7
+694,"Braxton County, West Virginia",54007,No,61.4,13,stable,-0.8
+695,"Barbour County, Alabama",1005,No,61.3,20,stable,0.5
+696,"Faulkner County, Arkansas",5045,No,61.3,61,stable,-0.3
+697,"Jackson County, Mississippi",28059,No,61.3,92,falling,-1.7
+698,"Davidson County, North Carolina",37057,No,61.3,122,stable,0.2
+699,"Clermont County, Ohio",39025,No,61.3,127,falling,-3.4
+700,"Alleghany County and Clifton Forge City, Virginia",51005,No,61.3,16,stable,0.4
+701,"Colbert County, Alabama",1033,No,61.2,46,falling,-1.4
+702,"St. Landry Parish, Louisiana",22097,No,61.2,58,stable,-0.7
+703,"Otsego County, Michigan",26137,No,61.2,21,stable,0.8
+704,"Lyon County, Nevada",32019,No,61.2,41,stable,0
+705,"Montgomery County, Tennessee",47125,No,61.2,75,falling,-2.5
+706,"Weakley County, Tennessee",47183,No,61.2,26,stable,0.2
+707,"Fleming County, Kentucky",21069,No,61.1,11,stable,-1
+708,"Washington County, Maine",23029,No,61.1,31,stable,-0.7
+709,"Talladega County, Alabama",1121,No,61,61,stable,-0.6
+710,"Treutlen County, Georgia",13283,No,61,5,stable,0.1
+711,"Pershing County, Nevada",32027,No,61,4,**,**
+712,"Burke County, North Carolina",37023,No,61,73,stable,0.4
+713,"Maury County, Tennessee",47119,No,61,57,falling,-1.1
+714,"Carroll County, Tennessee",47017,No,61,25,stable,-11.7
+715,"Dougherty County, Georgia",13095,No,60.9,59,rising,5.2
+716,"Marshall County, Kentucky",21157,No,60.9,29,stable,-18.9
+717,"Oxford County, Maine",23017,No,60.9,50,stable,-0.3
+718,"Laclede County, Missouri",29105,No,60.9,27,falling,-1.3
+719,"Pottawatomie County, Oklahoma",40125,No,60.9,49,stable,-0.7
+720,"Valdez-Cordova Census Area, Alaska",2261,No,60.8,4,**,**
+721,"Androscoggin County, Maine",23001,No,60.8,80,stable,-0.4
+722,"Clay County, Mississippi",28025,No,60.8,15,stable,1.2
+723,"Edwards County, Illinois",17047,No,60.7,6,stable,1.1
+724,"Newaygo County, Michigan",26123,No,60.7,38,stable,-0.2
+725,"Jasper County, Missouri",29097,No,60.7,78,stable,-0.6
+726,"Clark County, Ohio",39023,No,60.7,112,falling,-0.8
+727,"Marion County, West Virginia",54049,No,60.7,46,stable,-0.5
+728,"Thomas County, Georgia",13275,No,60.6,34,stable,-0.9
+729,"Long County, Georgia",13183,No,60.6,7,stable,-1.4
+730,"Larue County, Kentucky",21123,No,60.6,11,stable,-0.9
+731,"Washington County, Kentucky",21229,No,60.6,9,stable,13.2
+732,"Genesee County, Michigan",26049,No,60.6,298,stable,-0.4
+733,"Adams County, Mississippi",28001,No,60.6,26,stable,-0.8
+734,"Tyler County, Texas",48457,No,60.6,19,stable,-1
+735,"Pend Oreille County, Washington",53051,No,60.6,12,falling,-1.8
+736,"Morgan County, Alabama",1103,No,60.5,88,stable,-2.1
+737,"Cook County, Georgia",13075,No,60.5,12,stable,6.1
+738,"Johnson County, Illinois",17087,No,60.5,10,stable,-0.5
+739,"Jefferson County, Kentucky",21111,No,60.5,512,falling,-2.8
+740,"Simpson County, Mississippi",28127,No,60.5,20,stable,-1.2
+741,"Wood County, West Virginia",54107,No,60.5,71,falling,-1.3
+742,"Sevier County, Arkansas",5133,No,60.4,10,stable,-1.8
+743,"East Feliciana Parish, Louisiana",22037,No,60.4,14,stable,-1
+744,"Penobscot County, Maine",23019,No,60.4,116,stable,-0.6
+745,"Pontotoc County, Mississippi",28115,No,60.4,20,stable,-1.2
+746,"Sampson County, North Carolina",37163,No,60.4,46,stable,-0.3
+747,"Perry County, Alabama",1105,No,60.3,8,stable,2.1
+748,"St. Lawrence County, New York",36089,No,60.3,78,falling,-0.5
+749,"Cherokee County, Texas",48073,No,60.3,37,falling,-1.8
+750,"Portsmouth City, Virginia",51740,No,60.3,63,falling,-1.1
+751,"Conecuh County, Alabama",1035,No,60.2,12,stable,-0.1
+752,"Brown County, Indiana",18013,No,60.2,13,stable,-0.4
+753,"Presque Isle County, Michigan",26141,No,60.2,16,stable,-0.3
+754,"Rockingham County, North Carolina",37157,No,60.2,75,stable,-0.4
+755,"Harnett County, North Carolina",37085,No,60.2,63,stable,-0.7
+756,"Randolph County, North Carolina",37151,No,60.2,103,stable,0.2
+757,"Custer County, Oklahoma",40039,No,60.2,18,stable,-0.6
+758,"Young County, Texas",48503,No,60.2,16,stable,-0.1
+759,"Henderson County, Texas",48213,No,60.2,70,falling,-1.6
+760,"Bleckley County, Georgia",13023,No,60.1,9,falling,-2.1
+761,"Early County, Georgia",13099,No,60.1,8,stable,1.2
+762,"Tazewell County, Illinois",17179,No,60.1,104,falling,-0.5
+763,"Peoria County, Illinois",17143,No,60.1,129,stable,-0.2
+764,"Boone County, Kentucky",21015,No,60.1,63,falling,-1.2
+765,"Roscommon County, Michigan",26143,No,60.1,30,stable,-0.9
+766,"Carroll County, Mississippi",28015,No,60.1,9,stable,1.3
+767,"Barry County, Missouri",29009,No,60.1,31,stable,0.4
+768,"Licking County, Ohio",39089,No,60.1,113,falling,-5.8
+769,"Pontotoc County, Oklahoma",40123,No,60.1,27,stable,-0.5
+770,"McClain County, Oklahoma",40087,No,60.1,23,stable,-0.8
+771,"Haskell County, Texas",48207,No,60.1,5,stable,-0.2
+772,"Middlesex County, Virginia",51119,No,60.1,13,stable,-0.8
+773,"Campbell County, Wyoming",56005,No,60.1,16,stable,0.1
+774,"Jenkins County, Georgia",13165,No,60,6,**,**
+775,"Steuben County, New York",36101,No,60,78,stable,-0.1
+776,"Tyrrell County, North Carolina",37177,No,60,3,stable,-0.5
+777,"Logan County, Ohio",39091,No,60,34,stable,0.2
+778,"Ashtabula County, Ohio",39007,No,60,78,stable,0
+779,"Johnston County, Oklahoma",40069,No,60,9,falling,-2.6
+780,"Greene County, Pennsylvania",42059,No,60,29,stable,0.1
+781,"Shelby County, Texas",48419,No,60,19,falling,-1.4
+782,"Harrison County, Texas",48203,No,60,45,stable,0.3
+783,"Calhoun County, Alabama",1015,No,59.9,86,falling,-4.1
+784,"Blount County, Alabama",1009,No,59.9,43,falling,-1.6
+785,"Del Norte County, California",6015,No,59.9,19,falling,-2.3
+786,"Coffee County, Georgia",13069,No,59.9,25,stable,0.3
+787,"Macoupin County, Illinois",17117,No,59.9,39,stable,0.1
+788,"LaFourche Parish, Louisiana",22057,No,59.9,62,falling,-1.2
+789,"Alcorn County, Mississippi",28003,No,59.9,29,stable,0.2
+790,"Churchill County, Nevada",32001,No,59.9,18,stable,0.8
+791,"Fayette County, Pennsylvania",42051,No,59.9,119,stable,-0.1
+792,"Giles County, Tennessee",47055,No,59.9,24,stable,-1
+793,"Rains County, Texas",48379,No,59.9,11,falling,-2.6
+794,"Navarro County, Texas",48349,No,59.9,35,falling,-1.3
+795,"Upshur County, West Virginia",54097,No,59.9,19,stable,-0.3
+796,"Bullitt County, Kentucky",21029,No,59.8,44,falling,-2.4
+797,"Worcester County, Maryland",24047,No,59.8,54,stable,-0.8
+798,"Sunflower County, Mississippi",28133,No,59.8,17,stable,-0.3
+799,"Page County, Virginia",51139,No,59.8,20,stable,0.1
+800,"Raleigh County, West Virginia",54081,No,59.8,64,stable,-0.8
+801,"Cleburne County, Alabama",1029,No,59.7,12,rising,2.6
+802,"Wabash County, Illinois",17185,No,59.7,10,stable,0
+803,"Edgar County, Illinois",17045,No,59.7,16,stable,0.3
+804,"Lee County, Iowa",19111,No,59.7,30,stable,-1
+805,"Jessamine County, Kentucky",21113,No,59.7,29,falling,-1.5
+806,"Wicomico County, Maryland",24045,No,59.7,65,stable,-1.1
+807,"Jefferson County, Mississippi",28063,No,59.7,5,stable,-0.1
+808,"Sheridan County, Montana",30091,No,59.7,4,**,**
+809,"Douglas County, Oregon",41019,No,59.7,107,falling,-0.7
+810,"Berkeley County, South Carolina",45015,No,59.7,97,falling,-1.3
+811,"Sullivan County, Tennessee",47163,No,59.7,138,stable,-0.3
+812,"Nacogdoches County, Texas",48347,No,59.7,37,stable,0
+813,"Louisa County, Virginia",51109,No,59.7,26,stable,-0.9
+814,"Concordia Parish, Louisiana",22029,No,59.6,15,stable,-0.5
+815,"Yazoo County, Mississippi",28163,No,59.6,17,stable,-0.4
+816,"Reynolds County, Missouri",29179,No,59.6,6,stable,0.1
+817,"Trousdale County, Tennessee",47169,No,59.6,6,stable,-1.4
+818,"Newton County, Georgia",13217,No,59.5,51,stable,-0.8
+819,"Scott County, Kentucky",21209,No,59.5,24,falling,-1.6
+820,"Lyon County, Kentucky",21143,No,59.5,8,stable,-0.6
+821,"Sabine Parish, Louisiana",22085,No,59.5,20,stable,-0.9
+822,"Beauregard Parish, Louisiana",22011,No,59.5,23,stable,-0.5
+823,"St. Clair County, Michigan",26147,No,59.5,122,stable,-0.3
+824,"Copiah County, Mississippi",28029,No,59.5,20,stable,-1
+825,"Pasquotank County, North Carolina",37139,No,59.5,27,stable,-0.3
+826,"Butte County, South Dakota",46019,No,59.5,8,stable,0.1
+827,"Williamsburg County, South Carolina",45089,No,59.4,26,stable,-0.1
+828,"Autauga County, Alabama",1001,No,59.3,34,falling,-1.5
+829,"Independence County, Arkansas",5063,No,59.3,27,falling,-3
+830,"Emanuel County, Georgia",13107,No,59.3,16,stable,-0.8
+831,"Wayne County, Georgia",13305,No,59.3,19,stable,-0.5
+832,"Chippewa County, Michigan",26033,No,59.3,27,stable,0.3
+833,"Clinton County, Missouri",29049,No,59.3,15,stable,0
+834,"Sweet Grass County, Montana",30097,No,59.3,4,**,**
+835,"Alleghany County, North Carolina",37005,No,59.3,11,stable,0.1
+836,"Crisp County, Georgia",13081,No,59.2,17,stable,-0.8
+837,"Elmore County, Idaho",16039,No,59.2,13,stable,-0.9
+838,"Hancock County, Indiana",18059,No,59.2,45,stable,0.2
+839,"Bartholomew County, Indiana",18005,No,59.2,53,stable,0.2
+840,"Montcalm County, Michigan",26117,No,59.2,44,stable,-0.6
+841,"Cleveland County, North Carolina",37045,No,59.2,73,stable,0.8
+842,"Chowan County, North Carolina",37041,No,59.2,14,stable,-0.3
+843,"Kimble County, Texas",48267,No,59.2,5,stable,-0.9
+844,"Bosque County, Texas",48035,No,59.2,18,stable,0
+845,"Cumberland County, Virginia",51049,No,59.2,8,stable,-1
+846,"Marquette County, Wisconsin",55077,No,59.2,15,stable,1.2
+847,"Mohave County, Arizona",4015,No,59.1,216,falling,-3.2
+848,"Bibb County, Georgia",13021,No,59.1,99,falling,-0.7
+849,"Randolph County, Indiana",18135,No,59.1,21,stable,0.1
+850,"Hillsdale County, Michigan",26059,No,59.1,36,stable,-0.3
+851,"Chase County, Nebraska",31029,No,59.1,4,stable,0.5
+852,"Cortland County, New York",36023,No,59.1,32,stable,-0.4
+853,"Beaufort County, North Carolina",37013,No,59.1,41,falling,-1.1
+854,"Wheeler County, Texas",48483,No,59.1,4,stable,0
+855,"Pulaski County, Virginia",51155,No,59.1,30,stable,-0.4
+856,"Wrangell-Petersburg Census Area, Alaska",2280,No,59,4,**,**
+857,"Lincoln County, Arkansas",5079,No,59,9,stable,-0.3
+858,"Carroll County, Georgia",13045,No,59,62,stable,-0.5
+859,"Crawford County, Kansas",20037,No,59,26,stable,-0.3
+860,"Spencer County, Kentucky",21215,No,59,10,stable,-1.9
+861,"Shiawassee County, Michigan",26155,No,59,51,stable,0.2
+862,"Franklin County, Vermont",50011,No,59,29,stable,0
+863,"Calhoun County, Michigan",26025,No,58.9,99,stable,-0.1
+864,"Ogemaw County, Michigan",26129,No,58.9,22,stable,-0.8
+865,"Van Buren County, Michigan",26159,No,58.9,53,stable,-0.3
+866,"Daviess County, Missouri",29061,No,58.9,7,stable,-0.9
+867,"Franklin County, North Carolina",37069,No,58.9,40,stable,-0.5
+868,"Lincoln County, Oregon",41041,No,58.9,47,falling,-1.1
+869,"Nolan County, Texas",48353,No,58.9,11,stable,0.2
+870,"Escambia County, Florida",12033,No,58.8,211,falling,-1.2
+871,"Ascension Parish, Louisiana",22005,No,58.8,51,stable,-0.7
+872,"St. Charles Parish, Louisiana",22089,No,58.8,29,stable,-5.4
+873,"Baraga County, Michigan",26013,No,58.8,7,stable,-1
+874,"Schuyler County, New York",36097,No,58.8,15,stable,-1.3
+875,"Cannon County, Tennessee",47015,No,58.8,10,stable,-1.2
+876,"Cass County, Texas",48067,No,58.8,27,stable,-0.7
+877,"Eastland County, Texas",48133,No,58.8,16,stable,-0.5
+878,"Fannin County, Texas",48147,No,58.8,27,stable,-0.8
+879,"Burt County, Nebraska",31021,No,58.7,6,stable,1.7
+880,"Jefferson County, Ohio",39081,No,58.7,59,falling,-1.3
+881,"Washington County, Oklahoma",40147,No,58.7,42,stable,0.3
+882,"Bowie County, Texas",48037,No,58.7,63,falling,-1.1
+883,"Ashley County, Arkansas",5003,No,58.6,17,falling,-1.5
+884,"Prowers County, Colorado",8099,No,58.6,9,stable,-0.9
+885,"Toombs County, Georgia",13279,No,58.6,18,falling,-2.1
+886,"Martin County, Indiana",18101,No,58.6,8,stable,0.3
+887,"Delaware County, Indiana",18035,No,58.6,80,stable,-9.6
+888,"Des Moines County, Iowa",19057,No,58.6,33,stable,0.6
+889,"Tensas Parish, Louisiana",22107,No,58.6,4,stable,0
+890,"Perry County, Mississippi",28111,No,58.6,8,stable,0.4
+891,"Marion County, Missouri",29127,No,58.6,22,stable,-0.1
+892,"Jackson County, Oklahoma",40065,No,58.6,17,stable,-6.3
+893,"Kershaw County, South Carolina",45055,No,58.6,46,falling,-1.2
+894,"Randolph County, Alabama",1111,No,58.5,18,stable,1.2
+895,"Madison County, Arkansas",5087,No,58.5,12,stable,-0.6
+896,"Clay County, Florida",12019,No,58.5,117,falling,-1.6
+897,"Madison County, Illinois",17119,No,58.5,186,falling,-0.5
+898,"Jefferson County, Indiana",18077,No,58.5,23,stable,0.5
+899,"Elliott County, Kentucky",21063,No,58.5,6,stable,-1.7
+900,"DeSoto County, Mississippi",28033,No,58.5,85,falling,-1.4
+901,"Iron County, Missouri",29093,No,58.5,9,stable,-1.6
+902,"Wilkes County, North Carolina",37193,No,58.5,57,stable,0.4
+903,"Rowan County, North Carolina",37159,No,58.5,98,stable,0
+904,"Butler County, Ohio",39017,No,58.5,221,falling,-2
+905,"Horry County, South Carolina",45051,No,58.5,219,falling,-0.8
+906,"Mitchell County, Texas",48335,No,58.5,6,stable,-2.1
+907,"Clay County, Indiana",18021,No,58.4,20,stable,-1.2
+908,"Clarke County, Iowa",19039,No,58.4,7,stable,1.1
+909,"Allen Parish, Louisiana",22003,No,58.4,16,stable,-1.4
+910,"Muskegon County, Michigan",26121,No,58.4,118,stable,-0.1
+911,"Dade County, Missouri",29057,No,58.4,7,stable,0.4
+912,"Rensselaer County, New York",36083,No,58.4,109,falling,-0.7
+913,"Robeson County, North Carolina",37155,No,58.4,79,stable,-0.3
+914,"Johnston County, North Carolina",37101,No,58.4,94,falling,-1.4
+915,"Palo Pinto County, Texas",48363,No,58.4,22,falling,-1.7
+916,"Fayette County, Alabama",1057,No,58.3,14,stable,-0.7
+917,"Bethel Census Area, Alaska",2050,No,58.3,5,**,**
+918,"Neshoba County, Mississippi",28099,No,58.3,19,stable,-1.2
+919,"Pawnee County, Oklahoma",40117,No,58.3,13,stable,2.7
+920,"Philadelphia County, Pennsylvania",42101,No,58.3,903,falling,-2
+921,"Stone County, Arkansas",5137,No,58.2,12,stable,-0.8
+922,"Decatur County, Georgia",13087,No,58.2,19,stable,-1.2
+923,"Genesee County, New York",36037,No,58.2,45,stable,-0.7
+924,"Wayne County, North Carolina",37191,No,58.2,79,falling,-0.9
+925,"Comanche County, Oklahoma",40031,No,58.2,63,stable,-0.4
+926,"Crockett County, Tennessee",47033,No,58.2,11,stable,-1.1
+927,"Doniphan County, Kansas",20043,No,58.1,6,stable,-0.1
+928,"Calcasieu Parish, Louisiana",22019,No,58.1,121,falling,-1.5
+929,"Winston County, Mississippi",28159,No,58.1,15,stable,0.3
+930,"Atchison County, Missouri",29005,No,58.1,6,stable,1.3
+931,"McDowell County, North Carolina",37111,No,58.1,35,stable,-0.1
+932,"Coryell County, Texas",48099,No,58.1,28,falling,-2.8
+933,"Nash County, North Carolina",37127,No,58,68,stable,-0.4
+934,"Pike County, Indiana",18125,No,57.9,10,stable,0.3
+935,"Somerset County, Maine",23025,No,57.9,41,falling,-1.1
+936,"Macon County, North Carolina",37113,No,57.9,35,stable,0.6
+937,"Hardin County, Ohio",39065,No,57.9,21,stable,0.1
+938,"Cherokee County, South Carolina",45021,No,57.9,38,stable,-2.4
+939,"Wood County, Texas",48499,No,57.9,44,stable,-0.8
+940,"Limestone County, Texas",48293,No,57.9,17,falling,-2.4
+941,"Morgan County, West Virginia",54065,No,57.9,15,stable,0.5
+942,"Douglas County, Wisconsin",55031,No,57.9,31,stable,-0.4
+943,"Hale County, Alabama",1065,No,57.8,11,stable,-0.5
+944,"Polk County, Arkansas",5113,No,57.8,18,stable,-0.5
+945,"Ripley County, Indiana",18137,No,57.8,20,falling,-5.2
+946,"Isabella County, Michigan",26073,No,57.8,33,stable,0.3
+947,"Shannon County, Missouri",29203,No,57.8,7,stable,-1.5
+948,"Delaware County, Oklahoma",40041,No,57.8,37,falling,-1.6
+949,"Newton County, Texas",48351,No,57.8,11,stable,-1
+950,"Wilkes County, Georgia",13317,No,57.7,9,stable,0.1
+951,"Winnebago County, Illinois",17201,No,57.7,198,stable,-0.1
+952,"Jay County, Indiana",18075,No,57.7,15,stable,1.3
+953,"Wayne County, Michigan",26163,No,57.7,"1,136",falling,-0.8
+954,"Preble County, Ohio",39135,No,57.7,31,stable,-0.1
+955,"Ward County, Texas",48475,No,57.7,7,stable,-1.6
+956,"Lunenburg County, Virginia",51111,No,57.7,11,stable,0.7
+957,"McDuffie County, Georgia",13189,No,57.6,14,stable,-0.3
+958,"Hamilton County, New York",36041,No,57.6,5,stable,0.2
+959,"Harrison County, Ohio",39067,No,57.6,14,stable,-0.9
+960,"Abbeville County, South Carolina",45001,No,57.6,20,stable,0.4
+961,"McCook County, South Dakota",46087,No,57.6,5,**,**
+962,"Upshur County, Texas",48459,No,57.6,29,stable,-0.7
+963,"Baylor County, Texas",48023,No,57.6,4,**,**
+964,"Colorado County, Texas",48089,No,57.6,18,rising,3.5
+965,"Pickens County, Alabama",1107,No,57.5,16,stable,0.3
+966,"Van Buren County, Arkansas",5141,No,57.5,17,stable,-1.1
+967,"Richland Parish, Louisiana",22083,No,57.5,14,stable,-1.4
+968,"Van Zandt County, Texas",48467,No,57.5,42,stable,-0.2
+969,"Hardin County, Illinois",17069,No,57.4,4,stable,-33.4
+970,"Walthall County, Mississippi",28147,No,57.4,11,stable,0
+971,"Pasco County, Florida",12101,No,57.3,422,falling,-0.7
+972,"Nassau County, Florida",12089,No,57.3,57,falling,-1.6
+973,"Kennebec County, Maine",23011,No,57.3,91,falling,-1.2
+974,"Attala County, Mississippi",28007,No,57.3,15,stable,0.8
+975,"Clinton County, Pennsylvania",42035,No,57.3,29,stable,-0.2
+976,"Gregory County, South Dakota",46053,No,57.3,4,stable,0.8
+977,"Bledsoe County, Tennessee",47007,No,57.3,10,falling,-2.1
+978,"Haywood County, Tennessee",47075,No,57.3,13,stable,-0.5
+979,"Newport News City, Virginia",51700,No,57.3,94,falling,-1
+980,"Richmond City, Virginia",51760,No,57.3,115,falling,-5.2
+981,"Twiggs County, Georgia",13289,No,57.2,7,stable,-0.8
+982,"Vanderburgh County, Indiana",18163,No,57.2,122,falling,-1.2
+983,"Polk County, Iowa",19153,No,57.2,233,falling,-0.7
+984,"Cherokee County, North Carolina",37039,No,57.2,28,stable,-1.1
+985,"Gray County, Texas",48179,No,57.2,16,stable,-0.9
+986,"Caledonia County, Vermont",50005,No,57.2,23,stable,-0.1
+987,"Lee County, Alabama",1081,No,57.1,66,stable,0.9
+988,"Okaloosa County, Florida",12091,No,57.1,121,falling,-1.7
+989,"Henry County, Illinois",17073,No,57.1,40,stable,0.4
+990,"Warren County, Illinois",17187,No,57.1,13,stable,0.2
+991,"Franklin County, Indiana",18047,No,57.1,16,stable,-0.1
+992,"Cass County, Iowa",19029,No,57.1,12,stable,-0.2
+993,"Calloway County, Kentucky",21035,No,57.1,25,stable,-0.5
+994,"Terrebonne Parish, Louisiana",22109,No,57.1,64,falling,-1.4
+995,"Monroe County, Mississippi",28095,No,57.1,26,stable,-0.3
+996,"Davidson County, Tennessee",47037,No,57.1,331,falling,-2.8
+997,"Kent County, Delaware",10001,No,57,105,falling,-1.1
+998,"Screven County, Georgia",13251,No,57,10,stable,-0.7
+999,"Gogebic County, Michigan",26053,No,57,16,stable,-12.4
+1000,"Monroe County, Michigan",26115,No,57,101,stable,-0.7
+1001,"Montgomery County, Mississippi",28097,No,57,8,stable,-1.2
+1002,"Pike County, Missouri",29163,No,57,13,stable,0.5
+1003,"Craven County, North Carolina",37049,No,57,73,stable,-0.5
+1004,"Wilkinson County, Georgia",13319,No,56.9,8,stable,-1
+1005,"Decatur County, Indiana",18031,No,56.9,17,stable,0.6
+1006,"Boyle County, Kentucky",21021,No,56.9,21,falling,-12.9
+1007,"West Feliciana Parish, Louisiana",22125,No,56.9,10,stable,-2.2
+1008,"Mason County, Michigan",26105,No,56.9,25,stable,0.1
+1009,"Warren County, Missouri",29219,No,56.9,22,stable,-0.1
+1010,"Mineral County, Montana",30061,No,56.9,4,**,**
+1011,"Greene County, North Carolina",37079,No,56.9,13,stable,0
+1012,"Josephine County, Oregon",41033,No,56.9,83,stable,-0.8
+1013,"Parker County, Texas",48367,No,56.9,71,falling,-1.3
+1014,"Chambers County, Texas",48071,No,56.9,17,stable,-1.3
+1015,"Orange County, Vermont",50017,No,56.9,21,stable,0.1
+1016,"Lauderdale County, Alabama",1077,No,56.8,71,stable,0.3
+1017,"Bulloch County, Georgia",13031,No,56.8,32,stable,-0.1
+1018,"Richmond County, Georgia",13245,No,56.8,113,falling,-0.9
+1019,"St. Clair County, Illinois",17163,No,56.8,165,falling,-1.1
+1020,"Warren County, Mississippi",28149,No,56.8,31,stable,0
+1021,"Lincoln County, Montana",30053,No,56.8,18,stable,-0.9
+1022,"Brunswick County, North Carolina",37019,No,56.8,101,falling,-1.2
+1023,"Northampton County, North Carolina",37131,No,56.8,19,stable,-0.8
+1024,"Marion County, Georgia",13197,No,56.7,6,**,**
+1025,"Jones County, Georgia",13169,No,56.7,18,stable,-0.3
+1026,"Richland County, Illinois",17159,No,56.7,13,stable,0.2
+1027,"Whiteside County, Illinois",17195,No,56.7,45,stable,0.9
+1028,"Caroline County, Maryland",24011,No,56.7,22,stable,-1.1
+1029,"Luce County, Michigan",26095,No,56.7,6,stable,-0.6
+1030,"Cedar County, Missouri",29039,No,56.7,13,stable,-0.6
+1031,"Pembina County, North Dakota",38067,No,56.7,7,stable,-1
+1032,"Portage County, Ohio",39133,No,56.7,100,stable,-0.4
+1033,"Grady County, Oklahoma",40051,No,56.7,35,falling,-2.5
+1034,"Bradley County, Tennessee",47011,No,56.7,67,falling,-1.1
+1035,"Real County, Texas",48385,No,56.7,4,**,**
+1036,"Warren County, Virginia",51187,No,56.7,24,stable,-1.2
+1037,"Little River County, Arkansas",5081,No,56.6,11,falling,-1.7
+1038,"Marion County, Florida",12083,No,56.6,347,falling,-1.1
+1039,"Boone County, Indiana",18011,No,56.6,31,stable,-0.7
+1040,"Lapeer County, Michigan",26087,No,56.6,58,stable,-0.3
+1041,"Tunica County, Mississippi",28143,No,56.6,5,falling,-2
+1042,"Cape Girardeau County, Missouri",29031,No,56.6,50,stable,0.8
+1043,"Cumberland County, North Carolina",37051,No,56.6,154,falling,-1.8
+1044,"Defiance County, Ohio",39039,No,56.6,27,stable,0.5
+1045,"Potter County, Pennsylvania",42105,No,56.6,15,stable,1.2
+1046,"Aransas County, Texas",48007,No,56.6,24,falling,-2
+1047,"Bastrop County, Texas",48021,No,56.6,43,stable,-0.8
+1048,"Panola County, Texas",48365,No,56.6,17,stable,-1
+1049,"Upson County, Georgia",13293,No,56.5,20,stable,0.4
+1050,"Towns County, Georgia",13281,No,56.5,12,stable,0.6
+1051,"La Salle County, Illinois",17099,No,56.5,84,falling,-2
+1052,"Union County, Iowa",19175,No,56.5,10,stable,0
+1053,"Vermilion Parish, Louisiana",22113,No,56.5,36,stable,-0.9
+1054,"Waldo County, Maine",23027,No,56.5,29,falling,-1.1
+1055,"Trumbull County, Ohio",39155,No,56.5,168,stable,-0.3
+1056,"Dewey County, Oklahoma",40043,No,56.5,4,stable,-1.2
+1057,"Venango County, Pennsylvania",42121,No,56.5,46,stable,0.1
+1058,"Grayson County, Texas",48181,No,56.5,87,falling,-1.4
+1059,"Houston County, Georgia",13153,No,56.4,72,stable,-1
+1060,"Greene County, Iowa",19073,No,56.4,8,stable,2.2
+1061,"Lowndes County, Mississippi",28087,No,56.4,37,falling,-1.1
+1062,"Franklin County, New York",36033,No,56.4,33,falling,-1.3
+1063,"Latimer County, Oklahoma",40077,No,56.4,9,falling,-2.6
+1064,"Bedford County, Tennessee",47003,No,56.4,28,stable,-0.8
+1065,"Ochiltree County, Texas",48357,No,56.4,5,stable,-1.7
+1066,"Buchanan County, Virginia",51027,No,56.4,19,stable,-1.1
+1067,"Henry County, Alabama",1067,No,56.3,14,stable,-1.1
+1068,"DeKalb County, Alabama",1049,No,56.3,46,stable,-8.2
+1069,"Appling County, Georgia",13001,No,56.3,12,stable,-0.9
+1070,"Appanoose County, Iowa",19007,No,56.3,11,stable,1.6
+1071,"Black Hawk County, Iowa",19013,No,56.3,84,stable,0.9
+1072,"Phillips County, Kansas",20147,No,56.3,5,**,**
+1073,"St. John the Baptist Parish, Louisiana",22095,No,56.3,25,falling,-1.7
+1074,"Piscataquis County, Maine",23021,No,56.3,15,stable,-1
+1075,"Niagara County, New York",36063,No,56.3,159,falling,-0.6
+1076,"Rutherford County, North Carolina",37161,No,56.3,54,stable,-0.2
+1077,"Anson County, North Carolina",37007,No,56.3,18,stable,-0.1
+1078,"Wyandot County, Ohio",39175,No,56.3,17,stable,1.5
+1079,"Montgomery County, Ohio",39113,No,56.3,376,falling,-1.1
+1080,"Florence County, South Carolina",45041,No,56.3,87,falling,-1
+1081,"Donley County, Texas",48129,No,56.3,4,stable,-0.3
+1082,"Mitchell County, Georgia",13205,No,56.2,15,falling,-1.9
+1083,"Shelby County, Indiana",18145,No,56.2,30,stable,-0.8
+1084,"Buchanan County, Iowa",19019,No,56.2,15,stable,0.1
+1085,"Bourbon County, Kentucky",21017,No,56.2,14,stable,-1.3
+1086,"Mille Lacs County, Minnesota",27095,No,56.2,19,stable,0.8
+1087,"Tishomingo County, Mississippi",28141,No,56.2,16,falling,-1.9
+1088,"Madison County, New York",36053,No,56.2,49,stable,0.2
+1089,"Chemung County, New York",36015,No,56.2,66,stable,-0.7
+1090,"Champaign County, Ohio",39021,No,56.2,27,stable,-0.1
+1091,"Sandusky County, Ohio",39143,No,56.2,43,stable,0.3
+1092,"Richland County, Ohio",39139,No,56.2,93,stable,-0.4
+1093,"Barnwell County, South Carolina",45011,No,56.2,15,falling,-1.9
+1094,"Darlington County, South Carolina",45031,No,56.2,49,falling,-2.9
+1095,"Houston County, Alabama",1069,No,56.1,69,falling,-1.1
+1096,"Clark County, Illinois",17023,No,56.1,13,stable,0.7
+1097,"Coles County, Illinois",17029,No,56.1,34,stable,0.6
+1098,"Elk County, Kansas",20049,No,56.1,3,stable,-0.7
+1099,"Labette County, Kansas",20099,No,56.1,16,stable,1.2
+1100,"Jackson County, Kansas",20085,No,56.1,10,stable,0
+1101,"Montmorency County, Michigan",26119,No,56.1,11,stable,-0.7
+1102,"Swift County, Minnesota",27151,No,56.1,8,stable,1.1
+1103,"Texas County, Missouri",29215,No,56.1,21,stable,-0.2
+1104,"Johnson County, Texas",48251,No,56.1,86,falling,-1.1
+1105,"Lake County, California",6033,No,56,53,falling,-1.7
+1106,"Elbert County, Georgia",13105,No,56,15,stable,-0.3
+1107,"Clinch County, Georgia",13065,No,56,4,stable,-0.6
+1108,"Daviess County, Indiana",18027,No,56,20,stable,-0.6
+1109,"Barber County, Kansas",20007,No,56,4,stable,0.9
+1110,"Jones County, Mississippi",28067,No,56,45,falling,-1.2
+1111,"Gates County, North Carolina",37073,No,56,9,stable,0.3
+1112,"Osage County, Oklahoma",40113,No,56,36,falling,-1
+1113,"Danville City, Virginia",51590,No,56,35,stable,-0.8
+1114,"Hampton City, Virginia",51650,No,56,80,falling,-1.3
+1115,"Limestone County, Alabama",1083,No,55.9,51,falling,-4
+1116,"Putnam County, Georgia",13237,No,55.9,17,stable,-1.2
+1117,"Macon County, Georgia",13193,No,55.9,9,stable,0.6
+1118,"LaPorte County, Indiana",18091,No,55.9,74,falling,-0.8
+1119,"Big Stone County, Minnesota",27011,No,55.9,6,stable,-0.3
+1120,"Dallas County, Missouri",29059,No,55.9,13,stable,-0.2
+1121,"Oklahoma County, Oklahoma",40109,No,55.9,409,falling,-1.2
+1122,"Knox County, Tennessee",47093,No,55.9,268,falling,-2.9
+1123,"Pacific County, Washington",53049,No,55.9,22,stable,-1.3
+1124,"Pocahontas County, West Virginia",54075,No,55.9,8,stable,0.1
+1125,"Ouachita County, Arkansas",5103,No,55.8,20,stable,-1
+1126,"Hernando County, Florida",12053,No,55.8,183,falling,-3.2
+1127,"Clay County, Illinois",17025,No,55.8,11,stable,-0.3
+1128,"Thurston County, Nebraska",31173,No,55.8,4,**,**
+1129,"Wilson County, North Carolina",37195,No,55.8,55,falling,-1.1
+1130,"Stanly County, North Carolina",37167,No,55.8,43,stable,-0.3
+1131,"Wichita County, Texas",48485,No,55.8,79,falling,-7.2
+1132,"Greene County, Illinois",17061,No,55.7,11,stable,0.6
+1133,"Clay County, Missouri",29047,No,55.7,122,falling,-0.9
+1134,"Teton County, Montana",30099,No,55.7,5,stable,-0.6
+1135,"Columbia County, New York",36021,No,55.7,52,stable,-0.7
+1136,"Ottawa County, Ohio",39123,No,55.7,35,stable,0.4
+1137,"Hamilton County, Ohio",39061,No,55.7,500,falling,-2.1
+1138,"San Patricio County, Texas",48409,No,55.7,39,falling,-1.4
+1139,"Lamar County, Texas",48277,No,55.7,36,falling,-1.1
+1140,"Rusk County, Wisconsin",55107,No,55.7,13,stable,0.8
+1141,"Hempstead County, Arkansas",5057,No,55.6,16,stable,-1
+1142,"McCracken County, Kentucky",21145,No,55.6,49,falling,-5.7
+1143,"Webster Parish, Louisiana",22119,No,55.6,30,stable,-0.8
+1144,"Wayne County, Mississippi",28153,No,55.6,14,stable,0.1
+1145,"Harrison County, Missouri",29081,No,55.6,8,stable,0.5
+1146,"Grundy County, Missouri",29079,No,55.6,9,stable,-1.2
+1147,"Gregg County, Texas",48183,No,55.6,76,falling,-1.3
+1148,"Charles City County, Virginia",51036,No,55.6,7,falling,-3.4
+1149,"Floyd County, Georgia",13115,No,55.5,63,falling,-11.9
+1150,"Crawford County, Illinois",17033,No,55.5,15,stable,0.2
+1151,"Wapello County, Iowa",19179,No,55.5,25,stable,-0.1
+1152,"Newton County, Missouri",29145,No,55.5,40,falling,-1.4
+1153,"Gloucester County, New Jersey",34015,No,55.5,172,falling,-3.2
+1154,"Washington County, Ohio",39167,No,55.5,49,stable,-0.5
+1155,"Brevard County, Florida",12009,No,55.4,487,falling,-1.3
+1156,"Ontonagon County, Michigan",26131,No,55.4,8,stable,0.2
+1157,"Lucas County, Ohio",39095,No,55.4,275,falling,-1.1
+1158,"Lake County, Ohio",39085,No,55.4,169,falling,-0.8
+1159,"Clarendon County, South Carolina",45027,No,55.4,27,stable,0
+1160,"Lincoln County, Tennessee",47103,No,55.4,25,falling,-1.6
+1161,"King George County, Virginia",51099,No,55.4,12,stable,-1.6
+1162,"Carroll County, Virginia",51035,No,55.4,26,stable,0.6
+1163,"Yuba County, California",6115,No,55.3,35,falling,-1.8
+1164,"Grundy County, Illinois",17063,No,55.3,28,stable,-0.7
+1165,"Pettis County, Missouri",29159,No,55.3,27,stable,-0.6
+1166,"Jackson County, Missouri",29095,No,55.3,398,falling,-1
+1167,"Ransom County, North Dakota",38073,No,55.3,5,stable,1.3
+1168,"Wagoner County, Oklahoma",40145,No,55.3,43,falling,-1.3
+1169,"Wilson County, Tennessee",47189,No,55.3,68,stable,-0.8
+1170,"Washington County, Tennessee",47179,No,55.3,84,stable,-0.6
+1171,"Clay County, Texas",48077,No,55.3,9,stable,-0.5
+1172,"Jewell County, Kansas",20089,No,55.2,3,**,**
+1173,"Belknap County, New Hampshire",33001,No,55.2,46,stable,-0.9
+1174,"Wise County, Texas",48497,No,55.2,35,stable,-0.3
+1175,"Coffee County, Alabama",1031,No,55.1,33,falling,-1.1
+1176,"Conway County, Arkansas",5029,No,55.1,16,stable,-0.3
+1177,"Kankakee County, Illinois",17091,No,55.1,70,falling,-1.2
+1178,"Floyd County, Iowa",19067,No,55.1,13,stable,-0.3
+1179,"Keokuk County, Iowa",19107,No,55.1,9,stable,0.6
+1180,"Lorain County, Ohio",39093,No,55.1,200,falling,-0.8
+1181,"Oconee County, South Carolina",45073,No,55.1,59,stable,-0.6
+1182,"Pittsylvania County, Virginia",51143,No,55.1,50,stable,-0.4
+1183,"Charlottesville City, Virginia",51540,No,55.1,19,stable,-0.5
+1184,"Madison County, Florida",12079,No,55,14,stable,-0.5
+1185,"Douglas County, Georgia",13097,No,55,59,falling,-2.2
+1186,"Putnam County, Illinois",17155,No,55,5,stable,1.2
+1187,"Jefferson Davis County, Mississippi",28065,No,55,9,stable,-1.2
+1188,"Monroe County, Pennsylvania",42089,No,55,103,stable,-0.6
+1189,"Spartanburg County, South Carolina",45083,No,55,179,falling,-3.4
+1190,"Fall River County, South Dakota",46047,No,55,7,stable,1.1
+1191,"Dinwiddie County, Virginia",51053,No,55,19,stable,-0.8
+1192,"Turner County, Georgia",13287,No,54.9,6,stable,-0.7
+1193,"Hancock County, Illinois",17067,No,54.9,16,stable,-0.9
+1194,"West Baton Rouge Parish, Louisiana",22121,No,54.9,13,stable,-1.1
+1195,"Iosco County, Michigan",26069,No,54.9,28,falling,-1.7
+1196,"Humphreys County, Mississippi",28053,No,54.9,5,stable,-1.2
+1197,"Cape May County, New Jersey",34009,No,54.9,90,falling,-1.1
+1198,"Hyde County, North Carolina",37095,No,54.9,4,**,**
+1199,"Miami County, Ohio",39109,No,54.9,72,stable,-0.5
+1200,"Nowata County, Oklahoma",40105,No,54.9,8,stable,-0.9
+1201,"Putnam County, Tennessee",47141,No,54.9,47,stable,0.2
+1202,"Sawyer County, Wisconsin",55113,No,54.9,15,falling,-2
+1203,"Evans County, Georgia",13109,No,54.8,7,stable,1.3
+1204,"Dickinson County, Kansas",20041,No,54.8,15,stable,1.2
+1205,"Caddo Parish, Louisiana",22017,No,54.8,159,falling,-2.4
+1206,"Coos County, New Hampshire",33007,No,54.8,27,falling,-1.2
+1207,"Pulaski County, Arkansas",5119,No,54.7,223,falling,-1.7
+1208,"Noble County, Indiana",18113,No,54.7,28,stable,-0.2
+1209,"Lee County, North Carolina",37105,No,54.7,36,falling,-1.2
+1210,"Kaufman County, Texas",48257,No,54.7,53,falling,-2.1
+1211,"Henry County, Virginia",51089,No,54.7,44,rising,1
+1212,"Juneau County, Wisconsin",55057,No,54.7,21,falling,-2.6
+1213,"Laurens County, Georgia",13175,No,54.6,32,stable,-1
+1214,"Sullivan County, Missouri",29211,No,54.6,5,stable,0
+1215,"Monroe County, Ohio",39111,No,54.6,12,stable,0
+1216,"Wirt County, West Virginia",54105,No,54.6,4,falling,-2.2
+1217,"Tallapoosa County, Alabama",1123,No,54.5,32,falling,-3.8
+1218,"Lincoln County, Georgia",13181,No,54.5,6,stable,-0.6
+1219,"Montgomery County, Indiana",18107,No,54.5,26,stable,0.3
+1220,"Newton County, Mississippi",28101,No,54.5,14,stable,-1.5
+1221,"Union County, Ohio",39159,No,54.5,26,stable,-1.1
+1222,"Kingfisher County, Oklahoma",40073,No,54.5,10,stable,0.9
+1223,"Bamberg County, South Carolina",45009,No,54.5,11,stable,-1.2
+1224,"Galveston County, Texas",48167,No,54.5,162,falling,-1.6
+1225,"Brooke County, West Virginia",54009,No,54.5,21,stable,-0.4
+1226,"Rock County, Wisconsin",55105,No,54.5,101,stable,-0.7
+1227,"Tuscaloosa County, Alabama",1125,No,54.4,100,falling,-1.1
+1228,"St. Francis County, Arkansas",5123,No,54.4,16,stable,-1.1
+1229,"Walton County, Florida",12131,No,54.4,41,falling,-1.9
+1230,"Berrien County, Georgia",13019,No,54.4,12,falling,-2
+1231,"Washington County, Idaho",16087,No,54.4,8,stable,-1.1
+1232,"Coffey County, Kansas",20031,No,54.4,7,stable,0
+1233,"Franklin County, Missouri",29071,No,54.4,64,stable,-9.5
+1234,"Crawford County, Ohio",39033,No,54.4,33,stable,-0.3
+1235,"Auglaize County, Ohio",39011,No,54.4,31,stable,0.4
+1236,"Erie County, Ohio",39043,No,54.4,59,falling,-1.3
+1237,"Stephens County, Oklahoma",40137,No,54.4,33,falling,-3.9
+1238,"Columbia County, Oregon",41009,No,54.4,32,falling,-1.5
+1239,"Georgetown County, South Carolina",45043,No,54.4,51,stable,-0.8
+1240,"Franklin County, Tennessee",47051,No,54.4,31,stable,-0.5
+1241,"Alpena County, Michigan",26007,No,54.3,25,stable,-0.6
+1242,"Missaukee County, Michigan",26113,No,54.3,11,stable,0
+1243,"Callaway County, Missouri",29027,No,54.3,26,stable,-0.6
+1244,"Fairfield County, Ohio",39045,No,54.3,86,stable,-0.6
+1245,"Shenandoah County, Virginia",51171,No,54.3,33,stable,0.5
+1246,"Staunton City, Virginia",51790,No,54.3,20,stable,-0.7
+1247,"Culpeper County, Virginia",51047,No,54.3,26,falling,-4.4
+1248,"Fulton County, Illinois",17057,No,54.2,28,stable,-1
+1249,"Floyd County, Indiana",18043,No,54.2,46,falling,-1.7
+1250,"Red Lake County, Minnesota",27125,No,54.2,3,stable,0.6
+1251,"Phillips County, Montana",30071,No,54.2,4,stable,-0.1
+1252,"Morrow County, Ohio",39117,No,54.2,22,stable,-1.2
+1253,"Elk County, Pennsylvania",42047,No,54.2,27,stable,-0.9
+1254,"Hampton County, South Carolina",45049,No,54.2,14,stable,8.7
+1255,"Blount County, Tennessee",47009,No,54.2,89,stable,-0.6
+1256,"Orange County, Virginia",51137,No,54.2,26,stable,-0.9
+1257,"Bland County, Virginia",51021,No,54.2,5,stable,-1.6
+1258,"Buckingham County, Virginia",51029,No,54.2,11,stable,-1.2
+1259,"Mason County, Washington",53045,No,54.2,48,falling,-1.6
+1260,"Volusia County, Florida",12127,No,54.1,439,falling,-0.9
+1261,"Tift County, Georgia",13277,No,54.1,23,falling,-1.2
+1262,"Sangamon County, Illinois",17167,No,54.1,126,falling,-0.7
+1263,"Bossier Parish, Louisiana",22015,No,54.1,65,falling,-1.6
+1264,"Gratiot County, Michigan",26057,No,54.1,27,stable,0
+1265,"Gentry County, Missouri",29075,No,54.1,6,stable,1.1
+1266,"Johnson County, Missouri",29101,No,54.1,26,stable,1.1
+1267,"Greene County, New York",36039,No,54.1,38,falling,-1.6
+1268,"Wayne County, New York",36117,No,54.1,62,stable,-0.7
+1269,"Perry County, Pennsylvania",42099,No,54.1,30,stable,-0.4
+1270,"Bell County, Texas",48027,No,54.1,130,falling,-2.3
+1271,"Jack County, Texas",48237,No,54.1,6,stable,-1
+1272,"Cherokee County, Alabama",1019,No,54,21,stable,0.6
+1273,"Fairbanks North Star, Alaska",2090,No,54,31,stable,-1.1
+1274,"Pickens County, Georgia",13227,No,54,22,stable,-0.6
+1275,"Meriwether County, Georgia",13199,No,54,15,stable,-0.8
+1276,"Nez Perce County, Idaho",16069,No,54,30,stable,-0.1
+1277,"Kosciusko County, Indiana",18085,No,54,47,stable,-0.1
+1278,"St. Marys County, Maryland",24037,No,54,52,falling,-0.9
+1279,"Polk County, Missouri",29167,No,54,21,stable,-0.9
+1280,"Catawba County, North Carolina",37035,No,54,99,falling,-1.1
+1281,"Seneca County, Ohio",39147,No,54,38,stable,0
+1282,"Crawford County, Pennsylvania",42039,No,54,64,stable,0.4
+1283,"York County, South Carolina",45091,No,54,124,stable,-0.6
+1284,"Craig County, Virginia",51045,No,54,4,**,**
+1285,"Matanuska-Susitna Borough, Alaska",2170,No,53.9,37,stable,-0.8
+1286,"Johnson County, Georgia",13167,No,53.9,7,stable,0.1
+1287,"Claiborne County, Mississippi",28021,No,53.9,6,stable,0.6
+1288,"Clinton County, New York",36019,No,53.9,50,stable,-0.1
+1289,"Cowlitz County, Washington",53015,No,53.9,71,stable,-0.8
+1290,"Duval County, Florida",12031,No,53.8,465,falling,-5.6
+1291,"Lake County, Indiana",18089,No,53.8,298,falling,-4.6
+1292,"Jackson County, Iowa",19097,No,53.8,15,stable,-0.6
+1293,"Jasper County, Iowa",19099,No,53.8,27,stable,-0.7
+1294,"Emmet County, Michigan",26047,No,53.8,25,stable,-0.6
+1295,"Scotland County, Missouri",29199,No,53.8,4,**,**
+1296,"Cass County, Missouri",29037,No,53.8,63,falling,-0.9
+1297,"Hardin County, Texas",48199,No,53.8,34,falling,-1.8
+1298,"Appomattox County, Virginia",51011,No,53.8,11,stable,0.8
+1299,"Washburn County, Wisconsin",55129,No,53.8,14,stable,-1.3
+1300,"Terrell County, Georgia",13273,No,53.7,6,falling,-4.3
+1301,"Rapides Parish, Louisiana",22079,No,53.7,81,falling,-1
+1302,"Lawrence County, Missouri",29109,No,53.7,27,stable,-0.6
+1303,"Carroll County, Ohio",39019,No,53.7,21,stable,-19.6
+1304,"Brule County, South Dakota",46015,No,53.7,4,stable,-0.9
+1305,"Cooke County, Texas",48097,No,53.7,27,stable,-0.7
+1306,"Surry County, Virginia",51181,No,53.7,5,stable,-2.6
+1307,"Dodge County, Georgia",13091,No,53.6,13,stable,-0.9
+1308,"Knox County, Indiana",18083,No,53.6,26,stable,-0.9
+1309,"Warren County, Indiana",18171,No,53.6,6,stable,-1.8
+1310,"Brown County, Kansas",20013,No,53.6,8,**,**
+1311,"Marshall County, Minnesota",27089,No,53.6,8,rising,2.8
+1312,"Robertson County, Texas",48395,No,53.6,12,stable,-1.2
+1313,"Burleson County, Texas",48051,No,53.6,13,stable,-1.1
+1314,"Norfolk City, Virginia",51710,No,53.6,108,falling,-2.1
+1315,"Walton County, Georgia",13297,No,53.5,47,falling,-1.4
+1316,"Washington County, Maryland",24043,No,53.5,94,falling,-0.7
+1317,"Edgecombe County, North Carolina",37065,No,53.5,38,falling,-1.4
+1318,"Allen County, Ohio",39003,No,53.5,69,falling,-0.9
+1319,"Franklin County, Ohio",39049,No,53.5,553,falling,-3.3
+1320,"Ashland County, Ohio",39005,No,53.5,35,stable,0.9
+1321,"Morrow County, Oregon",41049,No,53.5,7,falling,-2.4
+1322,"St. Mary Parish, Louisiana",22101,No,53.4,33,falling,-2.7
+1323,"Orleans Parish, Louisiana",22071,No,53.4,185,falling,-1.8
+1324,"Kent County, Maryland",24029,No,53.4,18,stable,-1.7
+1325,"Mahoning County, Ohio",39099,No,53.4,183,falling,-0.8
+1326,"Linn County, Oregon",41043,No,53.4,79,falling,-0.7
+1327,"Carbon County, Pennsylvania",42025,No,53.4,50,stable,0.3
+1328,"Camp County, Texas",48063,No,53.4,9,falling,-2.8
+1329,"Clark County, Arkansas",5019,No,53.3,15,falling,-1.2
+1330,"Lyon County, Kansas",20111,No,53.3,19,stable,-0.4
+1331,"St. James Parish, Louisiana",22093,No,53.3,13,stable,-1.4
+1332,"Strafford County, New Hampshire",33017,No,53.3,68,falling,-0.9
+1333,"Hamilton County, Florida",12047,No,53.2,9,falling,-3.2
+1334,"Lee County, Illinois",17103,No,53.2,25,stable,-12.2
+1335,"DeKalb County, Indiana",18033,No,53.2,25,stable,-0.4
+1336,"Scott County, Iowa",19163,No,53.2,99,stable,-0.4
+1337,"Berrien County, Michigan",26021,No,53.2,109,falling,-1
+1338,"Perry County, Missouri",29157,No,53.2,13,stable,0.2
+1339,"Wyoming County, New York",36121,No,53.2,26,stable,-0.4
+1340,"Lenoir County, North Carolina",37107,No,53.2,42,falling,-13.4
+1341,"Vance County, North Carolina",37181,No,53.2,29,falling,-1.5
+1342,"Ramsey County, North Dakota",38071,No,53.2,8,stable,0.4
+1343,"Shelby County, Tennessee",47157,No,53.2,457,falling,-1.6
+1344,"Scurry County, Texas",48415,No,53.2,10,stable,-0.2
+1345,"Oneida County, Wisconsin",55085,No,53.2,33,stable,-0.4
+1346,"Sussex County, Delaware",10005,No,53.1,171,falling,-1.6
+1347,"Piatt County, Illinois",17147,No,53.1,12,stable,-1
+1348,"Deer Lodge County, Montana",30023,No,53.1,8,falling,-2.2
+1349,"Yancey County, North Carolina",37199,No,53.1,15,stable,2
+1350,"Cabarrus County, North Carolina",37025,No,53.1,92,stable,-0.5
+1351,"Shannon County, South Dakota",46113,No,53.1,4,**,**
+1352,"Greensville County, Virginia",51081,No,53.1,8,stable,-0.5
+1353,"Franklin County, Kansas",20059,No,53,16,stable,0.7
+1354,"Butler County, Kansas",20015,No,53,38,stable,-0.5
+1355,"Harper County, Kansas",20077,No,53,5,stable,1.3
+1356,"St. Joseph County, Michigan",26149,No,53,40,stable,-0.7
+1357,"Lauderdale County, Mississippi",28075,No,53,49,falling,-5.4
+1358,"Dakota County, Nebraska",31043,No,53,11,stable,-1.2
+1359,"Oneida County, New York",36065,No,53,164,stable,-0.4
+1360,"Alfalfa County, Oklahoma",40003,No,53,5,stable,1.7
+1361,"Van Buren County, Tennessee",47175,No,53,4,stable,-0.3
+1362,"Jasper County, Texas",48241,No,53,25,falling,-2.6
+1363,"Hanover County, Virginia",51085,No,53,60,falling,-1.9
+1364,"Stafford County, Virginia",51179,No,53,46,stable,-0.6
+1365,"Monroe County, Alabama",1099,No,52.9,16,stable,-0.6
+1366,"Lake County, Florida",12069,No,52.9,279,falling,-1.1
+1367,"Logan County, Illinois",17107,No,52.9,20,stable,-0.5
+1368,"Porter County, Indiana",18127,No,52.9,95,falling,-0.8
+1369,"Clay County, Kansas",20027,No,52.9,7,**,**
+1370,"Forsyth County, North Carolina",37067,No,52.9,206,falling,-0.6
+1371,"Newberry County, South Carolina",45071,No,52.9,26,stable,-0.8
+1372,"Terry County, Texas",48445,No,52.9,8,stable,-0.3
+1373,"Spotsylvania County, Virginia",51177,No,52.9,57,falling,-1.4
+1374,"Jackson County, Florida",12063,No,52.8,34,falling,-1.2
+1375,"Lowndes County, Georgia",13185,No,52.8,49,falling,-1.5
+1376,"Perry County, Illinois",17145,No,52.8,15,stable,-1.2
+1377,"Boone County, Illinois",17007,No,52.8,28,stable,0.1
+1378,"Tuscola County, Michigan",26157,No,52.8,39,stable,-0.2
+1379,"Cass County, Michigan",26027,No,52.8,36,falling,-8.8
+1380,"Tippah County, Mississippi",28139,No,52.8,14,stable,-0.1
+1381,"Madison County, Ohio",39097,No,52.8,25,stable,-1.1
+1382,"Schuylkill County, Pennsylvania",42107,No,52.8,114,falling,-1.1
+1383,"Yoakum County, Texas",48501,No,52.8,4,stable,-0.1
+1384,"DeWitt County, Texas",48123,No,52.8,15,stable,0
+1385,"Lynchburg City, Virginia",51680,No,52.8,44,falling,-1.4
+1386,"Lewis County, Washington",53041,No,52.8,56,falling,-1.4
+1387,"Ohio County, West Virginia",54069,No,52.8,35,stable,-1
+1388,"Washington County, Arkansas",5143,No,52.7,91,falling,-0.9
+1389,"Taylor County, Iowa",19173,No,52.7,5,stable,1.5
+1390,"De Soto Parish, Louisiana",22031,No,52.7,18,stable,-1.1
+1391,"Natchitoches Parish, Louisiana",22069,No,52.7,23,stable,-1.1
+1392,"Morehouse Parish, Louisiana",22067,No,52.7,18,stable,-0.6
+1393,"Yates County, New York",36123,No,52.7,18,falling,-2
+1394,"Darke County, Ohio",39037,No,52.7,37,stable,0.2
+1395,"Adair County, Oklahoma",40001,No,52.7,13,falling,-1.4
+1396,"Delaware County, Pennsylvania",42045,No,52.7,350,falling,-1
+1397,"Loudon County, Tennessee",47105,No,52.7,42,falling,-1.2
+1398,"McLennan County, Texas",48309,No,52.7,130,falling,-3.3
+1399,"Kenosha County, Wisconsin",55059,No,52.7,87,stable,-0.3
+1400,"Butler County, Alabama",1013,No,52.6,15,stable,0.1
+1401,"Stephenson County, Illinois",17177,No,52.6,36,stable,0.4
+1402,"Randolph County, Illinois",17157,No,52.6,22,stable,-0.2
+1403,"Erie County, New York",36029,No,52.6,620,stable,1.8
+1404,"Yadkin County, North Carolina",37197,No,52.6,27,stable,-0.2
+1405,"Tulsa County, Oklahoma",40143,No,52.6,328,falling,-2.3
+1406,"Kent County, Rhode Island",44003,No,52.6,116,falling,-1
+1407,"Frederick County, Virginia",51069,No,52.6,46,falling,-1.3
+1408,"Buffalo County, Wisconsin",55011,No,52.6,10,stable,1.3
+1409,"Knox County, Illinois",17095,No,52.5,40,stable,-0.6
+1410,"Granville County, North Carolina",37077,No,52.5,35,stable,-0.3
+1411,"Anderson County, South Carolina",45007,No,52.5,124,falling,-7.2
+1412,"Trinity County, California",6105,No,52.4,11,stable,-1.3
+1413,"Rock Island County, Illinois",17161,No,52.4,101,falling,-0.8
+1414,"Howard County, Indiana",18067,No,52.4,57,falling,-1.2
+1415,"Van Buren County, Iowa",19177,No,52.4,6,stable,2.2
+1416,"Taney County, Missouri",29213,No,52.4,38,stable,-1
+1417,"Onondaga County, New York",36067,No,52.4,289,falling,-0.7
+1418,"Saratoga County, New York",36091,No,52.4,135,falling,-0.8
+1419,"Halifax County, North Carolina",37083,No,52.4,39,stable,-1
+1420,"Northumberland County, Pennsylvania",42097,No,52.4,73,stable,0.4
+1421,"Nottoway County, Virginia",51135,No,52.4,11,stable,-0.6
+1422,"Greenwood County, Kansas",20073,No,52.3,6,stable,-0.8
+1423,"Jefferson Parish, Louisiana",22051,No,52.3,262,stable,-1
+1424,"Mecosta County, Michigan",26107,No,52.3,27,falling,-1.3
+1425,"Summit County, Ohio",39153,No,52.3,352,stable,-4.5
+1426,"Columbiana County, Ohio",39029,No,52.3,76,stable,-0.6
+1427,"Brown County, Texas",48049,No,52.3,28,falling,-1.6
+1428,"Northumberland County, Virginia",51133,No,52.3,14,stable,-1.8
+1429,"Westmoreland County, Virginia",51193,No,52.3,15,falling,-1.8
+1430,"Doddridge County, West Virginia",54017,No,52.3,6,stable,-1.9
+1431,"Spalding County, Georgia",13255,No,52.2,38,falling,-1.7
+1432,"St. Joseph County, Indiana",18141,No,52.2,157,falling,-0.5
+1433,"Allen County, Kansas",20001,No,52.2,10,stable,-1
+1434,"Fayette County, Kentucky",21067,No,52.2,145,falling,-1.6
+1435,"Macomb County, Michigan",26099,No,52.2,527,falling,-0.6
+1436,"Noxubee County, Mississippi",28103,No,52.2,7,stable,-0.9
+1437,"Iredell County, North Carolina",37097,No,52.2,92,falling,-1.2
+1438,"Clatsop County, Oregon",41007,No,52.2,27,stable,-1.2
+1439,"Monroe County, Wisconsin",55081,No,52.2,28,stable,0.4
+1440,"Scott County, Illinois",17171,No,52.1,4,stable,0.3
+1441,"Whitley County, Indiana",18183,No,52.1,21,stable,-0.3
+1442,"Saline County, Missouri",29195,No,52.1,16,stable,0.4
+1443,"Chenango County, New York",36017,No,52.1,35,stable,-0.7
+1444,"Ashe County, North Carolina",37009,No,52.1,22,stable,-0.9
+1445,"Lawrence County, Pennsylvania",42073,No,52.1,71,stable,-0.5
+1446,"Lancaster County, South Carolina",45057,No,52.1,51,stable,-0.7
+1447,"Minnehaha County, South Dakota",46099,No,52.1,87,stable,-0.3
+1448,"Madison County, Tennessee",47113,No,52.1,57,falling,-1.1
+1449,"Saline County, Arkansas",5125,No,52,69,falling,-1.3
+1450,"Iroquois County, Illinois",17075,No,52,23,falling,-7.6
+1451,"Lafayette Parish, Louisiana",22055,No,52,107,falling,-2
+1452,"Jasper County, Mississippi",28061,No,52,12,stable,-1.7
+1453,"Otsego County, New York",36077,No,52,43,stable,-0.6
+1454,"Mifflin County, Pennsylvania",42087,No,52,36,stable,0.1
+1455,"Milwaukee County, Wisconsin",55079,No,52,484,falling,-1
+1456,"Marengo County, Alabama",1091,No,51.9,15,falling,-1.5
+1457,"Paulding County, Georgia",13223,No,51.9,51,falling,-1.6
+1458,"McHenry County, Illinois",17111,No,51.9,143,falling,-0.6
+1459,"Guthrie County, Iowa",19077,No,51.9,9,stable,-0.2
+1460,"Woodford County, Kentucky",21239,No,51.9,15,stable,-0.8
+1461,"Stark County, Ohio",39151,No,51.9,258,falling,-0.5
+1462,"Winchester City, Virginia",51840,No,51.9,16,stable,-1.5
+1463,"Blackford County, Indiana",18009,No,51.8,10,stable,-1.4
+1464,"Saline County, Kansas",20169,No,51.8,35,stable,-0.6
+1465,"Lincoln County, Mississippi",28085,No,51.8,21,falling,-1.3
+1466,"Dodge County, Nebraska",31053,No,51.8,27,stable,0.1
+1467,"Carson City, Nevada",32510,No,51.8,39,falling,-1.8
+1468,"Lewis County, New York",36049,No,51.8,18,stable,-1.2
+1469,"Lincoln County, North Carolina",37109,No,51.8,47,stable,-0.5
+1470,"Alamance County, North Carolina",37001,No,51.8,95,falling,-0.9
+1471,"Payne County, Oklahoma",40119,No,51.8,35,stable,-0.2
+1472,"Garfield County, Oklahoma",40047,No,51.8,39,stable,-0.2
+1473,"Washington County, Pennsylvania",42125,No,51.8,156,falling,-0.7
+1474,"Sumner County, Tennessee",47165,No,51.8,92,stable,-0.9
+1475,"Jackson County, Texas",48239,No,51.8,10,stable,-1.2
+1476,"Sabine County, Texas",48403,No,51.8,11,falling,-2.3
+1477,"Powhatan County, Virginia",51145,No,51.8,16,falling,-2.3
+1478,"Chesapeake City, Virginia",51550,No,51.8,105,falling,-2
+1479,"Amherst County, Virginia",51009,No,51.8,23,stable,-1
+1480,"Marion County, Alabama",1093,No,51.7,23,falling,-5.8
+1481,"Muscogee County, Georgia",13215,No,51.7,99,falling,-1.1
+1482,"Phelps County, Missouri",29161,No,51.7,26,stable,-0.4
+1483,"Knox County, Nebraska",31107,No,51.7,8,stable,2.3
+1484,"Richardson County, Nebraska",31147,No,51.7,7,stable,0.1
+1485,"Sullivan County, New Hampshire",33019,No,51.7,32,stable,-0.6
+1486,"Meigs County, Ohio",39105,No,51.7,16,falling,-5.3
+1487,"Wasco County, Oregon",41065,No,51.7,18,stable,0.1
+1488,"San Saba County, Texas",48411,No,51.7,5,stable,1.6
+1489,"Burke County, Georgia",13033,No,51.6,13,stable,1.5
+1490,"Sherman County, Kansas",20181,No,51.6,5,stable,0.6
+1491,"Oldham County, Kentucky",21185,No,51.6,27,stable,-1.1
+1492,"Plaquemines Parish, Louisiana",22075,No,51.6,12,stable,-1
+1493,"Union County, Mississippi",28145,No,51.6,17,falling,-1.5
+1494,"Sullivan County, New York",36105,No,51.6,51,falling,-1.2
+1495,"Rusk County, Texas",48401,No,51.6,33,stable,-0.8
+1496,"Pierce County, Washington",53053,No,51.6,396,falling,-2.2
+1497,"Jefferson County, West Virginia",54037,No,51.6,30,falling,-1.9
+1498,"Jefferson County, Alabama",1073,No,51.5,381,falling,-1
+1499,"Gadsden County, Florida",12039,No,51.5,29,stable,-0.6
+1500,"Henry County, Iowa",19087,No,51.5,13,stable,-0.4
+1501,"Woodbury County, Iowa",19193,No,51.5,57,stable,-0.3
+1502,"Winnebago County, Iowa",19189,No,51.5,8,rising,2.8
+1503,"St. Tammany Parish, Louisiana",22103,No,51.5,135,falling,-2.1
+1504,"Wyoming County, Pennsylvania",42131,No,51.5,20,stable,-0.6
+1505,"Pickens County, South Carolina",45077,No,51.5,69,stable,-0.5
+1506,"Red River County, Texas",48387,No,51.5,11,stable,-0.8
+1507,"Highlands County, Florida",12055,No,51.4,110,stable,-0.6
+1508,"Reno County, Kansas",20155,No,51.4,45,stable,0.6
+1509,"Manistee County, Michigan",26101,No,51.4,21,stable,-1.1
+1510,"Franklin County, Texas",48159,No,51.4,8,stable,-0.3
+1511,"Florence County, Wisconsin",55037,No,51.4,4,**,**
+1512,"Fulton County, Arkansas",5049,No,51.3,11,stable,-1.1
+1513,"Lassen County, California",6035,No,51.3,15,stable,-1.1
+1514,"Worth County, Georgia",13321,No,51.3,13,stable,-1.2
+1515,"Spencer County, Indiana",18147,No,51.3,14,stable,-1.2
+1516,"Morris County, Kansas",20127,No,51.3,5,stable,-0.1
+1517,"Bay County, Michigan",26017,No,51.3,74,stable,-0.6
+1518,"Cooper County, Missouri",29053,No,51.3,11,stable,-0.2
+1519,"Greene County, Missouri",29077,No,51.3,162,falling,-2.8
+1520,"Washita County, Oklahoma",40149,No,51.3,8,stable,1.3
+1521,"Allegheny County, Pennsylvania",42003,No,51.3,862,falling,-2.5
+1522,"Rutland County, Vermont",50021,No,51.3,44,stable,-0.2
+1523,"Indian River County, Florida",12061,No,51.2,143,falling,-1.2
+1524,"Wheeler County, Georgia",13309,No,51.2,4,stable,-1.5
+1525,"Quay County, New Mexico",35037,No,51.2,7,stable,0
+1526,"Albany County, New York",36001,No,51.2,181,falling,-1
+1527,"Stutsman County, North Dakota",38093,No,51.2,16,stable,0
+1528,"Clallam County, Washington",53009,No,51.2,66,stable,-0.7
+1529,"Asotin County, Washington",53003,No,51.2,17,stable,-0.8
+1530,"Brooks County, Georgia",13027,No,51.1,11,stable,-0.9
+1531,"Hart County, Georgia",13147,No,51.1,19,stable,-0.2
+1532,"Atchison County, Kansas",20005,No,51.1,10,stable,0
+1533,"Ionia County, Michigan",26067,No,51.1,33,stable,-0.8
+1534,"Amite County, Mississippi",28005,No,51.1,10,stable,-0.5
+1535,"Bladen County, North Carolina",37017,No,51.1,25,stable,-0.9
+1536,"Pender County, North Carolina",37141,No,51.1,36,stable,-0.7
+1537,"Alexander County, North Carolina",37003,No,51.1,24,stable,-7.1
+1538,"Cuyahoga County, Ohio",39035,No,51.1,838,falling,-1
+1539,"Jefferson County, Tennessee",47089,No,51.1,36,falling,-5.6
+1540,"Sumter County, Alabama",1119,No,51,9,stable,-0.8
+1541,"Gem County, Idaho",16045,No,51,13,stable,0.7
+1542,"Douglas County, Nebraska",31055,No,51,245,falling,-1.2
+1543,"Belmont County, Ohio",39013,No,51,51,falling,-1.3
+1544,"Lycoming County, Pennsylvania",42081,No,51,78,stable,-0.2
+1545,"Clay County, South Dakota",46027,No,51,6,stable,-1.4
+1546,"Salem City, Virginia",51775,No,51,17,stable,-1.2
+1547,"Glynn County, Georgia",13127,No,50.9,51,falling,-1.7
+1548,"Cattaraugus County, New York",36009,No,50.9,52,falling,-1
+1549,"Waynesboro City, Virginia",51820,No,50.9,14,stable,-0.9
+1550,"Adams County, Illinois",17001,No,50.8,48,falling,-1.3
+1551,"Montgomery County, Iowa",19137,No,50.8,8,stable,-1.2
+1552,"Cass County, Minnesota",27021,No,50.8,24,stable,0.3
+1553,"Crow Wing County, Minnesota",27035,No,50.8,47,stable,0
+1554,"Curry County, Oregon",41015,No,50.8,24,falling,-1.8
+1555,"Providence County, Rhode Island",44007,No,50.8,356,falling,-0.9
+1556,"Delta County, Texas",48119,No,50.8,4,stable,-2.5
+1557,"Lancaster County, Virginia",51103,No,50.8,13,falling,-2
+1558,"Montgomery County, Missouri",29139,No,50.7,9,stable,0
+1559,"Cumberland County, New Jersey",34011,No,50.7,84,falling,-1
+1560,"Montgomery County, New York",36057,No,50.7,34,falling,-1
+1561,"Allegany County, New York",36003,No,50.7,30,stable,-1
+1562,"Fairfield County, South Carolina",45039,No,50.7,16,stable,-0.5
+1563,"Randolph County, West Virginia",54083,No,50.7,20,stable,-1.6
+1564,"Waushara County, Wisconsin",55137,No,50.7,20,stable,-0.1
+1565,"Jackson County, Wisconsin",55053,No,50.7,14,falling,-1.4
+1566,"Pinellas County, Florida",12103,No,50.6,777,falling,-2.1
+1567,"Troup County, Georgia",13285,No,50.6,37,falling,-1.8
+1568,"Ware County, Georgia",13299,No,50.6,22,stable,-1.1
+1569,"Anderson County, Kansas",20003,No,50.6,6,stable,-0.6
+1570,"Owen County, Kentucky",21187,No,50.6,7,stable,-2
+1571,"Lafayette County, Mississippi",28071,No,50.6,21,falling,-1.8
+1572,"Mercer County, Pennsylvania",42085,No,50.6,86,stable,0.3
+1573,"Hendricks County, Indiana",18063,No,50.5,69,falling,-2.1
+1574,"Huntington County, Indiana",18069,No,50.5,23,stable,-0.9
+1575,"Clinton County, Iowa",19045,No,50.5,33,falling,-1.2
+1576,"Marquette County, Michigan",26103,No,50.5,42,falling,-0.7
+1577,"Saginaw County, Michigan",26145,No,50.5,127,falling,-1
+1578,"Fergus County, Montana",30027,No,50.5,10,stable,-1
+1579,"Dorchester County, South Carolina",45035,No,50.5,61,falling,-1.5
+1580,"Childress County, Texas",48075,No,50.5,4,stable,-1.8
+1581,"Iron County, Wisconsin",55051,No,50.5,6,stable,-0.8
+1582,"Madison County, Alabama",1089,No,50.4,179,falling,-1.8
+1583,"Montgomery County, Arkansas",5097,No,50.4,8,stable,0.1
+1584,"Bureau County, Illinois",17011,No,50.4,25,stable,-0.3
+1585,"Cass County, Nebraska",31025,No,50.4,15,stable,-1.2
+1586,"Jefferson County, New York",36045,No,50.4,56,stable,-0.9
+1587,"Baker County, Oregon",41001,No,50.4,14,stable,0.1
+1588,"Greenwood County, South Carolina",45047,No,50.4,43,falling,-1.2
+1589,"Bon Homme County, South Dakota",46009,No,50.4,5,**,**
+1590,"Ector County, Texas",48135,No,50.4,61,falling,-1.8
+1591,"Marshall County, West Virginia",54051,No,50.4,24,falling,-1.6
+1592,"Waupaca County, Wisconsin",55135,No,50.4,38,stable,-0.9
+1593,"Langlade County, Wisconsin",55067,No,50.4,16,stable,0.1
+1594,"New Castle County, Delaware",10003,No,50.3,289,falling,-1.6
+1595,"Will County, Illinois",17197,No,50.3,281,falling,-1.3
+1596,"Sedgwick County, Kansas",20173,No,50.3,251,falling,-1
+1597,"Cascade County, Montana",30013,No,50.3,51,stable,-0.5
+1598,"Clay County, North Carolina",37043,No,50.3,10,stable,-0.3
+1599,"Logan County, Oklahoma",40083,No,50.3,24,falling,-1.4
+1600,"Rutherford County, Tennessee",47149,No,50.3,102,falling,-1.9
+1601,"Hot Springs County, Wyoming",56017,No,50.3,4,stable,-1.6
+1602,"Calhoun County, Georgia",13037,No,50.2,4,stable,-0.4
+1603,"Morgan County, Illinois",17137,No,50.2,23,stable,-0.4
+1604,"Benton County, Iowa",19011,No,50.2,17,stable,-0.6
+1605,"Caswell County, North Carolina",37033,No,50.2,16,stable,-0.9
+1606,"McKean County, Pennsylvania",42083,No,50.2,30,falling,-1.4
+1607,"Bradford County, Pennsylvania",42015,No,50.2,45,stable,0.3
+1608,"Ellis County, Texas",48139,No,50.2,68,falling,-1.4
+1609,"Marinette County, Wisconsin",55075,No,50.2,33,stable,-0.7
+1610,"Kenai Peninsula Borough, Alaska",2122,No,50.1,28,falling,-3
+1611,"Polk County, Florida",12105,No,50.1,423,falling,-5.4
+1612,"McDonough County, Illinois",17109,No,50.1,18,stable,-0.4
+1613,"Johnson County, Indiana",18081,No,50.1,73,falling,-1.6
+1614,"Page County, Iowa",19145,No,50.1,12,stable,-0.1
+1615,"Anne Arundel County, Maryland",24003,No,50.1,277,falling,-1.8
+1616,"Worcester County, Massachusetts",25027,No,50.1,439,falling,-0.7
+1617,"Lafayette County, Missouri",29107,No,50.1,21,stable,-0.9
+1618,"Jefferson County, Montana",30043,No,50.1,7,**,**
+1619,"Jefferson County, Nebraska",31095,No,50.1,6,stable,0.8
+1620,"Jackson County, North Carolina",37099,No,50.1,25,stable,-0.5
+1621,"Allendale County, South Carolina",45005,No,50.1,6,stable,-2.3
+1622,"Lumpkin County, Georgia",13187,No,50,16,stable,4.2
+1623,"Iron County, Michigan",26071,No,50,12,stable,-0.5
+1624,"St. Charles County, Missouri",29183,No,50,176,falling,-1.3
+1625,"Chariton County, Missouri",29041,No,50,6,stable,0.2
+1626,"Stone County, Missouri",29209,No,50,28,stable,-0.9
+1627,"Ellis County, Oklahoma",40045,No,50,3,**,**
+1628,"Sauk County, Wisconsin",55111,No,50,39,stable,0.3
+1629,"Montgomery County, Alabama",1101,No,49.9,117,falling,-1.3
+1630,"Tehama County, California",6103,No,49.9,40,falling,-1.9
+1631,"Sumner County, Kansas",20191,No,49.9,15,stable,0.2
+1632,"Shawnee County, Kansas",20177,No,49.9,109,falling,-0.9
+1633,"Harford County, Maryland",24025,No,49.9,131,falling,-2.6
+1634,"Kimball County, Nebraska",31105,No,49.9,3,stable,-1.1
+1635,"Sarpy County, Nebraska",31153,No,49.9,62,stable,-0.6
+1636,"Atoka County, Oklahoma",40005,No,49.9,9,stable,-1.6
+1637,"Madison County, Texas",48313,No,49.9,8,stable,-0.6
+1638,"Hancock County, Mississippi",28045,No,49.8,28,falling,-1.9
+1639,"Saline County, Nebraska",31151,No,49.8,8,stable,1.4
+1640,"Lebanon County, Pennsylvania",42075,No,49.8,92,stable,0
+1641,"Jefferson County, Texas",48245,No,49.8,134,falling,-2
+1642,"Runnels County, Texas",48399,No,49.8,8,falling,-2.1
+1643,"Flagler County, Florida",12035,No,49.7,90,stable,-0.8
+1644,"Livingston County, Illinois",17105,No,49.7,25,stable,-0.4
+1645,"Monroe County, Indiana",18105,No,49.7,61,stable,-0.6
+1646,"Neosho County, Kansas",20133,No,49.7,11,stable,0.4
+1647,"Canadian County, Oklahoma",40017,No,49.7,56,falling,-1.3
+1648,"Cleveland County, Oklahoma",40027,No,49.7,116,falling,-0.8
+1649,"Beaver County, Pennsylvania",42007,No,49.7,129,falling,-0.8
+1650,"Tucker County, West Virginia",54093,No,49.7,6,stable,0.2
+1651,"Bristol County, Massachusetts",25005,No,49.6,326,falling,-0.5
+1652,"Plymouth County, Massachusetts",25023,No,49.6,292,falling,-2.8
+1653,"Saluda County, South Carolina",45081,No,49.6,13,falling,-1.9
+1654,"Hamilton County, Tennessee",47065,No,49.6,206,falling,-4.1
+1655,"Halifax County with South Boston City, Virginia",51083,No,49.6,27,stable,-1
+1656,"Lincoln County, Washington",53043,No,49.6,9,stable,0.9
+1657,"Hampden County, Massachusetts",25013,No,49.5,271,falling,-1
+1658,"Cayuga County, New York",36011,No,49.5,51,stable,-0.7
+1659,"Charlton County, Georgia",13049,No,49.4,7,stable,-1.6
+1660,"Washington County, Georgia",13303,No,49.4,12,stable,0
+1661,"Calvert County, Maryland",24009,No,49.4,43,falling,-1.6
+1662,"Dawson County, Montana",30021,No,49.4,6,stable,0.8
+1663,"Rockingham County, New Hampshire",33015,No,49.4,163,falling,-2.4
+1664,"Schenectady County, New York",36093,No,49.4,94,falling,-0.9
+1665,"Chautauqua County, New York",36013,No,49.4,90,stable,-8.3
+1666,"Bertie County, North Carolina",37015,No,49.4,14,falling,-2
+1667,"Montgomery County, North Carolina",37123,No,49.4,18,falling,-1.5
+1668,"Warren County, Ohio",39165,No,49.4,102,falling,-1.9
+1669,"Lexington County, South Carolina",45063,No,49.4,139,falling,-1.8
+1670,"Fayette County, Tennessee",47047,No,49.4,25,stable,-0.6
+1671,"Habersham County, Georgia",13137,No,49.3,27,rising,9.6
+1672,"Camden County, Georgia",13039,No,49.3,21,falling,-2.1
+1673,"Marshall County, Iowa",19127,No,49.3,27,falling,-3
+1674,"Sagadahoc County, Maine",23023,No,49.3,23,falling,-1.4
+1675,"Menominee County, Michigan",26109,No,49.3,19,stable,0.2
+1676,"Richland County, South Carolina",45079,No,49.3,167,falling,-2.4
+1677,"Craighead County, Arkansas",5031,No,49.2,48,falling,-2.3
+1678,"Morgan County, Georgia",13211,No,49.2,11,falling,-2.5
+1679,"Knox County, Maine",23013,No,49.2,31,stable,-0.3
+1680,"Rogers County, Oklahoma",40131,No,49.2,49,falling,-1.5
+1681,"Hardee County, Florida",12049,No,49.1,14,stable,-1.2
+1682,"Catoosa County, Georgia",13047,No,49.1,37,falling,-6.2
+1683,"Mills County, Iowa",19129,No,49.1,9,stable,-1.4
+1684,"Barton County, Missouri",29011,No,49.1,9,falling,-2.3
+1685,"Fulton County, Pennsylvania",42057,No,49.1,10,stable,-0.8
+1686,"Winkler County, Texas",48495,No,49.1,4,**,**
+1687,"Fredericksburg City, Virginia",51630,No,49.1,11,falling,-2.2
+1688,"Republic County, Kansas",20157,No,49,4,stable,-0.3
+1689,"Webster County, Missouri",29225,No,49,19,falling,-1.8
+1690,"Sierra County, New Mexico",35051,No,49,14,stable,-0.8
+1691,"Avery County, North Carolina",37011,No,49,13,stable,-1.2
+1692,"Sumter County, South Carolina",45085,No,49,57,stable,-0.8
+1693,"Freestone County, Texas",48161,No,49,13,stable,-0.3
+1694,"Hopkins County, Texas",48223,No,49,22,stable,-1.4
+1695,"Prince George County, Virginia",51149,No,49,17,falling,-2.4
+1696,"Colusa County, California",6011,No,48.9,10,stable,-1.8
+1697,"St. Lucie County, Florida",12111,No,48.9,213,falling,-1.8
+1698,"Owyhee County, Idaho",16073,No,48.9,6,**,**
+1699,"Union County, Indiana",18161,No,48.9,5,stable,1.1
+1700,"Cumberland County, Maine",23005,No,48.9,169,falling,-1.3
+1701,"Custer County, Montana",30017,No,48.9,9,stable,-0.8
+1702,"Camden County, New Jersey",34007,No,48.9,275,falling,-2.9
+1703,"Mountrail County, North Dakota",38061,No,48.9,4,**,**
+1704,"Butler County, Pennsylvania",42019,No,48.9,114,stable,-0.4
+1705,"Lenawee County, Michigan",26091,No,48.8,60,stable,-0.7
+1706,"Greenville County, South Carolina",45045,No,48.8,241,falling,-1
+1707,"Forest County, Wisconsin",55041,No,48.8,7,stable,-0.4
+1708,"Carlton County, Minnesota",27017,No,48.7,22,stable,-0.4
+1709,"Nodaway County, Missouri",29147,No,48.7,12,stable,0.1
+1710,"Toole County, Montana",30101,No,48.7,3,**,**
+1711,"New Hanover County, North Carolina",37129,No,48.7,115,falling,-1.8
+1712,"Noble County, Oklahoma",40103,No,48.7,8,stable,-0.2
+1713,"Erie County, Pennsylvania",42049,No,48.7,164,falling,-3.5
+1714,"Essex County, Vermont",50009,No,48.7,5,**,**
+1715,"Shasta County, California",6089,No,48.6,119,falling,-1.8
+1716,"Alachua County, Florida",12001,No,48.6,114,falling,-1.6
+1717,"Sumter County, Georgia",13261,No,48.6,17,stable,-0.3
+1718,"Gibson County, Indiana",18051,No,48.6,20,stable,-1.4
+1719,"Elkhart County, Indiana",18039,No,48.6,99,stable,-0.4
+1720,"Branch County, Michigan",26023,No,48.6,27,stable,-0.8
+1721,"Wabasha County, Minnesota",27157,No,48.6,14,stable,0.2
+1722,"Blaine County, Oklahoma",40011,No,48.6,7,stable,0.6
+1723,"Columbia County, Washington",53013,No,48.6,4,**,**
+1724,"Greenbrier County, West Virginia",54025,No,48.6,26,falling,-2.2
+1725,"Bayfield County, Wisconsin",55007,No,48.6,12,stable,-1.1
+1726,"Moore County, North Carolina",37125,No,48.5,74,stable,-0.6
+1727,"Westmoreland County, Pennsylvania",42129,No,48.5,271,falling,-0.8
+1728,"Marshall County, South Dakota",46091,No,48.5,3,**,**
+1729,"Chester County, Tennessee",47023,No,48.5,10,stable,-1.1
+1730,"Jones County, Texas",48253,No,48.5,11,stable,-0.2
+1731,"Orleans County, Vermont",50019,No,48.5,19,stable,-0.8
+1732,"Izard County, Arkansas",5065,No,48.4,11,falling,-2.1
+1733,"Warren County, Iowa",19181,No,48.4,25,stable,-0.1
+1734,"Muscatine County, Iowa",19139,No,48.4,23,stable,-0.2
+1735,"Cloud County, Kansas",20029,No,48.4,7,stable,0.3
+1736,"Alger County, Michigan",26003,No,48.4,8,falling,-2.5
+1737,"Anoka County, Minnesota",27003,No,48.4,145,stable,-0.6
+1738,"Humboldt County, Nevada",32013,No,48.4,7,stable,-1.5
+1739,"Hertford County, North Carolina",37091,No,48.4,16,falling,-2.3
+1740,"Hancock County, Ohio",39063,No,48.4,44,stable,-0.4
+1741,"Love County, Oklahoma",40085,No,48.4,6,stable,-1.5
+1742,"Hillsborough County, Florida",12057,No,48.3,616,falling,-1.9
+1743,"Ford County, Illinois",17053,No,48.3,11,stable,-0.6
+1744,"Harrison County, Iowa",19085,No,48.3,10,stable,-1.4
+1745,"Leavenworth County, Kansas",20103,No,48.3,37,falling,-1.5
+1746,"York County, Maine",23031,No,48.3,127,falling,-1.4
+1747,"Franklin County, Maine",23007,No,48.3,20,falling,-1.6
+1748,"Eaton County, Michigan",26045,No,48.3,62,stable,-0.2
+1749,"Clearwater County, Minnesota",27029,No,48.3,6,**,**
+1750,"Kemper County, Mississippi",28069,No,48.3,7,stable,0.1
+1751,"Ontario County, New York",36069,No,48.3,67,falling,-1.2
+1752,"Ulster County, New York",36111,No,48.3,111,falling,-1.2
+1753,"Davie County, North Carolina",37059,No,48.3,27,stable,0.7
+1754,"Guilford County, North Carolina",37081,No,48.3,251,falling,-1.5
+1755,"Warren County, Pennsylvania",42123,No,48.3,31,falling,-1.1
+1756,"Wayne County, Pennsylvania",42127,No,48.3,39,stable,-0.2
+1757,"Davison County, South Dakota",46035,No,48.3,13,stable,1
+1758,"Angelina County, Texas",48005,No,48.3,47,falling,-2.5
+1759,"Patrick County, Virginia",51141,No,48.3,15,stable,-0.6
+1760,"Chippewa County, Wisconsin",55017,No,48.3,37,stable,0.7
+1761,"Mercer County, Illinois",17131,No,48.2,12,stable,-1.2
+1762,"Perquimans County, North Carolina",37143,No,48.2,10,stable,-1.7
+1763,"Williams County, Ohio",39171,No,48.2,23,falling,-1.2
+1764,"Henry County, Ohio",39069,No,48.2,18,stable,-0.7
+1765,"Matagorda County, Texas",48321,No,48.2,21,stable,-0.9
+1766,"King William County, Virginia",51101,No,48.2,9,stable,-0.1
+1767,"Suffolk City, Virginia",51800,No,48.2,41,falling,-1.4
+1768,"Harrisonburg City, Virginia",51660,No,48.2,16,stable,-1.5
+1769,"Wythe County, Virginia",51197,No,48.2,21,falling,-1.5
+1770,"Waseca County, Minnesota",27161,No,48.1,11,stable,0
+1771,"Clark County, Nevada",32003,No,48.1,901,falling,-2.7
+1772,"Salem County, New Jersey",34033,No,48.1,41,falling,-1.6
+1773,"Thurston County, Washington",53067,No,48.1,135,falling,-1.3
+1774,"Vilas County, Wisconsin",55125,No,48.1,21,stable,-0.8
+1775,"Baldwin County, Alabama",1003,No,48,121,falling,-1.7
+1776,"Siskiyou County, California",6093,No,48,35,stable,-0.7
+1777,"Sutter County, California",6101,No,48,48,falling,-2
+1778,"Polk County, Nebraska",31143,No,48,4,**,**
+1779,"Duplin County, North Carolina",37061,No,48,34,falling,-2
+1780,"Pitt County, North Carolina",37147,No,48,71,falling,-1.9
+1781,"Knox County, Ohio",39083,No,48,35,stable,-0.6
+1782,"Orangeburg County, South Carolina",45075,No,48,54,stable,-0.7
+1783,"Clark County, Washington",53011,No,48,206,falling,-1.8
+1784,"Putnam County, West Virginia",54079,No,48,33,falling,-3.3
+1785,"Franklin Parish, Louisiana",22041,No,47.9,13,stable,-1
+1786,"Carroll County, Maryland",24013,No,47.9,90,falling,-0.9
+1787,"Berkshire County, Massachusetts",25003,No,47.9,95,falling,-3.4
+1788,"Atlantic County, New Jersey",34001,No,47.9,156,falling,-5.5
+1789,"Goliad County, Texas",48175,No,47.9,5,**,**
+1790,"Hood County, Texas",48221,No,47.9,42,falling,-2.9
+1791,"Hendry County, Florida",12051,No,47.8,18,falling,-2
+1792,"Calhoun County, Illinois",17013,No,47.8,4,**,**
+1793,"Shelby County, Kentucky",21211,No,47.8,22,falling,-2.2
+1794,"Baltimore County, Maryland",24005,No,47.8,471,falling,-3.1
+1795,"Smith County, Texas",48423,No,47.8,118,stable,-10.6
+1796,"Carroll County, Arkansas",5015,No,47.7,20,stable,-1.1
+1797,"Jefferson County, Kansas",20087,No,47.7,12,stable,-1.2
+1798,"Delta County, Michigan",26041,No,47.7,27,falling,-1.6
+1799,"Roseau County, Minnesota",27135,No,47.7,9,stable,-0.7
+1800,"Ocean County, New Jersey",34029,No,47.7,442,falling,-4.3
+1801,"Haywood County, North Carolina",37087,No,47.7,46,stable,-0.5
+1802,"Klamath County, Oregon",41035,No,47.7,44,stable,-1
+1803,"Linn County, Iowa",19113,No,47.6,110,falling,-2.4
+1804,"Sanilac County, Michigan",26151,No,47.6,29,falling,-1.6
+1805,"Kearney County, Nebraska",31099,No,47.6,4,**,**
+1806,"Fulton County, New York",36035,No,47.6,35,falling,-1.2
+1807,"Andrews County, Texas",48003,No,47.6,7,stable,-0.5
+1808,"Brazoria County, Texas",48039,No,47.6,130,falling,-2.3
+1809,"Washington County, Vermont",50023,No,47.6,36,falling,-1.7
+1810,"Mathews County, Virginia",51115,No,47.6,9,stable,-1.5
+1811,"Isle of Wight County, Virginia",51093,No,47.6,22,falling,-1.9
+1812,"Franklin City, Virginia",51620,No,47.6,5,stable,-1.4
+1813,"Southampton County, Virginia",51175,No,47.6,12,falling,-1.9
+1814,"Chesterfield County, Virginia",51041,No,47.6,143,falling,-1.6
+1815,"Crook County, Wyoming",56011,No,47.6,5,**,**
+1816,"Windham County, Connecticut",9015,No,47.5,62,falling,-4.5
+1817,"Bourbon County, Kansas",20011,No,47.5,10,stable,-1.3
+1818,"Kalamazoo County, Michigan",26077,No,47.5,126,stable,-0.6
+1819,"Multnomah County, Oregon",41051,No,47.5,327,falling,-6.2
+1820,"Lackawanna County, Pennsylvania",42069,No,47.5,144,stable,-0.2
+1821,"Gilmer County, West Virginia",54021,No,47.5,5,stable,-0.6
+1822,"Racine County, Wisconsin",55101,No,47.5,104,stable,-0.6
+1823,"Coweta County, Georgia",13077,No,47.4,57,falling,-1.8
+1824,"Carroll County, Illinois",17015,No,47.4,12,stable,-1.3
+1825,"Hancock County, Iowa",19081,No,47.4,8,stable,-0.2
+1826,"Boone County, Iowa",19015,No,47.4,17,stable,-0.2
+1827,"Camden County, Missouri",29029,No,47.4,35,stable,-1.4
+1828,"Houston County, Texas",48225,No,47.4,16,stable,-1.6
+1829,"Lincoln County, Wisconsin",55069,No,47.4,20,stable,-0.3
+1830,"Crenshaw County, Alabama",1041,No,47.3,9,falling,-2.1
+1831,"Shelby County, Alabama",1117,No,47.3,88,stable,-0.9
+1832,"Anchorage Borough, Alaska",2020,No,47.3,96,falling,-1.2
+1833,"Baldwin County, Georgia",13009,No,47.3,23,stable,-1
+1834,"White County, Georgia",13311,No,47.3,17,stable,-0.1
+1835,"Pike County, Alabama",1109,No,47.2,16,stable,-1.8
+1836,"Amador County, California",6005,No,47.2,31,falling,-1.9
+1837,"Jackson County, Illinois",17077,No,47.2,28,stable,-0.5
+1838,"Tippecanoe County, Indiana",18157,No,47.2,66,falling,-5.9
+1839,"Osceola County, Iowa",19143,No,47.2,5,**,**
+1840,"Itasca County, Minnesota",27061,No,47.2,32,falling,-0.9
+1841,"Boone County, Missouri",29019,No,47.2,63,falling,-1.2
+1842,"Cheyenne County, Nebraska",31033,No,47.2,6,stable,0.1
+1843,"Martin County, North Carolina",37117,No,47.2,16,falling,-2.1
+1844,"Colonial Heights City, Virginia",51570,No,47.2,12,falling,-1.9
+1845,"Spokane County, Washington",53063,No,47.2,245,falling,-4.6
+1846,"Yakima County, Washington",53077,No,47.2,113,falling,-1.5
+1847,"Oconto County, Wisconsin",55083,No,47.2,24,stable,-1
+1848,"Hancock County, Maine",23009,No,47.1,39,falling,-1.2
+1849,"Queen Annes County, Maryland",24035,No,47.1,27,falling,-2.2
+1850,"Charles County, Maryland",24017,No,47.1,61,falling,-2.5
+1851,"Van Wert County, Ohio",39161,No,47.1,18,stable,0.5
+1852,"Milam County, Texas",48331,No,47.1,17,stable,-0.7
+1853,"Madison County, Virginia",51113,No,47.1,9,stable,0.3
+1854,"Okanogan County, Washington",53047,No,47.1,26,falling,-1.8
+1855,"Skagit County, Washington",53057,No,47.1,74,falling,-10.4
+1856,"Trempealeau County, Wisconsin",55121,No,47.1,18,stable,1.6
+1857,"Barron County, Wisconsin",55005,No,47.1,31,stable,-0.1
+1858,"Benton County, Arkansas",5007,No,47,106,falling,-0.7
+1859,"Bond County, Illinois",17005,No,47,10,stable,-0.3
+1860,"Antrim County, Michigan",26009,No,47,19,falling,-1.7
+1861,"Koochiching County, Minnesota",27071,No,47,10,stable,-0.6
+1862,"St. Louis County, Minnesota",27137,No,47,126,stable,-0.3
+1863,"Madison County, North Carolina",37115,No,47,14,falling,-13.6
+1864,"Buncombe County, North Carolina",37021,No,47,150,falling,-1.4
+1865,"Montgomery County, Texas",48339,No,47,201,falling,-5.8
+1866,"Campbell County, Virginia",51031,No,47,35,stable,-0.8
+1867,"Price County, Wisconsin",55099,No,47,11,stable,0.8
+1868,"Lincoln County, Colorado",8073,No,46.9,3,**,**
+1869,"Shelby County, Illinois",17173,No,46.9,16,stable,-1.4
+1870,"Hardin County, Iowa",19083,No,46.9,13,stable,-0.1
+1871,"East Baton Rouge Parish, Louisiana",22033,No,46.9,199,falling,-1.6
+1872,"Pipestone County, Minnesota",27117,No,46.9,6,stable,-0.6
+1873,"Rankin County, Mississippi",28121,No,46.9,67,falling,-1.1
+1874,"Pennington County, South Dakota",46103,No,46.9,55,falling,-1.3
+1875,"Howard County, Texas",48227,No,46.9,18,falling,-1.4
+1876,"Fisher County, Texas",48151,No,46.9,3,stable,-0.5
+1877,"Potter County, Texas",48375,No,46.9,53,falling,-1.9
+1878,"Deuel County, South Dakota",46039,No,46.8,3,**,**
+1879,"Taylor County, Texas",48441,No,46.8,67,falling,-1.5
+1880,"Virginia Beach City, Virginia",51810,No,46.8,191,falling,-1.7
+1881,"Cherokee County, Georgia",13057,No,46.7,84,falling,-1.1
+1882,"Henry County, Georgia",13151,No,46.7,74,falling,-1.6
+1883,"Liberty County, Georgia",13179,No,46.7,18,falling,-2.4
+1884,"Steuben County, Indiana",18151,No,46.7,20,stable,-1.3
+1885,"Warrick County, Indiana",18173,No,46.7,32,stable,-1.5
+1886,"Dubuque County, Iowa",19061,No,46.7,56,falling,-1.2
+1887,"Wilkinson County, Mississippi",28157,No,46.7,5,stable,-0.7
+1888,"Douglas County, Missouri",29067,No,46.7,10,stable,-1.1
+1889,"Otoe County, Nebraska",31131,No,46.7,10,stable,1.6
+1890,"Essex County, New York",36031,No,46.7,28,falling,-1.6
+1891,"Fannin County, Georgia",13111,No,46.6,20,falling,-2.5
+1892,"Brown County, Illinois",17009,No,46.6,3,**,**
+1893,"Monona County, Iowa",19133,No,46.6,8,stable,-0.4
+1894,"Allegan County, Michigan",26005,No,46.6,59,stable,5.3
+1895,"Mackinac County, Michigan",26097,No,46.6,9,stable,-1.2
+1896,"Moniteau County, Missouri",29135,No,46.6,8,stable,-0.4
+1897,"Johnson County, Nebraska",31097,No,46.6,3,**,**
+1898,"Holt County, Nebraska",31089,No,46.6,8,stable,2.5
+1899,"Merrimack County, New Hampshire",33013,No,46.6,84,falling,-1
+1900,"Seneca County, New York",36099,No,46.6,21,stable,-0.8
+1901,"Durham County, North Carolina",37063,No,46.6,110,falling,-2.1
+1902,"Walker County, Texas",48471,No,46.6,28,falling,-1.6
+1903,"Stark County, Illinois",17175,No,46.5,4,stable,-1.5
+1904,"Wabash County, Indiana",18169,No,46.5,20,stable,-1.3
+1905,"Dickinson County, Michigan",26043,No,46.5,19,stable,-0.8
+1906,"Watonwan County, Minnesota",27165,No,46.5,8,stable,-0.4
+1907,"Red Willow County, Nebraska",31145,No,46.5,8,stable,0
+1908,"Orange County, New York",36071,No,46.5,167,falling,-1.8
+1909,"Union County, North Carolina",37179,No,46.5,80,stable,-1
+1910,"Williams County, North Dakota",38105,No,46.5,12,stable,0
+1911,"Brunswick County, Virginia",51025,No,46.5,11,falling,-1.6
+1912,"Ottawa County, Kansas",20143,No,46.4,4,**,**
+1913,"Hinds County, Mississippi",28049,No,46.4,110,stable,6.9
+1914,"Monroe County, New York",36055,No,46.4,405,falling,-0.7
+1915,"Armstrong County, Pennsylvania",42005,No,46.4,48,falling,-0.9
+1916,"Rabun County, Georgia",13241,No,46.3,13,falling,-1.3
+1917,"Garrett County, Maryland",24023,No,46.3,19,stable,0.2
+1918,"Oceana County, Michigan",26127,No,46.3,17,falling,-1.7
+1919,"Delaware County, New York",36025,No,46.3,34,stable,-0.6
+1920,"Calhoun County, Texas",48057,No,46.3,12,falling,-2.4
+1921,"DeKalb County, Illinois",17037,No,46.2,40,stable,-0.6
+1922,"Douglas County, Illinois",17041,No,46.2,12,stable,-0.8
+1923,"Pratt County, Kansas",20151,No,46.2,7,stable,0.2
+1924,"Pierce County, Nebraska",31139,No,46.2,5,**,**
+1925,"Saunders County, Nebraska",31155,No,46.2,13,stable,-0.6
+1926,"Tioga County, New York",36107,No,46.2,31,falling,-1.6
+1927,"Spink County, South Dakota",46115,No,46.2,5,**,**
+1928,"Kerr County, Texas",48265,No,46.2,43,falling,-1.1
+1929,"Henrico County, Virginia",51087,No,46.2,154,falling,-2.3
+1930,"Walworth County, Wisconsin",55127,No,46.2,54,stable,-0.8
+1931,"Moultrie County, Illinois",17139,No,46.1,9,stable,-0.8
+1932,"Becker County, Minnesota",27005,No,46.1,21,stable,-0.4
+1933,"Hubbard County, Minnesota",27057,No,46.1,16,stable,-1.3
+1934,"Benton County, Mississippi",28009,No,46.1,5,falling,-5.6
+1935,"White Pine County, Nevada",32033,No,46.1,6,**,**
+1936,"Hillsborough County, New Hampshire",33011,No,46.1,194,falling,-1.2
+1937,"Luzerne County, Pennsylvania",42079,No,46.1,210,stable,-0.1
+1938,"Moore County, Texas",48341,No,46.1,8,stable,-2
+1939,"Butte County, California",6007,No,46,126,falling,-1.9
+1940,"Pike County, Illinois",17149,No,46,11,stable,-0.6
+1941,"Webster County, Iowa",19187,No,46,23,falling,-1.2
+1942,"York County, Pennsylvania",42133,No,46,240,falling,-0.6
+1943,"Bennington County, Vermont",50003,No,46,26,stable,-1.5
+1944,"Monroe County, West Virginia",54063,No,46,10,stable,-0.6
+1945,"Lincoln Parish, Louisiana",22061,No,45.9,20,falling,-1.9
+1946,"Greene County, Mississippi",28041,No,45.9,7,stable,-1.4
+1947,"St. Louis County, Missouri",29189,No,45.9,574,falling,-1.4
+1948,"Christian County, Missouri",29043,No,45.9,37,falling,-1.3
+1949,"Webster County, Nebraska",31181,No,45.9,3,**,**
+1950,"Medina County, Ohio",39103,No,45.9,90,falling,-1.3
+1951,"Marion County, Oregon",41047,No,45.9,157,falling,-3.7
+1952,"Sullivan County, Pennsylvania",42113,No,45.9,6,stable,-1.5
+1953,"Washington County, Rhode Island",44009,No,45.9,74,falling,-2.5
+1954,"Caldwell County, Texas",48055,No,45.9,18,falling,-1.6
+1955,"Archer County, Texas",48009,No,45.9,5,falling,-3
+1956,"Augusta County, Virginia",51015,No,45.9,46,stable,-0.6
+1957,"Harris County, Georgia",13145,No,45.8,17,stable,-1
+1958,"Ogle County, Illinois",17141,No,45.8,31,stable,-1.1
+1959,"Woodford County, Illinois",17203,No,45.8,22,stable,-0.5
+1960,"Warren County, New York",36113,No,45.8,42,stable,-1
+1961,"Livingston County, New York",36051,No,45.8,36,falling,-1.7
+1962,"Preston County, West Virginia",54077,No,45.8,20,stable,-1.2
+1963,"Crawford County, Wisconsin",55023,No,45.8,12,stable,0.4
+1964,"Wilcox County, Georgia",13315,No,45.7,5,**,**
+1965,"Allegany County, Maryland",24001,No,45.7,48,falling,-1
+1966,"Wells County, North Dakota",38103,No,45.7,4,stable,0.7
+1967,"Huntingdon County, Pennsylvania",42061,No,45.7,29,stable,-0.8
+1968,"Charleston County, South Carolina",45019,No,45.7,177,falling,-1.5
+1969,"Lynn County, Texas",48305,No,45.7,3,**,**
+1970,"Burnet County, Texas",48053,No,45.7,30,falling,-2.6
+1971,"Windsor County, Vermont",50027,No,45.7,39,stable,-0.8
+1972,"Prince Edward County, Virginia",51147,No,45.7,11,falling,-1.9
+1973,"Columbia County, Wisconsin",55021,No,45.7,32,stable,-0.5
+1974,"Hall County, Georgia",13139,No,45.6,81,falling,-1.2
+1975,"Telfair County, Georgia",13271,No,45.6,9,falling,-2.5
+1976,"Suffolk County, Massachusetts",25025,No,45.6,292,falling,-2.3
+1977,"Sibley County, Minnesota",27143,No,45.6,9,stable,1
+1978,"Lake of the Woods County, Minnesota",27077,No,45.6,3,stable,-1.6
+1979,"Warren County, New Jersey",34041,No,45.6,59,falling,-1.4
+1980,"Richmond County, New York",36085,No,45.6,233,falling,-1.7
+1981,"Jackson County, Oregon",41029,No,45.6,134,falling,-1.6
+1982,"Clearfield County, Pennsylvania",42033,No,45.6,53,stable,-0.8
+1983,"Addison County, Vermont",50001,No,45.6,20,stable,-0.5
+1984,"Dodge County, Wisconsin",55027,No,45.6,51,stable,0.1
+1985,"Monroe County, Florida",12087,Yes,45.5,50,falling,-1.8
+1986,"Clayton County, Georgia",13063,Yes,45.5,79,falling,-2.5
+1987,"Barton County, Kansas",20009,Yes,45.5,17,stable,-0.4
+1988,"Northampton County, Pennsylvania",42095,Yes,45.5,177,falling,-0.8
+1989,"Kingsbury County, South Dakota",46077,Yes,45.5,4,stable,-0.6
+1990,"Mitchell County, Kansas",20123,Yes,45.4,5,stable,1.2
+1991,"Huron County, Michigan",26063,Yes,45.4,25,stable,-0.4
+1992,"Pine County, Minnesota",27115,Yes,45.4,18,stable,-1.1
+1993,"Sanders County, Montana",30089,Yes,45.4,9,falling,-2.1
+1994,"Lewis and Clark County, Montana",30049,Yes,45.4,34,stable,-0.9
+1995,"Cheshire County, New Hampshire",33005,Yes,45.4,43,stable,-0.7
+1996,"Washington County, North Carolina",37187,Yes,45.4,9,stable,-1.9
+1997,"Charlotte County, Florida",12015,Yes,45.3,175,falling,-1.4
+1998,"Franklin County, Iowa",19069,Yes,45.3,7,rising,1.9
+1999,"Emmet County, Iowa",19063,Yes,45.3,7,stable,0.9
+2000,"Cole County, Missouri",29051,Yes,45.3,37,stable,-0.4
+2001,"Fulton County, Ohio",39051,Yes,45.3,24,stable,0.2
+2002,"Tuscarawas County, Ohio",39157,Yes,45.3,56,stable,-0.5
+2003,"Lane County, Oregon",41039,Yes,45.3,200,falling,-4.4
+2004,"Live Oak County, Texas",48297,Yes,45.3,8,stable,-1.2
+2005,"Hutchinson County, Texas",48233,Yes,45.3,12,falling,-1.3
+2006,"Jasper County, Georgia",13159,Yes,45.2,7,stable,31.1
+2007,"Effingham County, Illinois",17049,Yes,45.2,19,stable,-0.4
+2008,"Riley County, Kansas",20161,Yes,45.2,20,stable,1.4
+2009,"Sussex County, New Jersey",34037,Yes,45.2,74,falling,-1.6
+2010,"Putnam County, New York",36079,Yes,45.2,49,falling,-1.8
+2011,"Morton County, North Dakota",38059,Yes,45.2,16,stable,-1
+2012,"Codington County, South Dakota",46029,Yes,45.2,15,stable,-0.3
+2013,"Sheboygan County, Wisconsin",55117,Yes,45.2,63,stable,0
+2014,"Marshall County, Indiana",18099,Yes,45.1,26,falling,-1.4
+2015,"Charlevoix County, Michigan",26029,Yes,45.1,18,falling,-1.7
+2016,"Woods County, Oklahoma",40151,Yes,45.1,5,**,**
+2017,"Umatilla County, Oregon",41059,Yes,45.1,37,falling,-2.6
+2018,"Clarion County, Pennsylvania",42031,Yes,45.1,23,stable,-0.2
+2019,"Dauphin County, Pennsylvania",42043,Yes,45.1,144,falling,-1.2
+2020,"Bedford City and County, Virginia",51917,Yes,45.1,47,stable,-1.1
+2021,"Klickitat County, Washington",53039,Yes,45.1,14,falling,-1.9
+2022,"DeSoto County, Florida",12027,Yes,45,22,falling,-2.3
+2023,"Rice County, Minnesota",27131,Yes,45,30,stable,-0.2
+2024,"Isanti County, Minnesota",27059,Yes,45,18,stable,0.2
+2025,"Yellowstone County, Montana",30111,Yes,45,79,falling,-3.2
+2026,"Nuckolls County, Nebraska",31129,Yes,45,4,falling,-3.2
+2027,"Adams County, Nebraska",31001,Yes,45,18,stable,-0.4
+2028,"Wood County, Ohio",39173,Yes,45,61,falling,-0.9
+2029,"Titus County, Texas",48449,Yes,45,14,falling,-2.2
+2030,"Carson County, Texas",48065,Yes,45,4,stable,-1.9
+2031,"Snohomish County, Washington",53061,Yes,45,300,falling,-1.4
+2032,"New Haven County, Connecticut",9009,Yes,44.9,467,falling,-1
+2033,"Louisa County, Iowa",19115,Yes,44.9,6,stable,1.6
+2034,"Chisago County, Minnesota",27025,Yes,44.9,24,falling,-1.8
+2035,"Merrick County, Nebraska",31121,Yes,44.9,5,stable,-1.2
+2036,"Meade County, South Dakota",46093,Yes,44.9,12,stable,-0.6
+2037,"Floyd County, Texas",48153,Yes,44.9,4,stable,-1.3
+2038,"Shawano County, Wisconsin",55115,Yes,44.9,27,stable,0
+2039,"San Joaquin County, California",6077,Yes,44.8,277,falling,-2.8
+2040,"Jefferson County, Florida",12065,Yes,44.8,9,stable,-1.5
+2041,"Jo Daviess County, Illinois",17085,Yes,44.8,17,stable,-1.2
+2042,"Allen County, Indiana",18003,Yes,44.8,163,falling,-1.6
+2043,"Covington County, Mississippi",28031,Yes,44.8,11,falling,-2
+2044,"Franklin County, Pennsylvania",42055,Yes,44.8,89,stable,-0.3
+2045,"Brown County, South Dakota",46013,Yes,44.8,22,stable,0.7
+2046,"Benton County, Washington",53005,Yes,44.8,81,falling,-1.1
+2047,"Cook County, Illinois",17031,Yes,44.7,"2,369",falling,-2.8
+2048,"McLean County, Illinois",17113,Yes,44.7,68,falling,-9.6
+2049,"Beckham County, Oklahoma",40009,Yes,44.7,10,stable,-1.2
+2050,"Yamhill County, Oregon",41071,Yes,44.7,50,falling,-3
+2051,"Winnebago County, Wisconsin",55139,Yes,44.7,85,stable,-0.5
+2052,"Polk County, Wisconsin",55095,Yes,44.7,27,stable,-1
+2053,"Grand Isle County, Vermont",50013,Yes,44.6,4,stable,-0.4
+2054,"Oglethorpe County, Georgia",13221,Yes,44.5,8,stable,-1.6
+2055,"Lucas County, Iowa",19117,Yes,44.5,6,stable,-1.4
+2056,"Tioga County, Pennsylvania",42117,Yes,44.5,27,stable,-0.3
+2057,"Somervell County, Texas",48425,Yes,44.5,5,falling,-3.2
+2058,"Richmond County, Virginia",51159,Yes,44.5,6,falling,-2.9
+2059,"Grant County, Washington",53025,Yes,44.5,39,falling,-3.9
+2060,"Chatham County, Georgia",13051,Yes,44.4,126,falling,-1.9
+2061,"Carroll County, Iowa",19027,Yes,44.4,14,stable,-0.5
+2062,"Schoharie County, New York",36095,Yes,44.4,20,stable,-16.9
+2063,"Tarrant County, Texas",48439,Yes,44.4,654,falling,-4
+2064,"Kittitas County, Washington",53037,Yes,44.4,18,falling,-1.6
+2065,"Solano County, California",6095,Yes,44.3,186,falling,-2.1
+2066,"Wayne County, Ohio",39169,Yes,44.3,62,falling,-3.1
+2067,"Goochland County, Virginia",51075,Yes,44.3,13,falling,-2.4
+2068,"Middlesex County, Connecticut",9007,Yes,44.2,96,falling,-1.4
+2069,"Claiborne Parish, Louisiana",22027,Yes,44.2,10,stable,-0.8
+2070,"Livingston County, Michigan",26093,Yes,44.2,86,falling,-1.1
+2071,"Polk County, Minnesota",27119,Yes,44.2,18,stable,-1.2
+2072,"Platte County, Missouri",29165,Yes,44.2,40,falling,-2.3
+2073,"Lincoln County, Nebraska",31111,Yes,44.2,20,stable,-0.4
+2074,"Burlington County, New Jersey",34005,Yes,44.2,232,falling,-1.8
+2075,"Herkimer County, New York",36043,Yes,44.2,39,falling,-1.3
+2076,"Ward County, North Dakota",38101,Yes,44.2,29,stable,0.5
+2077,"Shelby County, Ohio",39149,Yes,44.2,24,stable,-0.7
+2078,"Poquoson City, Virginia",51735,Yes,44.2,7,falling,-2.9
+2079,"Pointe Coupee Parish, Louisiana",22077,Yes,44.1,13,stable,-0.6
+2080,"Monroe County, Missouri",29137,Yes,44.1,6,stable,-0.9
+2081,"Delaware County, Ohio",39041,Yes,44.1,66,falling,-0.9
+2082,"Grand County, Utah",49019,Yes,44.1,5,falling,-3.1
+2083,"Lowndes County, Alabama",1085,Yes,44,6,stable,0.7
+2084,"Marshall County, Illinois",17123,Yes,44,9,stable,-0.8
+2085,"Chickasaw County, Iowa",19037,Yes,44,8,stable,0
+2086,"Silver Bow County, Montana",30093,Yes,44,20,stable,-3.7
+2087,"Powell County, Montana",30077,Yes,44,4,stable,0.1
+2088,"Dutchess County, New York",36027,Yes,44,151,falling,-1.8
+2089,"Tillamook County, Oregon",41057,Yes,44,19,stable,-1.5
+2090,"Aiken County, South Carolina",45003,Yes,44,91,falling,-3.9
+2091,"Union County, South Dakota",46127,Yes,44,8,falling,-8.6
+2092,"Greene County, Virginia",51079,Yes,44,9,falling,-2.1
+2093,"Clarke County, Alabama",1025,Yes,43.9,15,falling,-1.2
+2094,"Clinton County, Illinois",17027,Yes,43.9,20,falling,-1.7
+2095,"Houghton County, Michigan",26061,Yes,43.9,19,stable,-0.3
+2096,"Bucks County, Pennsylvania",42017,Yes,43.9,340,falling,-1.5
+2097,"Blair County, Pennsylvania",42013,Yes,43.9,79,falling,-4.4
+2098,"Lamoille County, Vermont",50015,Yes,43.9,13,stable,-0.7
+2099,"Gila County, Arizona",4007,Yes,43.8,42,falling,-1.3
+2100,"Glenn County, California",6021,Yes,43.8,14,falling,-2.6
+2101,"Columbia County, Georgia",13073,Yes,43.8,53,falling,-4.1
+2102,"Lincoln County, Maine",23015,Yes,43.8,26,falling,-1.9
+2103,"Barry County, Michigan",26015,Yes,43.8,33,stable,-0.5
+2104,"Scott County, Minnesota",27139,Yes,43.8,41,stable,-0.6
+2105,"Wadena County, Minnesota",27159,Yes,43.8,10,stable,0.2
+2106,"Suffolk County, New York",36103,Yes,43.8,751,falling,-1.9
+2107,"Skamania County, Washington",53059,Yes,43.8,6,stable,-31.5
+2108,"Gooding County, Idaho",16047,Yes,43.7,8,stable,1.1
+2109,"Bonner County, Idaho",16017,Yes,43.7,26,falling,-1.2
+2110,"Kane County, Illinois",17089,Yes,43.7,193,falling,-1.1
+2111,"Fayette County, Illinois",17051,Yes,43.7,13,stable,-1.1
+2112,"Redwood County, Minnesota",27127,Yes,43.7,11,stable,0.9
+2113,"Lake County, Minnesota",27075,Yes,43.7,8,stable,-1.5
+2114,"Columbia County, Pennsylvania",42037,Yes,43.7,38,stable,0
+2115,"Cambria County, Pennsylvania",42021,Yes,43.7,95,falling,-1.1
+2116,"Monroe County, Illinois",17133,Yes,43.6,17,falling,-1.6
+2117,"Tipton County, Indiana",18159,Yes,43.6,10,stable,-1.3
+2118,"Marion County, Iowa",19125,Yes,43.6,18,stable,-0.3
+2119,"Day County, South Dakota",46037,Yes,43.6,5,stable,0.3
+2120,"Richland County, Wisconsin",55103,Yes,43.6,11,stable,-1.9
+2121,"Huerfano County, Colorado",8055,Yes,43.5,6,stable,0.7
+2122,"Union County, Georgia",13291,Yes,43.5,18,stable,-1.6
+2123,"Henderson County, North Carolina",37089,Yes,43.5,80,falling,-1.1
+2124,"Greene County, Ohio",39057,Yes,43.5,81,falling,-2
+2125,"Yankton County, South Dakota",46135,Yes,43.5,13,stable,-0.5
+2126,"Falls County, Texas",48145,Yes,43.5,10,stable,5.5
+2127,"Wilbarger County, Texas",48487,Yes,43.5,7,stable,-1.1
+2128,"Jefferson County, Washington",53031,Yes,43.5,27,stable,-1.4
+2129,"Vernon County, Wisconsin",55123,Yes,43.5,19,stable,-0.4
+2130,"Weston County, Wyoming",56045,Yes,43.5,4,stable,1.8
+2131,"Washington County, Illinois",17189,Yes,43.4,9,stable,-0.5
+2132,"Franklin County, Virginia",51067,Yes,43.4,34,stable,-1.1
+2133,"Mariposa County, California",6043,Yes,43.3,13,stable,-1.4
+2134,"New London County, Connecticut",9011,Yes,43.3,142,falling,-3.4
+2135,"Essex County, Massachusetts",25009,Yes,43.3,390,falling,-3.2
+2136,"Harney County, Oregon",41025,Yes,43.3,5,falling,-3
+2137,"Gaines County, Texas",48165,Yes,43.3,6,stable,-0.8
+2138,"Sherburne County, Minnesota",27141,Yes,43.2,30,stable,-0.8
+2139,"Howard County, Nebraska",31093,Yes,43.2,4,stable,-0.9
+2140,"Otero County, New Mexico",35035,Yes,43.2,33,stable,-0.4
+2141,"Clackamas County, Oregon",41005,Yes,43.2,189,falling,-1.6
+2142,"Jefferson County, Oregon",41031,Yes,43.2,11,stable,0.5
+2143,"Susquehanna County, Pennsylvania",42115,Yes,43.2,27,stable,-0.5
+2144,"Grimes County, Texas",48185,Yes,43.2,14,falling,-3
+2145,"Monongalia County, West Virginia",54061,Yes,43.2,36,falling,-1.6
+2146,"Sumter County, Florida",12119,Yes,43.1,110,falling,-2.5
+2147,"Taylor County, Georgia",13269,Yes,43.1,5,stable,-2.2
+2148,"Cowley County, Kansas",20035,Yes,43.1,20,falling,-4.5
+2149,"Faribault County, Minnesota",27043,Yes,43.1,10,rising,1.8
+2150,"Adair County, Missouri",29001,Yes,43.1,12,stable,-0.6
+2151,"Holt County, Missouri",29087,Yes,43.1,3,**,**
+2152,"Richland County, Montana",30083,Yes,43.1,5,stable,-1.2
+2153,"Hale County, Texas",48189,Yes,43.1,15,stable,-0.3
+2154,"La Crosse County, Wisconsin",55063,Yes,43.1,55,falling,-0.9
+2155,"Eau Claire County, Wisconsin",55035,Yes,43.1,46,stable,0
+2156,"Choctaw County, Alabama",1023,Yes,43,9,stable,-1.6
+2157,"Ramsey County, Minnesota",27123,Yes,43,227,falling,-2.8
+2158,"Juniata County, Pennsylvania",42067,Yes,43,14,stable,-0.5
+2159,"Kitsap County, Washington",53035,Yes,43,123,falling,-1.9
+2160,"Wells County, Indiana",18179,Yes,42.9,15,falling,-2.7
+2161,"Oktibbeha County, Mississippi",28105,Yes,42.9,16,stable,-0.8
+2162,"Carroll County, New Hampshire",33003,Yes,42.9,35,falling,-2.3
+2163,"Walworth County, South Dakota",46129,Yes,42.9,4,stable,-1.1
+2164,"Bandera County, Texas",48019,Yes,42.9,15,falling,-2.2
+2165,"Barbour County, West Virginia",54001,Yes,42.9,9,falling,-2.4
+2166,"Ellsworth County, Kansas",20053,Yes,42.8,4,**,**
+2167,"Norfolk County, Massachusetts",25021,Yes,42.8,354,falling,-5
+2168,"Monmouth County, New Jersey",34025,Yes,42.8,317,falling,-3.2
+2169,"Orange County, North Carolina",37135,Yes,42.8,50,falling,-3.7
+2170,"Walsh County, North Dakota",38099,Yes,42.8,8,stable,-0.3
+2171,"Dallas County, Texas",48113,Yes,42.8,802,falling,-3.2
+2172,"Chittenden County, Vermont",50007,Yes,42.8,67,falling,-1.8
+2173,"Humboldt County, California",6023,Yes,42.7,65,falling,-2.1
+2174,"Washington County, Kansas",20201,Yes,42.7,4,stable,-1.5
+2175,"Nantucket County, Massachusetts",25019,Yes,42.7,5,falling,-3.4
+2176,"Yellow Medicine County, Minnesota",27173,Yes,42.7,6,stable,0.3
+2177,"Clay County, Minnesota",27027,Yes,42.7,25,stable,0.4
+2178,"Major County, Oklahoma",40093,Yes,42.7,5,stable,2
+2179,"Comal County, Texas",48091,Yes,42.7,61,stable,-0.9
+2180,"Roanoke County, Virginia",51161,Yes,42.7,56,stable,-0.4
+2181,"Stevens County, Washington",53065,Yes,42.7,27,stable,-1.5
+2182,"Sacramento County, California",6067,Yes,42.6,595,falling,-5.1
+2183,"Tompkins County, New York",36109,Yes,42.6,40,falling,-1
+2184,"Grand Forks County, North Dakota",38035,Yes,42.6,26,falling,-1.5
+2185,"Middlesex County, Massachusetts",25017,Yes,42.5,713,falling,-2.3
+2186,"Wright County, Minnesota",27171,Yes,42.5,44,stable,0
+2187,"Mesa County, Colorado",8077,Yes,42.4,77,falling,-1.4
+2188,"Champaign County, Illinois",17019,Yes,42.4,73,falling,-1.2
+2189,"Cameron Parish, Louisiana",22023,Yes,42.4,3,**,**
+2190,"St. Johns County, Florida",12109,Yes,42.3,107,falling,-2.6
+2191,"Adair County, Iowa",19001,Yes,42.3,5,stable,0.4
+2192,"Berks County, Pennsylvania",42011,Yes,42.3,211,falling,-1.7
+2193,"Llano County, Texas",48299,Yes,42.3,19,falling,-1.7
+2194,"Laramie County, Wyoming",56021,Yes,42.3,42,stable,-0.4
+2195,"Dukes County, Massachusetts",25007,Yes,42.2,10,stable,-1.4
+2196,"Custer County, Nebraska",31041,Yes,42.2,7,stable,1.4
+2197,"Pamlico County, North Carolina",37137,Yes,42.2,10,falling,-2.9
+2198,"Newport County, Rhode Island",44005,Yes,42.2,50,falling,-1.8
+2199,"Whatcom County, Washington",53073,Yes,42.2,95,falling,-1
+2200,"Stanislaus County, California",6099,Yes,42.1,200,falling,-1.9
+2201,"Mendocino County, California",6045,Yes,42.1,51,falling,-2.7
+2202,"Orange County, Florida",12095,Yes,42.1,424,falling,-6.1
+2203,"Choctaw County, Mississippi",28019,Yes,42.1,5,**,**
+2204,"Broome County, New York",36007,Yes,42.1,111,falling,-4.1
+2205,"Charlotte County, Virginia",51037,Yes,42.1,8,stable,-1.8
+2206,"Leon County, Florida",12073,Yes,42,98,falling,-1.7
+2207,"Twin Falls County, Idaho",16083,Yes,42,37,stable,0
+2208,"Otter Tail County, Minnesota",27111,Yes,42,39,stable,0.1
+2209,"Missoula County, Montana",30063,Yes,42,45,falling,-1.3
+2210,"Manassas Park City, Virginia",51685,Yes,42,4,stable,-3.4
+2211,"Sheridan County, Wyoming",56033,Yes,42,15,stable,-0.5
+2212,"Sarasota County, Florida",12115,Yes,41.9,366,falling,-1.9
+2213,"Clay County, Nebraska",31035,Yes,41.9,4,stable,0.7
+2214,"Valencia County, New Mexico",35061,Yes,41.9,34,stable,0
+2215,"Mecklenburg County, North Carolina",37119,Yes,41.9,314,falling,-6.5
+2216,"Midland County, Texas",48329,Yes,41.9,54,falling,-1.8
+2217,"Hamilton County, Texas",48193,Yes,41.9,7,stable,0.7
+2218,"Botetourt County, Virginia",51023,Yes,41.9,20,stable,-1.5
+2219,"Greenlee County, Arizona",4011,Yes,41.8,4,**,**
+2220,"Tolland County, Connecticut",9013,Yes,41.8,65,falling,-1.6
+2221,"Dare County, North Carolina",37055,Yes,41.8,18,falling,-3.3
+2222,"Barnes County, North Dakota",38003,Yes,41.8,7,stable,0.1
+2223,"McCormick County, South Carolina",45065,Yes,41.8,8,falling,-2.3
+2224,"Windham County, Vermont",50025,Yes,41.8,25,falling,-1.9
+2225,"Fond du Lac County, Wisconsin",55039,Yes,41.8,53,stable,0.2
+2226,"Manatee County, Florida",12081,Yes,41.7,236,falling,-1.8
+2227,"Ida County, Iowa",19093,Yes,41.7,5,**,**
+2228,"Cerro Gordo County, Iowa",19033,Yes,41.7,27,falling,-2.1
+2229,"Lamar County, Mississippi",28073,Yes,41.7,21,falling,-7.6
+2230,"Washoe County, Nevada",32031,Yes,41.7,182,falling,-7.6
+2231,"McHenry County, North Dakota",38049,Yes,41.7,4,**,**
+2232,"Union County, Oregon",41061,Yes,41.7,15,stable,-1.4
+2233,"Deaf Smith County, Texas",48117,Yes,41.7,7,stable,-0.7
+2234,"Montgomery County, Virginia",51121,Yes,41.7,33,stable,-1.2
+2235,"Hancock County, Georgia",13141,Yes,41.6,5,stable,0.9
+2236,"Clarke County, Georgia",13059,Yes,41.6,36,falling,-1.3
+2237,"Ingham County, Michigan",26065,Yes,41.6,109,falling,-1.3
+2238,"Brown County, Minnesota",27015,Yes,41.6,16,stable,1.2
+2239,"Lancaster County, Nebraska",31109,Yes,41.6,112,falling,-0.9
+2240,"Traill County, North Dakota",38097,Yes,41.6,5,rising,2
+2241,"Crook County, Oregon",41013,Yes,41.6,14,falling,-2.9
+2242,"Guadalupe County, Texas",48187,Yes,41.6,56,falling,-1.7
+2243,"Bath County, Virginia",51017,Yes,41.6,4,stable,-1.7
+2244,"Walla Walla County, Washington",53071,Yes,41.6,30,stable,-0.8
+2245,"Brown County, Wisconsin",55009,Yes,41.6,107,stable,-0.4
+2246,"Carbon County, Wyoming",56007,Yes,41.6,7,stable,-1.9
+2247,"Seminole County, Florida",12117,Yes,41.5,187,falling,-2.3
+2248,"Glades County, Florida",12043,Yes,41.5,9,falling,-2.8
+2249,"LaGrange County, Indiana",18087,Yes,41.5,15,stable,-0.7
+2250,"Clay County, Iowa",19041,Yes,41.5,10,stable,-0.3
+2251,"Barnstable County, Massachusetts",25001,Yes,41.5,175,falling,-3.8
+2252,"Osage County, Missouri",29151,Yes,41.5,7,stable,0.5
+2253,"Malheur County, Oregon",41045,Yes,41.5,15,stable,-1.5
+2254,"Adams County, Pennsylvania",42001,Yes,41.5,55,falling,-1.1
+2255,"Tom Green County, Texas",48451,Yes,41.5,52,falling,-2.1
+2256,"Natrona County, Wyoming",56025,Yes,41.5,35,falling,-2.8
+2257,"Kern County, California",6029,Yes,41.4,270,falling,-2
+2258,"Kossuth County, Iowa",19109,Yes,41.4,10,stable,1.1
+2259,"Harvey County, Kansas",20079,Yes,41.4,20,stable,0.5
+2260,"Grant County, Minnesota",27051,Yes,41.4,4,stable,1.8
+2261,"Jefferson County, Pennsylvania",42065,Yes,41.4,27,stable,-0.9
+2262,"Fremont County, Colorado",8043,Yes,41.3,28,stable,-0.6
+2263,"Posey County, Indiana",18129,Yes,41.3,13,falling,-6.9
+2264,"Dickinson County, Iowa",19059,Yes,41.3,12,stable,-1.4
+2265,"Madison Parish, Louisiana",22065,Yes,41.3,5,stable,-1.8
+2266,"Kent County, Michigan",26081,Yes,41.3,247,falling,-3.1
+2267,"Beltrami County, Minnesota",27007,Yes,41.3,20,stable,-0.5
+2268,"Jasper County, South Carolina",45053,Yes,41.3,11,stable,-2.1
+2269,"Fauquier County, Virginia",51061,Yes,41.3,30,falling,-3.2
+2270,"Morgan County, Colorado",8087,Yes,41.2,13,stable,0.4
+2271,"Kootenai County, Idaho",16055,Yes,41.2,69,falling,-2.4
+2272,"Wayne County, Iowa",19185,Yes,41.2,4,stable,-0.5
+2273,"Ringgold County, Iowa",19159,Yes,41.2,4,stable,0.4
+2274,"Douglas County, Kansas",20045,Yes,41.2,36,stable,-0.9
+2275,"Ford County, Kansas",20057,Yes,41.2,12,stable,-1
+2276,"Goodhue County, Minnesota",27049,Yes,41.2,26,stable,0.3
+2277,"Bedford County, Pennsylvania",42009,Yes,41.2,30,stable,-0.1
+2278,"Pike County, Pennsylvania",42103,Yes,41.2,32,stable,-1.3
+2279,"Rappahannock County, Virginia",51157,Yes,41.2,5,stable,-0.7
+2280,"Door County, Wisconsin",55029,Yes,41.2,21,stable,0
+2281,"Green County, Wisconsin",55045,Yes,41.2,19,stable,-0.3
+2282,"Macon County, Alabama",1087,Yes,41.1,10,stable,-13.8
+2283,"Merced County, California",6047,Yes,41.1,85,falling,-2.2
+2284,"Karnes County, Texas",48255,Yes,41.1,7,stable,-1.5
+2285,"Mills County, Texas",48333,Yes,41.1,4,stable,0.7
+2286,"Monroe County, Georgia",13207,Yes,41,13,falling,-3
+2287,"Story County, Iowa",19169,Yes,41,32,stable,-0.3
+2288,"Hamilton County, Iowa",19079,Yes,41,9,stable,-1.4
+2289,"Miami County, Kansas",20121,Yes,41,15,stable,-1.1
+2290,"Oakland County, Michigan",26125,Yes,41,567,falling,-4
+2291,"Luna County, New Mexico",35029,Yes,41,15,stable,-0.1
+2292,"Lehigh County, Pennsylvania",42077,Yes,41,178,falling,-3.6
+2293,"Austin County, Texas",48015,Yes,41,15,stable,-1.2
+2294,"Randolph County, Georgia",13243,Yes,40.9,5,stable,-0.6
+2295,"Macon County, Missouri",29121,Yes,40.9,10,stable,0
+2296,"Douglas County, Nevada",32005,Yes,40.9,32,stable,-0.7
+2297,"Chaves County, New Mexico",35005,Yes,40.9,31,stable,-1.1
+2298,"Hood River County, Oregon",41027,Yes,40.9,10,stable,-0.8
+2299,"Prince William County, Virginia",51153,Yes,40.9,107,falling,-2.7
+2300,"Canyon County, Idaho",16027,Yes,40.8,72,stable,-0.3
+2301,"Grand Traverse County, Michigan",26055,Yes,40.8,45,falling,-1.7
+2302,"Dakota County, Minnesota",27037,Yes,40.8,148,falling,-1
+2303,"Platte County, Nebraska",31141,Yes,40.8,16,stable,1
+2304,"Lea County, New Mexico",35025,Yes,40.8,24,falling,-2
+2305,"Polk County, North Carolina",37149,Yes,40.8,15,falling,-1.3
+2306,"McCulloch County, Texas",48307,Yes,40.8,6,stable,-0.8
+2307,"Tulare County, California",6107,Yes,40.7,145,falling,-1.6
+2308,"Clearwater County, Idaho",16035,Yes,40.7,6,stable,-1.5
+2309,"Meeker County, Minnesota",27093,Yes,40.7,13,stable,0.9
+2310,"Oregon County, Missouri",29149,Yes,40.7,7,stable,-0.9
+2311,"Green Lake County, Wisconsin",55047,Yes,40.7,12,stable,0.7
+2312,"Napa County, California",6055,Yes,40.6,70,falling,-1.6
+2313,District of Columbia (State),11001,Yes,40.6,240,falling,-2.5
+2314,"Lemhi County, Idaho",16059,Yes,40.6,6,stable,-1
+2315,"Iowa County, Iowa",19095,Yes,40.6,9,stable,0
+2316,"Cedar County, Iowa",19031,Yes,40.6,10,stable,0
+2317,"Plymouth County, Iowa",19149,Yes,40.6,14,stable,0.6
+2318,"Frederick County, Maryland",24021,Yes,40.6,95,falling,-1.8
+2319,"Fillmore County, Nebraska",31059,Yes,40.6,4,**,**
+2320,"Gage County, Nebraska",31067,Yes,40.6,13,stable,-0.5
+2321,"Converse County, Wyoming",56009,Yes,40.6,6,falling,-2.7
+2322,"Martin County, Florida",12085,Yes,40.5,124,falling,-2
+2323,"Decatur County, Iowa",19053,Yes,40.5,5,stable,-0.3
+2324,"Madison County, Nebraska",31119,Yes,40.5,17,stable,-0.7
+2325,"Goshen County, Wyoming",56015,Yes,40.5,8,stable,-0.5
+2326,"Hartford County, Connecticut",9003,Yes,40.4,439,falling,-5
+2327,"Madison County, Iowa",19121,Yes,40.4,8,stable,-0.7
+2328,"Calhoun County, Iowa",19025,Yes,40.4,7,stable,-0.7
+2329,"McLeod County, Minnesota",27085,Yes,40.4,18,stable,1.5
+2330,"Pondera County, Montana",30073,Yes,40.4,3,stable,0.8
+2331,"Washington County, Nebraska",31177,Yes,40.4,10,stable,-1.4
+2332,"Torrance County, New Mexico",35057,Yes,40.4,9,stable,-1.7
+2333,"Montgomery County, Pennsylvania",42091,Yes,40.4,408,stable,-6.2
+2334,"Gonzales County, Texas",48177,Yes,40.4,10,falling,-2
+2335,"Grant County, West Virginia",54023,Yes,40.4,7,stable,-0.1
+2336,"Montrose County, Colorado",8085,Yes,40.3,24,stable,-0.8
+2337,"Yuma County, Colorado",8125,Yes,40.3,5,**,**
+2338,"Cobb County, Georgia",13067,Yes,40.3,223,falling,-2.2
+2339,"Rockdale County, Georgia",13247,Yes,40.3,32,falling,-5.6
+2340,"Payette County, Idaho",16075,Yes,40.3,11,stable,-1.2
+2341,"Dubois County, Indiana",18037,Yes,40.3,20,stable,-0.7
+2342,"Wright County, Iowa",19197,Yes,40.3,9,stable,-0.5
+2343,"Midland County, Michigan",26111,Yes,40.3,42,falling,-1.3
+2344,"Aitkin County, Minnesota",27001,Yes,40.3,13,falling,-2.2
+2345,"Harris County, Texas",48201,Yes,40.3,"1,243",falling,-3.1
+2346,"Fairfax City, Virginia",51600,Yes,40.3,11,falling,-3.2
+2347,"Wood County, Wisconsin",55141,Yes,40.3,42,stable,-0.1
+2348,"Calaveras County, California",6009,Yes,40.2,31,falling,-2.1
+2349,"Fayette County, Iowa",19065,Yes,40.2,13,stable,-0.7
+2350,"Finney County, Kansas",20055,Yes,40.2,11,falling,-1.9
+2351,"Washington County, Minnesota",27163,Yes,40.2,91,falling,-1.8
+2352,"Kandiyohi County, Minnesota",27067,Yes,40.2,22,stable,0.6
+2353,"Big Horn County, Wyoming",56003,Yes,40.2,7,falling,-10.6
+2354,"Lake County, Illinois",17097,Yes,40.1,257,falling,-1.8
+2355,"Edgefield County, South Carolina",45037,Yes,40.1,11,stable,-1.4
+2356,"Talbot County, Maryland",24041,Yes,40,28,stable,-0.7
+2357,"Prince Georges County, Maryland",24033,Yes,40,299,falling,-3.5
+2358,"Dodge County, Minnesota",27039,Yes,40,8,rising,2.3
+2359,"Cumberland County, Pennsylvania",42041,Yes,40,123,falling,-1.5
+2360,"Calhoun County, South Carolina",45017,Yes,40,8,stable,-0.2
+2361,"Platte County, Wyoming",56031,Yes,40,6,stable,-1.6
+2362,"Lee County, Florida",12071,Yes,39.9,441,falling,-2.1
+2363,"Russell County, Kansas",20167,Yes,39.9,5,stable,-1.2
+2364,"Hampshire County, Massachusetts",25015,Yes,39.9,68,falling,-1.6
+2365,"Howard County, Missouri",29089,Yes,39.9,5,stable,-1.4
+2366,"Elko County, Nevada",32007,Yes,39.9,15,stable,-1.6
+2367,"Texas County, Oklahoma",40139,Yes,39.9,7,stable,-1.9
+2368,"Carroll County, Indiana",18015,Yes,39.8,10,stable,0
+2369,"Mercer County, Ohio",39107,Yes,39.8,21,stable,-0.2
+2370,"Waukesha County, Wisconsin",55133,Yes,39.8,191,stable,-0.4
+2371,"Antelope County, Nebraska",31003,Yes,39.7,4,**,**
+2372,"Grant County, Wisconsin",55043,Yes,39.7,26,stable,-0.2
+2373,"Sitka Borough, Alaska",2220,Yes,39.6,3,**,**
+2374,"Washington County, Iowa",19183,Yes,39.6,12,stable,0.6
+2375,"Johnson County, Kansas",20091,Yes,39.6,210,falling,-1.3
+2376,"Morrison County, Minnesota",27097,Yes,39.6,17,stable,0.5
+2377,"Blue Earth County, Minnesota",27013,Yes,39.6,25,stable,0
+2378,"Shelby County, Missouri",29205,Yes,39.6,3,stable,-2.1
+2379,"Outagamie County, Wisconsin",55087,Yes,39.6,72,falling,-1.3
+2380,"McIntosh County, Georgia",13191,Yes,39.5,8,falling,-2.1
+2381,"Rosebud County, Montana",30087,Yes,39.5,3,stable,-1.9
+2382,"Victoria County, Texas",48469,Yes,39.5,38,falling,-2.5
+2383,"Pecos County, Texas",48371,Yes,39.5,6,stable,-2.1
+2384,"Washington County, Wisconsin",55131,Yes,39.5,61,stable,-0.6
+2385,"Red River Parish, Louisiana",22081,Yes,39.4,4,stable,-0.1
+2386,"Chester County, Pennsylvania",42029,Yes,39.4,219,falling,-1.8
+2387,"Fluvanna County, Virginia",51065,Yes,39.4,13,stable,-1.8
+2388,"Hardy County, West Virginia",54031,Yes,39.4,8,stable,-1.2
+2389,"Kendall County, Illinois",17093,Yes,39.3,32,stable,-1.2
+2390,"O'Brien County, Iowa",19141,Yes,39.3,9,stable,0.5
+2391,"Tama County, Iowa",19171,Yes,39.3,10,stable,-0.6
+2392,"Washtenaw County, Michigan",26161,Yes,39.3,123,falling,-1.8
+2393,"Pope County, Minnesota",27121,Yes,39.3,7,stable,-0.9
+2394,"Passaic County, New Jersey",34031,Yes,39.3,202,falling,-1.7
+2395,"Lubbock County, Texas",48303,Yes,39.3,102,falling,-5.7
+2396,"Pottawatomie County, Kansas",20149,Yes,39.2,9,stable,-1
+2397,"Freeborn County, Minnesota",27047,Yes,39.2,19,stable,-0.1
+2398,"Benton County, Oregon",41003,Yes,39.2,35,falling,-1.6
+2399,"Wharton County, Texas",48481,Yes,39.2,19,stable,-17.2
+2400,"Rockingham County, Virginia",51165,Yes,39.2,40,stable,-0.1
+2401,"Gilmer County, Georgia",13123,Yes,39.1,16,falling,-3.3
+2402,"Phelps County, Nebraska",31137,Yes,39.1,5,**,**
+2403,"San Bernardino County, California",6071,Yes,39,625,falling,-3.3
+2404,"Adams County, Colorado",8001,Yes,39,133,**,**
+2405,"Beaufort County, South Carolina",45013,Yes,39,96,falling,-1.7
+2406,"Clinton County, Michigan",26037,Yes,38.9,33,falling,-1.9
+2407,"Hall County, Nebraska",31079,Yes,38.9,25,falling,-1.6
+2408,"Seminole County, Georgia",13253,Yes,38.8,5,**,**
+2409,"Benton County, Minnesota",27009,Yes,38.8,15,stable,-1.3
+2410,"Carver County, Minnesota",27019,Yes,38.8,28,stable,-0.2
+2411,"Wake County, North Carolina",37183,Yes,38.8,274,falling,-1.8
+2412,"Bristol County, Rhode Island",44001,Yes,38.8,27,falling,-18.4
+2413,"Manassas City, Virginia",51683,Yes,38.8,10,stable,-2.1
+2414,"Floyd County, Virginia",51063,Yes,38.8,8,stable,-0.3
+2415,"Dane County, Wisconsin",55025,Yes,38.8,174,falling,-0.7
+2416,"Litchfield County, Connecticut",9005,Yes,38.7,99,falling,-1.2
+2417,"Broward County, Florida",12011,Yes,38.7,827,falling,-4.4
+2418,"DuPage County, Illinois",17043,Yes,38.7,362,falling,-1.5
+2419,"Jefferson County, Wisconsin",55055,Yes,38.7,36,stable,-1.1
+2420,"Norman County, Minnesota",27107,Yes,38.6,5,stable,0
+2421,"Grafton County, New Hampshire",33009,Yes,38.6,44,falling,-1.4
+2422,"Douglas County, Washington",53017,Yes,38.6,17,stable,-1
+2423,"Portage County, Wisconsin",55097,Yes,38.6,30,stable,0
+2424,"Fremont County, Wyoming",56013,Yes,38.6,19,stable,-1.6
+2425,"Grand County, Colorado",8049,Yes,38.5,4,**,**
+2426,"Mower County, Minnesota",27099,Yes,38.5,22,stable,-0.9
+2427,"Chatham County, North Carolina",37037,Yes,38.5,39,stable,-1.1
+2428,"Lancaster County, Pennsylvania",42071,Yes,38.5,249,falling,-1.2
+2429,"Franklin County, Washington",53021,Yes,38.5,19,falling,-6
+2430,"Sonoma County, California",6097,Yes,38.4,223,falling,-1.9
+2431,"Cottonwood County, Minnesota",27033,Yes,38.4,7,stable,0.6
+2432,"DeKalb County, Missouri",29063,Yes,38.4,6,stable,-2.2
+2433,"Manitowoc County, Wisconsin",55071,Yes,38.4,44,stable,-0.7
+2434,"Fulton County, Georgia",13121,Yes,38.3,298,falling,-3.7
+2435,"Boise County, Idaho",16015,Yes,38.3,3,**,**
+2436,"Eddy County, New Mexico",35015,Yes,38.3,24,falling,-1.8
+2437,"Polk County, Oregon",41053,Yes,38.3,36,falling,-1
+2438,"Chelan County, Washington",53007,Yes,38.3,36,falling,-2.4
+2439,"Mercer County, New Jersey",34021,Yes,38.2,152,falling,-1.9
+2440,"Snyder County, Pennsylvania",42109,Yes,38.2,19,stable,0
+2441,"Crosby County, Texas",48107,Yes,38.2,3,stable,-1
+2442,"Washakie County, Wyoming",56043,Yes,38.2,5,stable,0.4
+2443,"Yavapai County, Arizona",4025,Yes,38.1,151,falling,-1.6
+2444,"Osceola County, Florida",12097,Yes,38.1,102,falling,-2.4
+2445,"Minidoka County, Idaho",16067,Yes,38.1,9,stable,-0.7
+2446,"Douglas County, Minnesota",27041,Yes,38.1,21,stable,-0.5
+2447,"Nueces County, Texas",48355,Yes,38.1,134,falling,-2.9
+2448,"Randall County, Texas",48381,Yes,38.1,49,falling,-1
+2449,"Pepin County, Wisconsin",55091,Yes,38.1,4,stable,0.3
+2450,"Le Sueur County, Minnesota",27079,Yes,38,13,stable,0.2
+2451,"Todd County, Minnesota",27153,Yes,38,13,falling,-5.5
+2452,"Gasconade County, Missouri",29073,Yes,38,9,falling,-2.3
+2453,"Lac qui Parle County, Minnesota",27073,Yes,37.9,5,stable,0
+2454,"Andrew County, Missouri",29003,Yes,37.9,9,stable,-0.3
+2455,"Keith County, Nebraska",31101,Yes,37.9,5,stable,-1.4
+2456,"Centre County, Pennsylvania",42027,Yes,37.9,56,falling,-1.2
+2457,"Brookings County, South Dakota",46011,Yes,37.9,10,stable,0.3
+2458,"St. Croix County, Wisconsin",55109,Yes,37.9,29,falling,-1.9
+2459,"Broomfield County, Colorado",8014,Yes,37.8,18,**,**
+2460,"Pulaski County, Georgia",13235,Yes,37.8,6,stable,-2.9
+2461,"DeKalb County, Georgia",13089,Yes,37.8,216,falling,-2.1
+2462,"Winona County, Minnesota",27169,Yes,37.8,22,stable,-1.4
+2463,"Hunterdon County, New Jersey",34019,Yes,37.8,55,falling,-2.2
+2464,"Bottineau County, North Dakota",38009,Yes,37.8,5,**,**
+2465,"Ferry County, Washington",53019,Yes,37.8,4,stable,-2.9
+2466,"La Paz County, Arizona<sup>3</sup>",4012,Yes,37.7,18,stable,-0.5
+2467,"Sac County, Iowa",19161,Yes,37.7,6,stable,0.5
+2468,"Ellis County, Kansas",20051,Yes,37.7,12,stable,-1.5
+2469,"Deschutes County, Oregon",41017,Yes,37.7,74,falling,-1.4
+2470,"Marathon County, Wisconsin",55073,Yes,37.7,61,stable,0
+2471,"Tuolumne County, California",6109,Yes,37.6,35,falling,-2
+2472,"Ada County, Idaho",16001,Yes,37.6,136,falling,-1.4
+2473,"Marshall County, Kansas",20117,Yes,37.5,6,stable,0.4
+2474,"Lyon County, Minnesota",27083,Yes,37.5,11,stable,0.6
+2475,"Noble County, Ohio",39121,Yes,37.5,9,stable,-0.2
+2476,"Lawrence County, South Dakota",46081,Yes,37.5,12,stable,-1.3
+2477,"Gillespie County, Texas",48171,Yes,37.5,19,stable,-0.3
+2478,"Lake County, Montana",30047,Yes,37.4,15,falling,-1.9
+2479,"Nemaha County, Nebraska",31127,Yes,37.4,4,stable,-0.6
+2480,"Denton County, Texas",48121,Yes,37.4,169,falling,-2.7
+2481,"Pima County, Arizona",4019,Yes,37.3,464,falling,-1.9
+2482,"Las Animas County, Colorado",8071,Yes,37.3,8,stable,0.7
+2483,"Moffat County, Colorado",8081,Yes,37.3,5,**,**
+2484,"Palm Beach County, Florida",12099,Yes,37.3,852,falling,-2.5
+2485,"Greene County, Georgia",13133,Yes,37.3,10,stable,-2
+2486,"Gwinnett County, Georgia",13135,Yes,37.3,200,falling,-4.1
+2487,"Cass County, North Dakota",38017,Yes,37.3,50,falling,-1.8
+2488,"Calumet County, Wisconsin",55015,Yes,37.3,18,stable,-1.4
+2489,"Maricopa County, Arizona",4013,Yes,37.2,"1,463",falling,-2.5
+2490,"Latah County, Idaho",16057,Yes,37.2,12,stable,-0.1
+2491,"Roosevelt County, New Mexico",35041,Yes,37.2,7,stable,0.2
+2492,"Transylvania County, North Carolina",37175,Yes,37.2,23,falling,-2
+2493,"Brazos County, Texas",48041,Yes,37.2,47,falling,-2
+2494,"Iowa County, Wisconsin",55049,Yes,37.2,11,stable,-1.4
+2495,"Riverside County, California",6065,Yes,37.1,808,falling,-3.6
+2496,"Clayton County, Iowa",19043,Yes,37.1,10,stable,-1.3
+2497,"Seward County, Kansas",20175,Yes,37.1,7,stable,-1.6
+2498,"Essex County, New Jersey",34013,Yes,37.1,289,falling,-2.9
+2499,"Woodward County, Oklahoma",40153,Yes,37.1,9,stable,-1.1
+2500,"Somerset County, Pennsylvania",42111,Yes,37.1,43,stable,0
+2501,"Dawson County, Texas",48115,Yes,37.1,6,stable,-1.3
+2502,"Rockbridge County, Virginia",51163,Yes,37.1,14,stable,-2.1
+2503,"Cochise County, Arizona",4003,Yes,37,65,falling,-2.1
+2504,"Madera County, California",6039,Yes,37,53,falling,-2
+2505,"Shelby County, Iowa",19165,Yes,37,7,stable,0.8
+2506,"Middlesex County, New Jersey",34023,Yes,37,319,falling,-3.1
+2507,"York County, Virginia",51199,Yes,37,25,falling,-3.3
+2508,"Davis County, Iowa",19051,Yes,36.9,4,stable,-0.1
+2509,"Kanabec County, Minnesota",27065,Yes,36.9,8,stable,-1.2
+2510,"Butler County, Nebraska",31023,Yes,36.9,5,stable,-2.1
+2511,"Dawson County, Nebraska",31047,Yes,36.9,10,stable,-1.3
+2512,"Waller County, Texas",48473,Yes,36.9,15,falling,-2.7
+2513,"Pueblo County, Colorado",8101,Yes,36.8,74,falling,-1.1
+2514,"Mercer County, North Dakota",38057,Yes,36.8,4,stable,-1.6
+2515,"Indiana County, Pennsylvania",42063,Yes,36.8,42,falling,-1.2
+2516,"Union County, Pennsylvania",42119,Yes,36.8,20,stable,-0.4
+2517,"Kleberg County, Texas",48273,Yes,36.8,11,stable,-1.2
+2518,"Galax City, Virginia",51640,Yes,36.8,4,stable,-2.7
+2519,"Johnson County, Iowa",19103,Yes,36.7,37,stable,-0.8
+2520,"Dallas County, Iowa",19049,Yes,36.7,22,falling,-1.9
+2521,"Curry County, New Mexico",35009,Yes,36.7,17,stable,-1.3
+2522,"Putnam County, Ohio",39137,Yes,36.7,15,stable,-0.9
+2523,"Collin County, Texas",48085,Yes,36.7,207,falling,-2.1
+2524,"Swisher County, Texas",48437,Yes,36.7,4,**,**
+2525,"Pierce County, Wisconsin",55093,Yes,36.7,14,stable,-1.1
+2526,"Jones County, Iowa",19105,Yes,36.6,11,stable,-1
+2527,"Medina County, Texas",48325,Yes,36.6,20,stable,-1.4
+2528,"Inyo County, California",6027,Yes,36.5,11,falling,-2
+2529,"Plumas County, California",6063,Yes,36.5,12,falling,-2.2
+2530,"Elbert County, Colorado",8039,Yes,36.5,7,stable,-1.9
+2531,"Wilson County, Kansas",20205,Yes,36.5,5,stable,-1.9
+2532,"Hudson County, New Jersey",34017,Yes,36.5,206,falling,-2.7
+2533,"Williamson County, Tennessee",47187,Yes,36.5,60,falling,-2.7
+2534,"Summers County, West Virginia",54089,Yes,36.5,8,falling,-2.7
+2535,"Cherry County, Nebraska",31031,Yes,36.4,3,stable,-0.6
+2536,"King County, Washington",53033,Yes,36.4,681,falling,-3.7
+2537,"Idaho County, Idaho",16049,Yes,36.3,10,stable,-0.3
+2538,"Cherokee County, Iowa",19035,Yes,36.3,8,stable,0.4
+2539,"Franklin County, Massachusetts",25011,Yes,36.3,35,stable,-1.2
+2540,"Fresno County, California",6019,Yes,36.2,291,falling,-1.8
+2541,"Denver County, Colorado",8031,Yes,36.2,196,falling,-1.4
+2542,"Lincoln County, Minnesota",27081,Yes,36.2,4,stable,-2.6
+2543,"Contra Costa County, California",6013,Yes,36.1,404,falling,-2
+2544,"Hays County, Texas",48209,Yes,36.1,44,falling,-2
+2545,"San Diego County, California",6073,Yes,36,"1,097",falling,-2.6
+2546,"Kit Carson County, Colorado",8063,Yes,36,4,stable,-0.2
+2547,"Buffalo County, Nebraska",31019,Yes,36,16,stable,-1.6
+2548,"Socorro County, New Mexico",35053,Yes,35.9,7,stable,0.3
+2549,"Wilson County, Texas",48493,Yes,35.9,18,falling,-1.9
+2550,"Jerome County, Idaho",16053,Yes,35.8,7,stable,-2.3
+2551,"Union County, New Jersey",34039,Yes,35.8,207,falling,-1.8
+2552,"El Paso County, Colorado",8041,Yes,35.7,196,falling,-1.5
+2553,"Howard County, Iowa",19089,Yes,35.7,5,stable,0.5
+2554,"Hennepin County, Minnesota",27053,Yes,35.7,411,falling,-6.2
+2555,"Tillman County, Oklahoma",40141,Yes,35.7,4,stable,1.1
+2556,"Turner County, South Dakota",46125,Yes,35.7,4,stable,-1.2
+2557,"Lake County, South Dakota",46079,Yes,35.6,6,falling,-8.4
+2558,"Pendleton County, West Virginia",54071,Yes,35.6,5,stable,0.1
+2559,"Pocahontas County, Iowa",19151,Yes,35.5,5,stable,-1.1
+2560,"Nicollet County, Minnesota",27103,Yes,35.5,12,stable,-0.2
+2561,"Dixon County, Nebraska",31051,Yes,35.5,3,**,**
+2562,"Wallowa County, Oregon",41063,Yes,35.5,4,**,**
+2563,"Williamson County, Texas",48491,Yes,35.5,122,falling,-2.6
+2564,"Castro County, Texas",48069,Yes,35.5,3,**,**
+2565,"Lafayette County, Wisconsin",55065,Yes,35.5,8,stable,-1.5
+2566,"Boundary County, Idaho",16021,Yes,35.4,5,stable,-1.9
+2567,"Butler County, Iowa",19023,Yes,35.4,8,stable,-0.6
+2568,"Renville County, Minnesota",27129,Yes,35.4,8,stable,0.5
+2569,"Jim Wells County, Texas",48249,Yes,35.4,16,falling,-2.4
+2570,"Washington County, Texas",48477,Yes,35.4,17,falling,-2
+2571,"Allamakee County, Iowa",19005,Yes,35.3,8,**,**
+2572,"Somerset County, New Jersey",34035,Yes,35.3,122,falling,-2.1
+2573,"Graham County, North Carolina",37075,Yes,35.3,5,falling,-2.6
+2574,"Moore County, Tennessee",47127,Yes,35.3,3,**,**
+2575,"Weld County, Colorado",8123,Yes,35.2,76,**,**
+2576,"Palo Alto County, Iowa",19147,Yes,35.2,5,stable,-0.6
+2577,"Stearns County, Minnesota",27145,Yes,35.2,55,falling,-0.8
+2578,"Franklin County, Mississippi",28037,Yes,35.2,4,**,**
+2579,"Geauga County, Ohio",39055,Yes,35.2,43,falling,-1.9
+2580,"Willacy County, Texas",48489,Yes,35.2,7,stable,-0.9
+2581,"McLean County, North Dakota",38055,Yes,35.1,5,stable,-2
+2582,"Washington County, Oregon",41067,Yes,35.1,167,falling,-2
+2583,"Delta County, Colorado",8029,Yes,35,17,falling,-2
+2584,"Forsyth County, Georgia",13117,Yes,35,51,falling,-2.5
+2585,"Hockley County, Texas",48219,Yes,35,8,falling,-4.3
+2586,"Roberts County, South Dakota",46109,Yes,34.9,5,stable,-0.8
+2587,"Duchesne County, Utah",49013,Yes,34.9,6,**,**
+2588,"Modoc County, California",6049,Yes,34.8,5,stable,-1.6
+2589,"Morris County, New Jersey",34027,Yes,34.8,201,falling,-3.8
+2590,"Nassau County, New York",36059,Yes,34.8,605,falling,-2.5
+2591,"Rockwall County, Texas",48397,Yes,34.8,24,falling,-3.7
+2592,"San Luis Obispo County, California",6079,Yes,34.7,120,falling,-2.2
+2593,"Bergen County, New Jersey",34003,Yes,34.7,402,falling,-2.2
+2594,"Kauai County, Hawaii",15007,Yes,34.6,30,**,**
+2595,"Jefferson County, Iowa",19101,Yes,34.6,7,stable,-0.4
+2596,"Scotts Bluff County, Nebraska",31157,Yes,34.6,17,stable,-0.9
+2597,"Greene County, Alabama",1063,Yes,34.5,5,stable,-1
+2598,"Fairfield County, Connecticut",9001,Yes,34.5,365,falling,-2.6
+2599,"Bronx County, New York",36005,Yes,34.5,438,falling,-1.8
+2600,"Charles Mix County, South Dakota",46023,Yes,34.5,4,stable,-2.9
+2601,"Bexar County, Texas",48029,Yes,34.5,528,falling,-2.3
+2602,"Carbon County, Utah",49007,Yes,34.5,8,stable,0
+2603,"Dunn County, Wisconsin",55033,Yes,34.5,16,stable,0.9
+2604,"Juneau Borough, Alaska",2110,Yes,34.4,8,falling,-3.7
+2605,"San Francisco County, California",6075,Yes,34.4,324,falling,-2.2
+2606,"Kings County, California",6031,Yes,34.4,37,falling,-1.5
+2607,"McPherson County, Kansas",20113,Yes,34.4,15,stable,0.4
+2608,"San Miguel County, New Mexico",35047,Yes,34.4,12,stable,-0.3
+2609,"Burleigh County, North Dakota",38015,Yes,34.4,32,stable,-0.4
+2610,"Erath County, Texas",48143,Yes,34.4,14,falling,-8.5
+2611,"Yolo County, California",6113,Yes,34.3,60,falling,-2.9
+2612,"Placer County, California",6061,Yes,34.3,154,falling,-4.5
+2613,"El Dorado County, California",6017,Yes,34.3,79,falling,-3.8
+2614,"Oconee County, Georgia",13219,Yes,34.3,11,falling,-2.7
+2615,"Loudoun County, Virginia",51107,Yes,34.2,67,falling,-2.9
+2616,"Park County, Wyoming",56029,Yes,34.2,14,stable,-1.8
+2617,"Fayette County, Georgia",13113,Yes,34.1,40,falling,-1.8
+2618,"Hamilton County, Nebraska",31081,Yes,34.1,4,stable,-1.6
+2619,"Cuming County, Nebraska",31039,Yes,34.1,5,stable,-1.8
+2620,"Albemarle County, Virginia",51003,Yes,34.1,41,falling,-1.7
+2621,"Pennington County, Minnesota",27113,Yes,34,6,stable,-1.8
+2622,"James City County, Virginia",51095,Yes,34,37,falling,-2.1
+2623,"Sioux County, Iowa",19167,Yes,33.9,13,stable,0.8
+2624,"Westchester County, New York",36119,Yes,33.9,397,falling,-1.9
+2625,"Lavaca County, Texas",48285,Yes,33.9,11,stable,-1
+2626,"Graham County, Arizona",4009,Yes,33.8,12,falling,-10.5
+2627,"Banks County, Georgia",13011,Yes,33.8,7,stable,-1.7
+2628,"Dona Ana County, New Mexico",35013,Yes,33.8,72,falling,-1.2
+2629,"Lincoln County, South Dakota",46083,Yes,33.8,12,stable,0
+2630,"Arapahoe County, Colorado",8005,Yes,33.7,177,falling,-1.3
+2631,"Roosevelt County, Montana",30085,Yes,33.7,3,stable,-1.7
+2632,"Pinal County, Arizona",4021,Yes,33.6,146,falling,-5.6
+2633,"Hamilton County, Indiana",18057,Yes,33.6,73,falling,-2.7
+2634,"Crawford County, Iowa",19047,Yes,33.6,8,stable,21.4
+2635,"Grundy County, Iowa",19075,Yes,33.5,6,stable,1.1
+2636,"Murray County, Minnesota",27101,Yes,33.5,5,stable,0.5
+2637,"Watauga County, North Carolina",37189,Yes,33.5,17,stable,-1.3
+2638,"Clark County, Wisconsin",55019,Yes,33.5,14,stable,-0.2
+2639,"Alameda County, California",6001,Yes,33.4,495,falling,-3.9
+2640,"Flathead County, Montana",30029,Yes,33.4,38,falling,-2.1
+2641,"Kings County, New York",36047,Yes,33.4,824,stable,0.3
+2642,"Brewster County, Texas",48043,Yes,33.4,4,**,**
+2643,"Hawaii County, Hawaii",15001,Yes,33.3,79,**,**
+2644,"Steele County, Minnesota",27147,Yes,33.3,15,stable,-0.1
+2645,"Lake County, Oregon",41037,Yes,33.3,4,falling,-3.3
+2646,"Grant County, South Dakota",46051,Yes,33.3,3,stable,-1.3
+2647,"Fayette County, Texas",48149,Yes,33.3,14,stable,-1.3
+2648,"Pawnee County, Kansas",20145,Yes,33.2,3,stable,-2.2
+2649,"Hill County, Montana",30041,Yes,33.2,6,falling,-28.9
+2650,"Richland County, North Dakota",38077,Yes,33.2,6,stable,-0.2
+2651,"Bee County, Texas",48025,Yes,33.2,9,falling,-2.5
+2652,"Kewaunee County, Wisconsin",55061,Yes,33.2,9,stable,-0.3
+2653,"Colfax County, Nebraska",31037,Yes,33.1,4,stable,-0.7
+2654,"Ravalli County, Montana",30081,Yes,33,21,falling,-2.3
+2655,"Duval County, Texas",48131,Yes,33,5,falling,-2.9
+2656,"Honolulu County, Hawaii",15003,Yes,32.9,377,**,**
+2657,"Adams County, Indiana",18001,Yes,32.9,13,stable,-0.7
+2658,"Rockland County, New York",36087,Yes,32.9,116,falling,-2
+2659,"Custer County, South Dakota",46033,Yes,32.9,5,falling,-4
+2660,"Uvalde County, Texas",48463,Yes,32.7,10,falling,-3.6
+2661,"Orange County, California",6059,Yes,32.6,979,falling,-2.7
+2662,"Conejos County, Colorado",8021,Yes,32.6,3,**,**
+2663,"Travis County, Texas",48453,Yes,32.6,230,falling,-7.5
+2664,"Bannock County, Idaho",16005,Yes,32.5,25,falling,-1.3
+2665,"Ozaukee County, Wisconsin",55089,Yes,32.5,37,falling,-1.3
+2666,"Stark County, North Dakota",38089,Yes,32.4,10,stable,-0.4
+2667,"Island County, Washington",53029,Yes,32.4,38,falling,-12.4
+2668,"Olmsted County, Minnesota",27109,Yes,32.3,50,falling,-1.3
+2669,"Seward County, Nebraska",31159,Yes,32.2,7,stable,-0.2
+2670,"New York County, New York",36061,Yes,32.2,573,falling,-2
+2671,"Ottawa County, Michigan",26139,Yes,32.1,86,stable,-0.4
+2672,"Montour County, Pennsylvania",42093,Yes,32,8,stable,0.4
+2673,"Bingham County, Idaho",16011,Yes,31.9,15,stable,0.1
+2674,"Lincoln County, New Mexico",35027,Yes,31.9,11,stable,0
+2675,"Fort Bend County, Texas",48157,Yes,31.9,132,falling,-3
+2676,"Atascosa County, Texas",48013,Yes,31.9,16,falling,-2.7
+2677,"Frio County, Texas",48163,Yes,31.9,5,stable,-1.3
+2678,"Poweshiek County, Iowa",19157,Yes,31.8,9,stable,-0.4
+2679,"Hutchinson County, South Dakota",46067,Yes,31.8,4,stable,-1.3
+2680,"Monterey County, California",6053,Yes,31.7,121,falling,-2.3
+2681,"Fremont County, Idaho",16043,Yes,31.7,5,**,**
+2682,"Bremer County, Iowa",19017,Yes,31.7,10,stable,-1.7
+2683,"Whitman County, Washington",53075,Yes,31.7,11,stable,-1.1
+2684,"Leelanau County, Michigan",26089,Yes,31.5,13,falling,-2.8
+2685,"Nevada County, California",6057,Yes,31.4,50,falling,-3
+2686,"Madison County, Montana",30057,Yes,31.3,4,**,**
+2687,"Val Verde County, Texas",48465,Yes,31.3,15,falling,-3.2
+2688,"Jefferson County, Idaho",16051,Yes,31.2,7,**,**
+2689,"Box Butte County, Nebraska",31013,Yes,31.2,5,stable,-0.9
+2690,"Bernalillo County, New Mexico",35001,Yes,31.2,216,falling,-1.5
+2691,"Los Angeles County, California",6037,Yes,31.1,"2,876",falling,-4.7
+2692,"Martin County, Minnesota",27091,Yes,31.1,11,stable,0.2
+2693,"Lamb County, Texas",48279,Yes,31.1,5,stable,-0.8
+2694,"Navajo County, Arizona",4017,Yes,31,35,falling,-1.3
+2695,"Montezuma County, Colorado",8083,Yes,31,12,falling,-2.6
+2696,"Humboldt County, Iowa",19091,Yes,31,5,stable,-2
+2697,"Yuma County, Arizona<sup>3</sup>",4027,Yes,30.9,74,falling,-6.5
+2698,"Sandoval County, New Mexico",35043,Yes,30.9,42,falling,-1.8
+2699,"Worth County, Iowa",19195,Yes,30.7,4,stable,-1.3
+2700,"Beadle County, South Dakota",46005,Yes,30.7,8,stable,-1.1
+2701,"Hughes County, South Dakota",46065,Yes,30.7,6,falling,-2.5
+2702,"Chaffee County, Colorado",8015,Yes,30.6,8,stable,-2.1
+2703,"Houston County, Minnesota",27055,Yes,30.6,9,stable,-1.1
+2704,"Alamosa County, Colorado",8003,Yes,30.5,5,stable,1.6
+2705,"Jefferson County, Colorado",8059,Yes,30.5,179,**,**
+2706,"Collier County, Florida",12021,Yes,30.5,194,falling,-2.5
+2707,"San Mateo County, California",6081,Yes,30.4,254,falling,-3.9
+2708,"Logan County, Colorado",8075,Yes,30.4,8,stable,0.2
+2709,"Queens County, New York",36081,Yes,30.4,740,falling,-2
+2710,"Ventura County, California",6111,Yes,30.3,250,falling,-3.9
+2711,"Rock County, Minnesota",27133,Yes,30.3,5,**,**
+2712,"Rio Arriba County, New Mexico",35039,Yes,30.3,14,stable,0.9
+2713,"San Juan County, New Mexico",35045,Yes,30.1,36,falling,-1.5
+2714,"Fillmore County, Minnesota",27045,Yes,30,10,stable,-0.5
+2715,"Grant County, New Mexico",35017,Yes,30,15,falling,-2
+2716,"San Benito County, California",6069,Yes,29.9,15,falling,-2.3
+2717,"Miami-Dade County, Florida",12086,Yes,29.9,885,falling,-2.3
+2718,"Lee County, Texas",48287,Yes,29.9,6,stable,-1.4
+2719,"Adams County, Washington",53001,Yes,29.9,5,falling,-2.3
+2720,"Johnson County, Wyoming",56019,Yes,29.9,4,stable,-2.5
+2721,"Larimer County, Colorado",8069,Yes,29.8,92,falling,-1.3
+2722,"Dooly County, Georgia",13093,Yes,29.8,5,falling,-10
+2723,"Grant County, Oregon",41023,Yes,29.8,4,falling,-3.6
+2724,"Bullock County, Alabama",1011,Yes,29.7,4,stable,-1.2
+2725,"Marin County, California",6041,Yes,29.7,106,falling,-2.7
+2726,"Stillwater County, Montana",30095,Yes,29.7,4,**,**
+2727,"Nemaha County, Kansas",20131,Yes,29.6,5,stable,-0.6
+2728,"Chippewa County, Minnesota",27023,Yes,29.6,6,stable,-1.1
+2729,"Kendall County, Texas",48259,Yes,29.5,14,falling,-2.7
+2730,"Taylor County, Wisconsin",55119,Yes,29.4,8,stable,-0.8
+2731,"Santa Barbara County, California",6083,Yes,29.3,134,falling,-8.6
+2732,"Otero County, Colorado",8089,Yes,29.3,8,falling,-2.3
+2733,"Teton County, Wyoming",56039,Yes,29.1,5,stable,-0.9
+2734,"Albany County, Wyoming",56001,Yes,29.1,8,falling,-1.9
+2735,"Dawes County, Nebraska",31045,Yes,28.9,4,**,**
+2736,"Tooele County, Utah",49045,Yes,28.9,12,stable,-1.9
+2737,"Howard County, Maryland",24027,Yes,28.8,74,falling,-3.2
+2738,"Williamsburg City, Virginia",51830,Yes,28.7,4,falling,-4.2
+2739,"Maui County, Hawaii",15009,Yes,28.6,51,**,**
+2740,"Santa Cruz County, California",6087,Yes,28.4,74,falling,-5.1
+2741,"Buena Vista County, Iowa",19021,Yes,28.4,7,stable,-0.2
+2742,"Sweetwater County, Wyoming",56037,Yes,28.4,9,falling,-2
+2743,"Beaverhead County, Montana",30001,Yes,28.3,4,stable,-2.2
+2744,"York County, Nebraska",31185,Yes,28.2,5,falling,-3.5
+2745,"Cedar County, Nebraska",31027,Yes,28.2,4,stable,-1.6
+2746,"Blanco County, Texas",48031,Yes,28.2,5,falling,-3.7
+2747,"Valley County, Idaho",16085,Yes,27.8,4,stable,-3.3
+2748,"Gallatin County, Montana",30031,Yes,27.8,21,stable,-0.9
+2749,"Santa Clara County, California",6085,Yes,27.6,472,falling,-4.6
+2750,"Taos County, New Mexico",35055,Yes,27.5,13,stable,-0.9
+2751,"Imperial County, California",6025,Yes,27,42,falling,-3.8
+2752,"Jackson County, Minnesota",27063,Yes,27,5,stable,0.1
+2753,"Cassia County, Idaho",16031,Yes,26.9,6,**,**
+2754,"Marion County, Kansas",20115,Yes,26.8,5,stable,-0.9
+2755,"Lincoln County, Wyoming",56023,Yes,26.8,5,stable,0.9
+2756,"Nobles County, Minnesota",27105,Yes,26.6,8,stable,-1.5
+2757,"Kingman County, Kansas",20095,Yes,26.5,3,stable,-1.3
+2758,"Teller County, Colorado",8119,Yes,26.4,8,falling,-3.9
+2759,"Alexandria City, Virginia",51510,Yes,26.4,33,falling,-3.2
+2760,"Holmes County, Ohio",39075,Yes,26.3,11,stable,-1.6
+2761,"Arlington County, Virginia",51013,Yes,26.3,43,falling,-2.7
+2762,"Garfield County, Colorado",8045,Yes,26.1,11,falling,-2.5
+2763,"Delaware County, Iowa",19055,Yes,25.7,6,falling,-2.4
+2764,"Coconino County, Arizona",4005,Yes,25.6,26,stable,-1.4
+2765,"Fairfax County, Virginia",51059,Yes,25.6,242,falling,-6.8
+2766,"Park County, Colorado",8093,Yes,25.5,4,stable,-1.8
+2767,"Bonneville County, Idaho",16019,Yes,25.4,24,stable,-0.4
+2768,"Camden County, North Carolina",37029,Yes,25.4,3,falling,-15.1
+2769,"Starr County, Texas",48427,Yes,25.4,13,stable,-1.4
+2770,"Weber County, Utah",49057,Yes,25.4,51,stable,-0.6
+2771,"Colfax County, New Mexico",35007,Yes,25.3,6,falling,-3.3
+2772,"Falls Church City, Virginia",51610,Yes,25.1,3,falling,-5.4
+2773,"Montgomery County, Maryland",24031,Yes,25,263,falling,-2.7
+2774,"Mitchell County, Iowa",19131,Yes,24.8,5,falling,-3.4
+2775,"Cibola County, New Mexico",35006,Yes,24.7,7,stable,-1.7
+2776,"La Plata County, Colorado",8067,Yes,24.6,13,falling,-8.8
+2777,"Lyon County, Iowa",19119,Yes,24.4,3,**,**
+2778,"Boulder County, Colorado",8013,Yes,24.3,65,**,**
+2779,"Routt County, Colorado",8107,Yes,24.3,4,falling,-4.2
+2780,"El Paso County, Texas",48141,Yes,24.3,169,falling,-4.7
+2781,"Uintah County, Utah",49047,Yes,24.3,6,stable,-0.9
+2782,"Douglas County, Colorado",8035,Yes,24,48,falling,-14
+2783,"Cameron County, Texas",48061,Yes,24,89,falling,-2.5
+2784,"San Juan County, Washington",53055,Yes,23.9,7,stable,-1.6
+2785,"Reeves County, Texas",48389,Yes,23.6,3,**,**
+2786,"Santa Cruz County, Arizona",4023,Yes,23.1,12,stable,-1.5
+2787,"Maverick County, Texas",48323,Yes,23.1,10,stable,-1.6
+2788,"Wasatch County, Utah",49051,Yes,23.1,4,**,**
+2789,"Santa Fe County, New Mexico",35049,Yes,23,42,falling,-1.4
+2790,"Park County, Montana",30067,Yes,22.8,5,falling,-10.2
+2791,"Archuleta County, Colorado",8007,Yes,22.7,4,**,**
+2792,"Hidalgo County, Texas",48215,Yes,22.5,137,falling,-2
+2793,"Washington County, Utah",49053,Yes,22.5,41,falling,-1.8
+2794,"Winneshiek County, Iowa",19191,Yes,22.2,7,stable,-1.7
+2795,"Salt Lake County, Utah",49035,Yes,22.1,177,falling,-1.3
+2796,"Uinta County, Wyoming",56041,Yes,22.1,4,stable,-2.2
+2797,"Summit County, Colorado",8117,Yes,21.6,3,**,**
+2798,"Carbon County, Montana",30009,Yes,21.3,4,falling,-2.8
+2799,"Sevier County, Utah",49041,Yes,21.3,5,stable,-0.8
+2800,"Rio Grande County, Colorado",8105,Yes,21,3,**,**
+2801,"Webb County, Texas",48479,Yes,20.7,35,falling,-2.1
+2802,"Iron County, Utah",49021,Yes,19.7,7,stable,-1.5
+2803,"Sanpete County, Utah",49039,Yes,18.8,5,stable,-1
+2804,"Apache County, Arizona",4001,Yes,17.7,12,stable,1.3
+2805,"Box Elder County, Utah",49003,Yes,17.6,8,stable,1.1
+2806,"Davis County, Utah",49011,Yes,17.2,38,falling,-3.2
+2807,"Los Alamos County, New Mexico",35028,Yes,15.8,4,stable,-2.9
+2808,"Eagle County, Colorado",8037,Yes,14.9,5,falling,-4.9
+2809,"Summit County, Utah",49043,Yes,14.4,4,**,**
+2810,"Utah County, Utah",49049,Yes,12.4,37,falling,-2.8
+2811,"McKinley County, New Mexico",35031,Yes,11.6,7,falling,-3.2
+2812,"Cache County, Utah",49005,Yes,9.2,7,stable,-0.7
